@@ -1,0 +1,99 @@
+{
+  "name": "Minuto da Oração — Oração do Dia e Santo do Dia",
+  "short_name": "Minuto da Oração",
+  "description": "Portal católico com oração do dia, santo do dia, pedidos de oração e loja católica.",
+  "start_url": "/?utm_source=pwa&utm_medium=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#a2cff1",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["lifestyle", "news", "education"],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-maskable-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Oração do Dia",
+      "short_name": "Oração",
+      "url": "/oracao-do-dia/?utm_source=pwa&utm_medium=shortcut",
+      "description": "Reze a oração do dia com reflexão e versículo",
+      "icons": [{ "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-96x96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Santo do Dia",
+      "short_name": "Santo",
+      "url": "/santo-do-dia/?utm_source=pwa&utm_medium=shortcut",
+      "description": "Conheça o santo celebrado hoje pela Igreja",
+      "icons": [{ "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-96x96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Mural de Oração",
+      "short_name": "Mural",
+      "url": "/mural-de-oracoes/?utm_source=pwa&utm_medium=shortcut",
+      "description": "Ore pelos pedidos da comunidade",
+      "icons": [{ "src": "https://raw.githubusercontent.com/dudyfarias/minuto-da-oracao-data/main/icons/icon-96x96.png", "sizes": "96x96" }]
+    }
+  ]
+}
