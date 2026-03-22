@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Maria S.",
+    "texto": "Peço orações pela saúde do meu pai que está internado. Que Deus o cubra com Seu manto de cura.",
+    "data": "22/03/2025",
+    "oracoes": 15
+  },
+  {
+    "id": 2,
+    "nome": "João P.",
+    "texto": "Estou passando por um momento difícil no trabalho. Peço forças e sabedoria para superar.",
+    "data": "22/03/2025",
+    "oracoes": 8
+  },
+  {
+    "id": 3,
+    "nome": "Ana Clara",
+    "texto": "Peço oração pela minha família. Que Deus traga união e paz ao nosso lar.",
+    "data": "22/03/2025",
+    "oracoes": 22
+  },
+  {
+    "id": 4,
+    "nome": "Carlos R.",
+    "texto": "Senhor, peço proteção para os meus filhos. Que andem sempre nos Teus caminhos.",
+    "data": "21/03/2025",
+    "oracoes": 12
+  },
+  {
+    "id": 5,
+    "nome": "Francisca L.",
+    "texto": "Peço orações pela cura da minha mãe que está lutando contra o câncer. Cremos no milagre.",
+    "data": "21/03/2025",
+    "oracoes": 45
+  },
+  {
+    "id": 6,
+    "nome": "Roberto M.",
+    "texto": "Estou desempregado há 6 meses. Peço que Deus abra portas e me dê uma oportunidade.",
+    "data": "20/03/2025",
+    "oracoes": 19
+  }
+]
