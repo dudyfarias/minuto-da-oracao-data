@@ -79,6 +79,18 @@
   // Twitter site
   injectMeta('twitter:site', '@minutodaoracao');
 
+  // llms.txt links for AI crawler discoverability
+  function injectLink(rel, href, type) {
+    if (document.querySelector('link[href="' + href + '"]')) return;
+    var link = document.createElement('link');
+    link.rel = rel;
+    link.href = href;
+    if (type) link.type = type;
+    document.head.appendChild(link);
+  }
+  injectLink('llms', 'https://cdn.jsdelivr.net/gh/dudyfarias/minuto-da-oracao-data@main/llms.txt', 'text/plain');
+  injectLink('llms-full', 'https://cdn.jsdelivr.net/gh/dudyfarias/minuto-da-oracao-data@main/llms-full.txt', 'text/plain');
+
   var path = window.location.pathname;
   var isHome = (path === '/' || path === '');
 
