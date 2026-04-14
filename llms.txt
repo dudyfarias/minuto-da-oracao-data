@@ -1,0 +1,38 @@
+# Minuto da Oracao
+
+> Portal catolico brasileiro com oracao do dia, santo do dia, pedidos de oracao, liturgia diaria e loja de produtos religiosos. Atualizado diariamente.
+
+## Conteudo Principal
+- [Oracao do Dia](https://www.minutodaoracao.com.br/oracao-do-dia/): Oracao diaria com reflexao e versiculo biblico, atualizada todo dia
+- [Santo do Dia](https://www.minutodaoracao.com.br/santo-do-dia/): Historia, vida e oracao do santo celebrado hoje
+- [Pedido de Oracao](https://www.minutodaoracao.com.br/pedido-de-oracao/): Envie intencoes para a comunidade rezar por voce
+- [Mural de Oracoes](https://www.minutodaoracao.com.br/mural-de-oracoes/): Mural comunitario de pedidos de oracao
+- [Noticias](https://www.minutodaoracao.com.br/noticias/): Noticias sobre Igreja Catolica, Papa e fe
+
+## Oracoes por Necessidade
+- [Oracao da Manha](https://www.minutodaoracao.com.br/oracao-da-manha/): Oracoes para comecar o dia com Deus
+- [Oracao de Protecao](https://www.minutodaoracao.com.br/oracao-de-protecao/): Oracoes de protecao espiritual e fisica
+- [Oracao para Ansiedade](https://www.minutodaoracao.com.br/oracao-para-ansiedade/): Oracoes para paz interior e alivio da ansiedade
+- [Oracao para Familia](https://www.minutodaoracao.com.br/oracao-para-familia/): Oracoes por unidade, paz e protecao familiar
+- [Oracao para Prosperidade](https://www.minutodaoracao.com.br/oracao-para-prosperidade/): Oracoes por provisao e prosperidade
+- [Oracao para Cura](https://www.minutodaoracao.com.br/oracao-para-cura/): Oracoes por cura fisica e espiritual
+- [Oracao pelo Casamento](https://www.minutodaoracao.com.br/oracao-pelo-casamento/): Oracoes pela vida conjugal
+- [Oracao pelos Filhos](https://www.minutodaoracao.com.br/oracao-pelos-filhos/): Oracoes de protecao e bencao pelos filhos
+- [Oracao de Gratidao](https://www.minutodaoracao.com.br/oracao-de-gratidao/): Oracoes de agradecimento a Deus
+- [Oracao para Luto](https://www.minutodaoracao.com.br/oracao-para-luto/): Oracoes de consolo e esperanca no luto
+
+## Sobre
+- [Quem Somos](https://www.minutodaoracao.com.br/quem-somos/): Missao, valores e equipe do Minuto da Oracao
+- [Perguntas Frequentes](https://www.minutodaoracao.com.br/perguntas-frequentes/): Duvidas comuns sobre o portal
+
+## Loja Catolica
+- [Todos os Produtos](https://www.minutodaoracao.com.br/produtos/): Tercos, imagens, camisetas, biblias e artigos religiosos
+- [Tercos e Medalhas](https://www.minutodaoracao.com.br/tercos-e-medalhas/)
+- [Imagens Sacras](https://www.minutodaoracao.com.br/imagens/)
+- [Livros e Biblias](https://www.minutodaoracao.com.br/livros/)
+- [Roupas](https://www.minutodaoracao.com.br/roupas/)
+
+## Contato
+- Email: contato@minutodaoracao.com.br
+- Instagram: @minutodaoracao
+- YouTube: @MinutodaOracaooficial

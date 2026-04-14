@@ -1,0 +1,83 @@
+# Minuto da Oracao
+
+> Portal catolico brasileiro com oracao do dia, santo do dia, pedidos de oracao, liturgia diaria e loja de produtos religiosos. Fundado por Eduardo Farias Cappia, o portal atende milhares de fieis brasileiros com conteudo diario atualizado sobre fe, espiritualidade e vida crista. Atualizado diariamente.
+
+## Conteudo Principal
+
+- [Oracao do Dia](https://www.minutodaoracao.com.br/oracao-do-dia/)
+  Pagina principal do portal com a oracao diaria, incluindo texto completo da oracao, reflexao espiritual baseada na liturgia do dia e versiculo biblico. Atualizada diariamente antes das 6h da manha. Ideal para quem busca uma oracao para rezar hoje.
+
+- [Santo do Dia](https://www.minutodaoracao.com.br/santo-do-dia/)
+  Historia completa, vida e oracao do santo ou beato celebrado pela Igreja Catolica no dia de hoje. Inclui biografia, curiosidades, patronato e oracao especifica ao santo. Conteudo atualizado diariamente conforme o calendario liturgico.
+
+- [Pedido de Oracao](https://www.minutodaoracao.com.br/pedido-de-oracao/)
+  Formulario para enviar intencoes de oracao a comunidade do Minuto da Oracao. Os pedidos sao acolhidos e rezados pela comunidade. Um espaco de acolhimento e solidariedade espiritual para quem precisa de oracao.
+
+- [Mural de Oracoes](https://www.minutodaoracao.com.br/mural-de-oracoes/)
+  Mural comunitario onde fieis compartilham pedidos de oracao e rezam uns pelos outros. Espaco de intercessao e comunhao onde cada fiel pode encontrar pedidos para rezar e sentir-se parte de uma comunidade orante.
+
+- [Noticias](https://www.minutodaoracao.com.br/noticias/)
+  Noticias atualizadas sobre a Igreja Catolica, Papa Francisco, eventos eclesiais, canonizacoes, documentos papais e reflexoes sobre fe e sociedade. Cobertura de eventos importantes do mundo catolico.
+
+## Oracoes por Necessidade
+
+- [Oracao da Manha](https://www.minutodaoracao.com.br/oracao-da-manha/)
+  Colecao de oracoes para comecar o dia em dialogo com Deus. Inclui oracoes tradicionais como o Oferecimento do Dia, oracoes de consagracao matinal e oracoes para oferecer o dia ao Sagrado Coracao de Jesus.
+
+- [Oracao de Protecao](https://www.minutodaoracao.com.br/oracao-de-protecao/)
+  Oracoes de protecao espiritual e fisica, incluindo oracoes a Sao Miguel Arcanjo, oracoes contra o mal, oracoes de protecao para a casa e a familia. Para quem busca amparo divino em momentos de vulnerabilidade.
+
+- [Oracao para Ansiedade](https://www.minutodaoracao.com.br/oracao-para-ansiedade/)
+  Oracoes especificas para quem sofre de ansiedade, medo e angustia. Textos que ajudam a encontrar paz interior, entregar preocupacoes a Deus e confiar na Providencia Divina. Inclui meditacoes e versiculos de conforto.
+
+- [Oracao para Familia](https://www.minutodaoracao.com.br/oracao-para-familia/)
+  Oracoes por unidade familiar, paz no lar, conversao de familiares e protecao da familia. Inclui oracoes para reconciliacao, para casais em crise, para pais e filhos, e para a protecao do lar.
+
+- [Oracao para Prosperidade](https://www.minutodaoracao.com.br/oracao-para-prosperidade/)
+  Oracoes por provisao divina, trabalho, abertura de caminhos e prosperidade segundo a vontade de Deus. Para quem enfrenta dificuldades financeiras ou busca orientacao profissional com fe.
+
+- [Oracao para Cura](https://www.minutodaoracao.com.br/oracao-para-cura/)
+  Oracoes por cura fisica e espiritual, incluindo oracoes de cura interior, oracoes pelos doentes e oracoes pela saude. Textos de fe e esperanca para quem enfrenta enfermidades.
+
+- [Oracao pelo Casamento](https://www.minutodaoracao.com.br/oracao-pelo-casamento/)
+  Oracoes pela vida conjugal, pelo sacramento do matrimonio, por casais em dificuldade e por quem busca um companheiro(a) de vida na fe. Inclui oracoes de Santo Expedito e Sagrada Familia.
+
+- [Oracao pelos Filhos](https://www.minutodaoracao.com.br/oracao-pelos-filhos/)
+  Oracoes de maes e pais por seus filhos, pedindo protecao, sabedoria, saude e fe. Inclui oracoes por filhos que se afastaram da fe, por filhos em idade escolar e por filhos adultos.
+
+- [Oracao de Gratidao](https://www.minutodaoracao.com.br/oracao-de-gratidao/)
+  Oracoes de agradecimento e louvor a Deus por gracas recebidas. Textos para cultivar o habito da gratidao diaria, reconhecendo as bencaos de Deus na vida cotidiana.
+
+- [Oracao para Luto](https://www.minutodaoracao.com.br/oracao-para-luto/)
+  Oracoes de consolo e esperanca para quem perdeu um ente querido. Inclui oracoes pelos fieis defuntos, oracoes de consolo, textos sobre a esperanca crista na vida eterna e o Requiem.
+
+## Sobre
+
+- [Quem Somos](https://www.minutodaoracao.com.br/quem-somos/)
+  Pagina institucional do Minuto da Oracao com a missao do portal, historia de fundacao, valores cristãos que norteiam o trabalho e informacoes sobre o fundador Eduardo Farias Cappia e sua equipe.
+
+- [Perguntas Frequentes](https://www.minutodaoracao.com.br/perguntas-frequentes/)
+  Respostas as duvidas mais comuns dos visitantes sobre o portal, como enviar pedidos de oracao, como funciona a loja, politica de trocas, e informacoes sobre o conteudo diario.
+
+## Loja Catolica
+
+- [Todos os Produtos](https://www.minutodaoracao.com.br/produtos/)
+  Loja online com artigos religiosos catolicos selecionados: tercos artesanais, medalhas de santos, imagens sacras, biblias, livros de espiritualidade, camisetas com mensagens de fe e acessorios para devocao.
+
+- [Tercos e Medalhas](https://www.minutodaoracao.com.br/tercos-e-medalhas/)
+  Tercos artesanais de diferentes materiais e medalhas de santos populares. Inclui tercos de Sao Bento, Nossa Senhora Aparecida, medalha milagrosa e tercos para primeira comunhao.
+
+- [Imagens Sacras](https://www.minutodaoracao.com.br/imagens/)
+  Imagens e estatuas de santos, Nossa Senhora, Jesus Cristo e anjos para devocao domestica. Pecas em resina, gesso e outros materiais de qualidade.
+
+- [Livros e Biblias](https://www.minutodaoracao.com.br/livros/)
+  Biblias catolicas, livros de espiritualidade, devocao mariana, vidas de santos e formacao crista. Selecao curada para crescimento na fe.
+
+- [Roupas](https://www.minutodaoracao.com.br/roupas/)
+  Camisetas e vestuario com mensagens de fe, frases biblicas e arte religiosa. Moda catolica para expressar a fe no dia a dia.
+
+## Contato
+- Email: contato@minutodaoracao.com.br
+- Instagram: @minutodaoracao
+- YouTube: @MinutodaOracaooficial
+- Site: https://www.minutodaoracao.com.br
