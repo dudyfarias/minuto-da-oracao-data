@@ -1,7 +1,8 @@
 /**
- * Minuto da Oracao — Script Bundle v3
+ * Minuto da Oracao — Script Bundle v4
  * 1) Novena PDF Download Fix (variant C)
- * 2) GEO Schemas Injection (Organization, Article, BreadcrumbList, FAQPage)
+ * 2) Noscript Fallback + Meta Update (daily.json)
+ * 3) GEO Schemas Injection (Organization, Article, BreadcrumbList, FAQPage, Person)
  */
 
 /* ====== PART 1: Novena PDF Download Fix ====== */
@@ -282,6 +283,30 @@
         {"@type": "Question", "name": "Qual a política de trocas e devoluções?", "acceptedAnswer": {"@type": "Answer", "text": "Você tem até 7 dias após o recebimento para solicitar troca ou devolução, conforme o Código de Defesa do Consumidor. Entre em contato pelo email contato@minutodaoracao.com.br com o número do pedido e o motivo da solicitação."}},
         {"@type": "Question", "name": "O Minuto da Oração é ligado a alguma diocese ou paróquia?", "acceptedAnswer": {"@type": "Answer", "text": "O Minuto da Oração é um apostolado leigo independente, fundado por Eduardo Farias Cappia. Embora não seja oficialmente vinculado a uma diocese específica, todo o conteúdo segue fielmente a doutrina da Igreja Católica Apostólica Romana."}}
       ]
+    });
+  }
+
+  // Person Schema (author page /quem-somos/)
+  if (path.indexOf('/quem-somos') === 0) {
+    injectSchema({
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": SITE_URL + "/quem-somos/#author",
+      "name": AUTHOR_NAME,
+      "alternateName": "Dudy Farias",
+      "jobTitle": "Fundador e Editor",
+      "description": "Fundador e editor do Minuto da Oração, portal católico brasileiro com oração do dia, santo do dia e artigos religiosos. Católico praticante dedicado a levar a oração ao dia a dia de milhares de brasileiros.",
+      "url": SITE_URL + "/quem-somos/",
+      "image": "https://cdn.jsdelivr.net/gh/dudyfarias/minuto-da-oracao-data@main/images/eduardo-autor.webp",
+      "email": EMAIL,
+      "worksFor": {"@type": "Organization", "@id": SITE_URL + "/#organization", "name": SITE_NAME},
+      "sameAs": [
+        "https://www.linkedin.com/in/eduardo-farias-cappia-b9a159145/",
+        "https://www.instagram.com/minutodaoracao/",
+        "https://www.youtube.com/@MinutodaOracaooficial",
+        "https://www.tiktok.com/@minutodaoracao"
+      ],
+      "knowsAbout": ["Catolicismo", "Oracoes Catolicas", "Santos Catolicos", "Liturgia Diaria", "Hagiografia", "Devocao Mariana", "Catecismo da Igreja Catolica", "Espiritualidade Crista"]
     });
   }
 
