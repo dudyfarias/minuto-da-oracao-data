@@ -212,7 +212,10 @@
       "sameAs": [
         "https://www.instagram.com/minutodaoracao/",
         "https://www.youtube.com/@MinutodaOracaooficial",
-        "https://www.tiktok.com/@minutodaoracao"
+        "https://www.tiktok.com/@minutodaoracao",
+        "https://www.linkedin.com/company/minuto-da-ora%C3%A7%C3%A3o/",
+        "https://www.facebook.com/minutodaoracaooficial",
+        "https://x.com/minutodaoracao"
       ],
       "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "email": EMAIL, "availableLanguage": "Portuguese"},
       "knowsAbout": ["Catolicismo", "Oracoes Catolicas", "Santos Catolicos", "Liturgia Diaria", "Produtos Religiosos", "Devocao Mariana"],
