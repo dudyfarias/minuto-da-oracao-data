@@ -1,0 +1,54 @@
+name: Conteudo diario (oracao + santo do dia)
+
+# Gera daily.json e os blocos noscript/ todo dia e, se mudou, commita e
+# limpa o cache da CDN jsDelivr. Substitui a atualizacao manual.
+# Seguranca: nenhum run usa input nao-confiavel (github.event.*).
+
+on:
+  schedule:
+    - cron: "10 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-content
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar conteudo do dia
+        run: python3 scripts/generate-daily.py
+
+      - name: Commitar se houver mudanca
+        id: commit
+        run: |
+          git config user.name "MDO Bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain daily.json noscript/)" ]; then
+            git add daily.json noscript/
+            git commit -m "Conteudo do dia $(date -u +%Y-%m-%d) [automatico]"
+            git push
+            echo "mudou=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Sem mudancas no conteudo."
+            echo "mudou=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Limpar cache da CDN jsDelivr
+        if: steps.commit.outputs.mudou == 'true'
+        run: |
+          for f in daily.json noscript/oracao-do-dia.html noscript/santo-do-dia.html; do
+            curl -s -o /dev/null -w "purge $f -> %{http_code}\n" "https://purge.jsdelivr.net/gh/dudyfarias/minuto-da-oracao-data@main/$f"
+          done
