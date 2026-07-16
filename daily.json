@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "oracao": {
-    "titulo": "Oração de entrega",
-    "texto": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
-    "reflexao": "Entregar-se a Deus é o ato mais corajoso que um ser humano pode fazer. É confiar sem reservas.",
-    "versiculo": "1 Pedro 5,7 — Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós."
+    "titulo": "Oração pela Igreja",
+    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
+    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
+    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
   },
   "santo": {
-    "nome": "São Boaventura",
-    "titulo": "Doutor da Igreja",
-    "resumo": "Teólogo franciscano e cardeal.",
-    "historia": "Teólogo franciscano e cardeal.\n\nSão Boaventura é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Boaventura nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Boaventura, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Nossa Senhora do Carmo",
+    "titulo": "Devoção",
+    "resumo": "Celebração de Nossa Senhora do Monte Carmelo.",
+    "historia": "Celebração de Nossa Senhora do Monte Carmelo.\n\nNossa Senhora do Carmo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora do Carmo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Nossa Senhora do Carmo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de entrega — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
-      "og_title": "Oração de entrega",
+      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
+      "og_title": "Oração pela Igreja",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-15"
+      "date": "2026-07-16"
     },
     "santo": {
-      "title": "São Boaventura — Santo do Dia | Minuto da Oração",
-      "description": "Teólogo franciscano e cardeal.",
-      "og_title": "São Boaventura — Doutor da Igreja",
+      "title": "Nossa Senhora do Carmo — Santo do Dia | Minuto da Oração",
+      "description": "Celebração de Nossa Senhora do Monte Carmelo.",
+      "og_title": "Nossa Senhora do Carmo — Devoção",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-15"
+      "date": "2026-07-16"
     }
   }
 }
