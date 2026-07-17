@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "oracao": {
-    "titulo": "Oração pela Igreja",
-    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
-    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
-    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
+    "titulo": "Oração de proteção",
+    "texto": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os meus caminhos.",
+    "reflexao": "Deus é o nosso refúgio e fortaleza. Não precisamos temer quando estamos sob a Sua proteção.",
+    "versiculo": "Salmo 91,11 — Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
   },
   "santo": {
-    "nome": "Nossa Senhora do Carmo",
-    "titulo": "Devoção",
-    "resumo": "Celebração de Nossa Senhora do Monte Carmelo.",
-    "historia": "Celebração de Nossa Senhora do Monte Carmelo.\n\nNossa Senhora do Carmo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora do Carmo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Nossa Senhora do Carmo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santas Rufina e Segunda",
+    "titulo": "Mártires",
+    "resumo": "Irmãs romanas martirizadas.",
+    "historia": "Irmãs romanas martirizadas.\n\nSantas Rufina e Segunda é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santas Rufina e Segunda nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santas Rufina e Segunda, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
-      "og_title": "Oração pela Igreja",
+      "title": "Oração de proteção — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os...",
+      "og_title": "Oração de proteção",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-16"
+      "date": "2026-07-17"
     },
     "santo": {
-      "title": "Nossa Senhora do Carmo — Santo do Dia | Minuto da Oração",
-      "description": "Celebração de Nossa Senhora do Monte Carmelo.",
-      "og_title": "Nossa Senhora do Carmo — Devoção",
+      "title": "Santas Rufina e Segunda — Santo do Dia | Minuto da Oração",
+      "description": "Irmãs romanas martirizadas.",
+      "og_title": "Santas Rufina e Segunda — Mártires",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-16"
+      "date": "2026-07-17"
     }
   }
 }
