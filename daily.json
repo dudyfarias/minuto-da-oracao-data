@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "oracao": {
-    "titulo": "Oração de proteção",
-    "texto": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os meus caminhos.",
-    "reflexao": "Deus é o nosso refúgio e fortaleza. Não precisamos temer quando estamos sob a Sua proteção.",
-    "versiculo": "Salmo 91,11 — Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
+    "titulo": "Oração de humildade",
+    "texto": "Senhor Jesus, que sendo Deus Te fizeste servo, ensina-me a ser humilde. Que eu não busque a glória pessoal, mas somente a Tua glória. Tira de mim todo orgulho e vaidade.",
+    "reflexao": "A humildade não é pensar menos de si mesmo, mas pensar menos em si mesmo. É colocar Deus e o próximo em primeiro lugar.",
+    "versiculo": "Filipenses 2,5-7 — Tende em vós o mesmo sentimento que houve em Cristo Jesus."
   },
   "santo": {
-    "nome": "Santas Rufina e Segunda",
-    "titulo": "Mártires",
-    "resumo": "Irmãs romanas martirizadas.",
-    "historia": "Irmãs romanas martirizadas.\n\nSantas Rufina e Segunda é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santas Rufina e Segunda nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santas Rufina e Segunda, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Frederico",
+    "titulo": "Bispo e Mártir",
+    "resumo": "Bispo de Utrecht martirizado.",
+    "historia": "Bispo de Utrecht martirizado.\n\nSão Frederico é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Frederico nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Frederico, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de proteção — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os...",
-      "og_title": "Oração de proteção",
+      "title": "Oração de humildade — Oração do Dia | Minuto da Oração",
+      "description": "Senhor Jesus, que sendo Deus Te fizeste servo, ensina-me a ser humilde. Que eu não busque a glória pessoal, mas somente a Tua glória. Tira de mim todo...",
+      "og_title": "Oração de humildade",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-17"
+      "date": "2026-07-18"
     },
     "santo": {
-      "title": "Santas Rufina e Segunda — Santo do Dia | Minuto da Oração",
-      "description": "Irmãs romanas martirizadas.",
-      "og_title": "Santas Rufina e Segunda — Mártires",
+      "title": "São Frederico — Santo do Dia | Minuto da Oração",
+      "description": "Bispo de Utrecht martirizado.",
+      "og_title": "São Frederico — Bispo e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-17"
+      "date": "2026-07-18"
     }
   }
 }
