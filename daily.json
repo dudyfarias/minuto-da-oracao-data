@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "oracao": {
-    "titulo": "Oração pelo Brasil",
-    "texto": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país mais justo e fraterno.",
-    "reflexao": "Orar pela nação é um dever de todo cristão. O Brasil precisa das nossas orações e do nosso empenho por um futuro melhor.",
-    "versiculo": "Jeremias 29,7 — Buscai a paz da cidade para onde vos deportei e orai por ela ao Senhor."
+    "titulo": "Oração pela vocação",
+    "texto": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a qual fui criado.",
+    "reflexao": "Cada pessoa tem uma vocação única. Descobri-la é encontrar o sentido mais profundo da vida.",
+    "versiculo": "Jeremias 1,5 — Antes que Eu te formasse no ventre materno, Eu te conheci."
   },
   "santo": {
-    "nome": "Santa Macrina",
-    "titulo": "Virgem",
-    "resumo": "Mestra espiritual da família de São Basílio.",
-    "historia": "Mestra espiritual da família de São Basílio.\n\nSanta Macrina é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Macrina nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Macrina, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santo Apolinário",
+    "titulo": "Bispo e Mártir",
+    "resumo": "Primeiro bispo de Ravena.",
+    "historia": "Primeiro bispo de Ravena.\n\nSanto Apolinário é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Apolinário nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santo Apolinário, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo Brasil — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país...",
-      "og_title": "Oração pelo Brasil",
+      "title": "Oração pela vocação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a...",
+      "og_title": "Oração pela vocação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-19"
+      "date": "2026-07-20"
     },
     "santo": {
-      "title": "Santa Macrina — Santo do Dia | Minuto da Oração",
-      "description": "Mestra espiritual da família de São Basílio.",
-      "og_title": "Santa Macrina — Virgem",
+      "title": "Santo Apolinário — Santo do Dia | Minuto da Oração",
+      "description": "Primeiro bispo de Ravena.",
+      "og_title": "Santo Apolinário — Bispo e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-19"
+      "date": "2026-07-20"
     }
   }
 }
