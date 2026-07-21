@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "oracao": {
-    "titulo": "Oração pela vocação",
-    "texto": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a qual fui criado.",
-    "reflexao": "Cada pessoa tem uma vocação única. Descobri-la é encontrar o sentido mais profundo da vida.",
-    "versiculo": "Jeremias 1,5 — Antes que Eu te formasse no ventre materno, Eu te conheci."
+    "titulo": "Oração de coragem",
+    "texto": "Senhor, dá-me coragem para enfrentar os desafios deste dia. Quando o medo quiser me paralisar, lembra-me de que Tu estás comigo. Com a Tua força, posso tudo.",
+    "reflexao": "A coragem cristã não é a ausência de medo, mas a decisão de agir apesar dele, confiando em Deus.",
+    "versiculo": "Isaías 41,10 — Não temas, porque Eu sou contigo; não te assombres, porque Eu sou o teu Deus."
   },
   "santo": {
-    "nome": "Santo Apolinário",
-    "titulo": "Bispo e Mártir",
-    "resumo": "Primeiro bispo de Ravena.",
-    "historia": "Primeiro bispo de Ravena.\n\nSanto Apolinário é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Apolinário nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santo Apolinário, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Lourenço de Brindisi",
+    "titulo": "Doutor da Igreja",
+    "resumo": "Capuchinho poliglota.",
+    "historia": "Capuchinho poliglota.\n\nSão Lourenço de Brindisi é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Lourenço de Brindisi nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Lourenço de Brindisi, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela vocação — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a...",
-      "og_title": "Oração pela vocação",
+      "title": "Oração de coragem — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, dá-me coragem para enfrentar os desafios deste dia. Quando o medo quiser me paralisar, lembra-me de que Tu estás comigo. Com a Tua força, posso...",
+      "og_title": "Oração de coragem",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-20"
+      "date": "2026-07-21"
     },
     "santo": {
-      "title": "Santo Apolinário — Santo do Dia | Minuto da Oração",
-      "description": "Primeiro bispo de Ravena.",
-      "og_title": "Santo Apolinário — Bispo e Mártir",
+      "title": "São Lourenço de Brindisi — Santo do Dia | Minuto da Oração",
+      "description": "Capuchinho poliglota.",
+      "og_title": "São Lourenço de Brindisi — Doutor da Igreja",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-20"
+      "date": "2026-07-21"
     }
   }
 }
