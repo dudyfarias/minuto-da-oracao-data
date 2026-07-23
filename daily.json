@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "oracao": {
-    "titulo": "Oração pela conversão",
-    "texto": "Senhor misericordioso, toca o coração de todos os que estão afastados de Ti. Derrama sobre eles a Tua graça e traze-os de volta ao Teu amor. Converte também o meu coração a cada dia.",
-    "reflexao": "A conversão não é um evento único, mas um processo diário. A cada dia, somos chamados a nos voltar para Deus.",
-    "versiculo": "Ezequiel 36,26 — Dar-vos-ei um coração novo e porei dentro de vós um espírito novo."
+    "titulo": "Oração de adoração",
+    "texto": "Deus todo-poderoso, eu Te adoro. Tu és o Criador do céu e da terra, o Senhor de tudo o que existe. Diante da Tua majestade, eu me prostro em reverência e amor.",
+    "reflexao": "Adorar a Deus é reconhecer que Ele é Deus e nós somos criaturas. É o ato mais sublime que podemos realizar.",
+    "versiculo": "Apocalipse 4,11 — Digno és, Senhor, de receber a glória, a honra e o poder."
   },
   "santo": {
-    "nome": "Santa Maria Madalena",
-    "titulo": "Apóstola dos Apóstolos",
-    "resumo": "Primeira testemunha da Ressurreição.",
-    "historia": "Primeira testemunha da Ressurreição.\n\nSanta Maria Madalena é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Maria Madalena nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Maria Madalena, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Brígida da Suécia",
+    "titulo": "Padroeira da Europa",
+    "resumo": "Mística sueca.",
+    "historia": "Mística sueca.\n\nSanta Brígida da Suécia é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Brígida da Suécia nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Brígida da Suécia, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela conversão — Oração do Dia | Minuto da Oração",
-      "description": "Senhor misericordioso, toca o coração de todos os que estão afastados de Ti. Derrama sobre eles a Tua graça e traze-os de volta ao Teu amor. Converte...",
-      "og_title": "Oração pela conversão",
+      "title": "Oração de adoração — Oração do Dia | Minuto da Oração",
+      "description": "Deus todo-poderoso, eu Te adoro. Tu és o Criador do céu e da terra, o Senhor de tudo o que existe. Diante da Tua majestade, eu me prostro em reverência e...",
+      "og_title": "Oração de adoração",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-22"
+      "date": "2026-07-23"
     },
     "santo": {
-      "title": "Santa Maria Madalena — Santo do Dia | Minuto da Oração",
-      "description": "Primeira testemunha da Ressurreição.",
-      "og_title": "Santa Maria Madalena — Apóstola dos Apóstolos",
+      "title": "Santa Brígida da Suécia — Santo do Dia | Minuto da Oração",
+      "description": "Mística sueca.",
+      "og_title": "Santa Brígida da Suécia — Padroeira da Europa",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-22"
+      "date": "2026-07-23"
     }
   }
 }
