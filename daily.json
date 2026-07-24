@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "oracao": {
-    "titulo": "Oração de adoração",
-    "texto": "Deus todo-poderoso, eu Te adoro. Tu és o Criador do céu e da terra, o Senhor de tudo o que existe. Diante da Tua majestade, eu me prostro em reverência e amor.",
-    "reflexao": "Adorar a Deus é reconhecer que Ele é Deus e nós somos criaturas. É o ato mais sublime que podemos realizar.",
-    "versiculo": "Apocalipse 4,11 — Digno és, Senhor, de receber a glória, a honra e o poder."
+    "titulo": "Oração pelos professores",
+    "texto": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas também corações.",
+    "reflexao": "Ensinar é uma das vocações mais nobres. Os professores moldam o futuro através de cada aula.",
+    "versiculo": "Provérbios 22,6 — Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
   },
   "santo": {
-    "nome": "Santa Brígida da Suécia",
-    "titulo": "Padroeira da Europa",
-    "resumo": "Mística sueca.",
-    "historia": "Mística sueca.\n\nSanta Brígida da Suécia é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Brígida da Suécia nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Brígida da Suécia, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Charbel Makhlouf",
+    "titulo": "Monge Maronita",
+    "resumo": "Eremita libanês de muitos milagres.",
+    "historia": "Eremita libanês de muitos milagres.\n\nSão Charbel Makhlouf é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Charbel Makhlouf nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Charbel Makhlouf, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de adoração — Oração do Dia | Minuto da Oração",
-      "description": "Deus todo-poderoso, eu Te adoro. Tu és o Criador do céu e da terra, o Senhor de tudo o que existe. Diante da Tua majestade, eu me prostro em reverência e...",
-      "og_title": "Oração de adoração",
+      "title": "Oração pelos professores — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas...",
+      "og_title": "Oração pelos professores",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     },
     "santo": {
-      "title": "Santa Brígida da Suécia — Santo do Dia | Minuto da Oração",
-      "description": "Mística sueca.",
-      "og_title": "Santa Brígida da Suécia — Padroeira da Europa",
+      "title": "São Charbel Makhlouf — Santo do Dia | Minuto da Oração",
+      "description": "Eremita libanês de muitos milagres.",
+      "og_title": "São Charbel Makhlouf — Monge Maronita",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     }
   }
 }
