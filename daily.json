@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "oracao": {
-    "titulo": "Oração pelos professores",
-    "texto": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas também corações.",
-    "reflexao": "Ensinar é uma das vocações mais nobres. Os professores moldam o futuro através de cada aula.",
-    "versiculo": "Provérbios 22,6 — Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+    "titulo": "Oração pela criação",
+    "texto": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações futuras.",
+    "reflexao": "Somos guardiões da criação de Deus. Cuidar da natureza é uma forma de agradecer ao Criador.",
+    "versiculo": "Gênesis 2,15 — O Senhor Deus tomou o homem e o colocou no jardim do Éden para cultivá-lo e guardá-lo."
   },
   "santo": {
-    "nome": "São Charbel Makhlouf",
-    "titulo": "Monge Maronita",
-    "resumo": "Eremita libanês de muitos milagres.",
-    "historia": "Eremita libanês de muitos milagres.\n\nSão Charbel Makhlouf é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Charbel Makhlouf nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Charbel Makhlouf, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Tiago Maior",
+    "titulo": "Apóstolo",
+    "resumo": "Primeiro apóstolo mártir.",
+    "historia": "Primeiro apóstolo mártir.\n\nSão Tiago Maior é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Tiago Maior nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Tiago Maior, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos professores — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas...",
-      "og_title": "Oração pelos professores",
+      "title": "Oração pela criação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações...",
+      "og_title": "Oração pela criação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-24"
+      "date": "2026-07-25"
     },
     "santo": {
-      "title": "São Charbel Makhlouf — Santo do Dia | Minuto da Oração",
-      "description": "Eremita libanês de muitos milagres.",
-      "og_title": "São Charbel Makhlouf — Monge Maronita",
+      "title": "São Tiago Maior — Santo do Dia | Minuto da Oração",
+      "description": "Primeiro apóstolo mártir.",
+      "og_title": "São Tiago Maior — Apóstolo",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-24"
+      "date": "2026-07-25"
     }
   }
 }
