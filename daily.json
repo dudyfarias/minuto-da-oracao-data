@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "oracao": {
-    "titulo": "Oração de perseverança",
-    "texto": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos que Tu colocaste em meu coração.",
-    "reflexao": "A perseverança é uma virtude essencial na vida cristã. Os grandes santos foram aqueles que nunca desistiram.",
-    "versiculo": "Gálatas 6,9 — Não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos."
+    "titulo": "Oração pelos idosos",
+    "texto": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor inabalável.",
+    "reflexao": "Os idosos são tesouros de sabedoria e experiência. Honrá-los é um mandamento de Deus.",
+    "versiculo": "Levítico 19,32 — Diante das cãs te levantarás e honrarás a pessoa do ancião."
   },
   "santo": {
-    "nome": "Santos Joaquim e Ana",
-    "titulo": "Avós de Jesus",
-    "resumo": "Pais de Maria, padroeiros dos avós.",
-    "historia": "Pais de Maria, padroeiros dos avós.\n\nSantos Joaquim e Ana é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santos Joaquim e Ana nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santos Joaquim e Ana, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Pantaleão",
+    "titulo": "Médico e Mártir",
+    "resumo": "Médico do imperador, martirizado.",
+    "historia": "Médico do imperador, martirizado.\n\nSão Pantaleão é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Pantaleão nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Pantaleão, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de perseverança — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos...",
-      "og_title": "Oração de perseverança",
+      "title": "Oração pelos idosos — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor...",
+      "og_title": "Oração pelos idosos",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-26"
+      "date": "2026-07-27"
     },
     "santo": {
-      "title": "Santos Joaquim e Ana — Santo do Dia | Minuto da Oração",
-      "description": "Pais de Maria, padroeiros dos avós.",
-      "og_title": "Santos Joaquim e Ana — Avós de Jesus",
+      "title": "São Pantaleão — Santo do Dia | Minuto da Oração",
+      "description": "Médico do imperador, martirizado.",
+      "og_title": "São Pantaleão — Médico e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-26"
+      "date": "2026-07-27"
     }
   }
 }
