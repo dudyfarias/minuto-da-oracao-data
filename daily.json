@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "oracao": {
-    "titulo": "Oração pelos idosos",
-    "texto": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor inabalável.",
-    "reflexao": "Os idosos são tesouros de sabedoria e experiência. Honrá-los é um mandamento de Deus.",
-    "versiculo": "Levítico 19,32 — Diante das cãs te levantarás e honrarás a pessoa do ancião."
+    "titulo": "Oração pela misericórdia",
+    "texto": "Pai de misericórdia, tem piedade de mim. Eu reconheço as minhas fraquezas e as minhas falhas. Na Tua infinita bondade, perdoa-me e renova-me. Jesus, eu confio em Vós.",
+    "reflexao": "A misericórdia de Deus é maior que qualquer pecado. Nunca é tarde para voltar ao Pai.",
+    "versiculo": "Lucas 6,36 — Sede misericordiosos como vosso Pai é misericordioso."
   },
   "santo": {
-    "nome": "São Pantaleão",
-    "titulo": "Médico e Mártir",
-    "resumo": "Médico do imperador, martirizado.",
-    "historia": "Médico do imperador, martirizado.\n\nSão Pantaleão é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Pantaleão nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Pantaleão, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santos Nazário e Celso",
+    "titulo": "Mártires",
+    "resumo": "Missionário e companheiro martirizados.",
+    "historia": "Missionário e companheiro martirizados.\n\nSantos Nazário e Celso é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santos Nazário e Celso nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santos Nazário e Celso, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos idosos — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor...",
-      "og_title": "Oração pelos idosos",
+      "title": "Oração pela misericórdia — Oração do Dia | Minuto da Oração",
+      "description": "Pai de misericórdia, tem piedade de mim. Eu reconheço as minhas fraquezas e as minhas falhas. Na Tua infinita bondade, perdoa-me e renova-me. Jesus, eu...",
+      "og_title": "Oração pela misericórdia",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-27"
+      "date": "2026-07-28"
     },
     "santo": {
-      "title": "São Pantaleão — Santo do Dia | Minuto da Oração",
-      "description": "Médico do imperador, martirizado.",
-      "og_title": "São Pantaleão — Médico e Mártir",
+      "title": "Santos Nazário e Celso — Santo do Dia | Minuto da Oração",
+      "description": "Missionário e companheiro martirizados.",
+      "og_title": "Santos Nazário e Celso — Mártires",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-27"
+      "date": "2026-07-28"
     }
   }
 }
