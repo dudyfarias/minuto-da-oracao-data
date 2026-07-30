@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "oracao": {
-    "titulo": "Oração pela unidade",
-    "texto": "Senhor Jesus, que pediste ao Pai que todos fossem um, concede-nos a graça da unidade. Que superemos as divisões e caminhemos juntos como irmãos, unidos na fé e no amor.",
-    "reflexao": "A unidade dos cristãos foi um dos últimos pedidos de Jesus. É um compromisso que devemos assumir todos os dias.",
-    "versiculo": "João 17,21 — Para que todos sejam um, como Tu, Pai, estás em mim e eu em Ti."
+    "titulo": "Oração de alegria",
+    "texto": "Senhor, enche o meu coração de alegria. Não a alegria passageira do mundo, mas a alegria profunda que vem de Ti. Que eu seja uma pessoa alegre, espalhando essa alegria por onde passar.",
+    "reflexao": "A alegria cristã não depende das circunstâncias. É um fruto do Espírito Santo que brota de dentro para fora.",
+    "versiculo": "Filipenses 4,4 — Alegrai-vos sempre no Senhor. Repito: alegrai-vos!"
   },
   "santo": {
-    "nome": "Santa Marta",
-    "titulo": "Irmã de Lázaro",
-    "resumo": "Amiga de Jesus que o hospedou em Betânia.",
-    "historia": "Amiga de Jesus que o hospedou em Betânia.\n\nSanta Marta é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Marta nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Marta, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Pedro Crisólogo",
+    "titulo": "Doutor da Igreja",
+    "resumo": "Arcebispo de Ravena.",
+    "historia": "Arcebispo de Ravena.\n\nSão Pedro Crisólogo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Pedro Crisólogo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Pedro Crisólogo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela unidade — Oração do Dia | Minuto da Oração",
-      "description": "Senhor Jesus, que pediste ao Pai que todos fossem um, concede-nos a graça da unidade. Que superemos as divisões e caminhemos juntos como irmãos, unidos na...",
-      "og_title": "Oração pela unidade",
+      "title": "Oração de alegria — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, enche o meu coração de alegria. Não a alegria passageira do mundo, mas a alegria profunda que vem de Ti. Que eu seja uma pessoa alegre, espalhando...",
+      "og_title": "Oração de alegria",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-29"
+      "date": "2026-07-30"
     },
     "santo": {
-      "title": "Santa Marta — Santo do Dia | Minuto da Oração",
-      "description": "Amiga de Jesus que o hospedou em Betânia.",
-      "og_title": "Santa Marta — Irmã de Lázaro",
+      "title": "São Pedro Crisólogo — Santo do Dia | Minuto da Oração",
+      "description": "Arcebispo de Ravena.",
+      "og_title": "São Pedro Crisólogo — Doutor da Igreja",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-29"
+      "date": "2026-07-30"
     }
   }
 }
