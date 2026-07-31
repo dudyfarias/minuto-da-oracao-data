@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "oracao": {
-    "titulo": "Oração de alegria",
-    "texto": "Senhor, enche o meu coração de alegria. Não a alegria passageira do mundo, mas a alegria profunda que vem de Ti. Que eu seja uma pessoa alegre, espalhando essa alegria por onde passar.",
-    "reflexao": "A alegria cristã não depende das circunstâncias. É um fruto do Espírito Santo que brota de dentro para fora.",
-    "versiculo": "Filipenses 4,4 — Alegrai-vos sempre no Senhor. Repito: alegrai-vos!"
+    "titulo": "Oração da manhã",
+    "texto": "Senhor, neste novo dia que se inicia, entrego a Ti todos os meus planos, caminhos e decisões. Que a Tua luz ilumine cada passo e que eu saiba reconhecer a Tua presença em cada momento.",
+    "reflexao": "Comece cada manhã entregando o dia a Deus. Mesmo nas manhãs mais difíceis, um momento de oração pode transformar toda a jornada.",
+    "versiculo": "Salmo 5,3 — De manhã, Senhor, ouves a minha voz; de manhã te apresento a minha oração e fico esperando."
   },
   "santo": {
-    "nome": "São Pedro Crisólogo",
-    "titulo": "Doutor da Igreja",
-    "resumo": "Arcebispo de Ravena.",
-    "historia": "Arcebispo de Ravena.\n\nSão Pedro Crisólogo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Pedro Crisólogo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Pedro Crisólogo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santo Inácio de Loyola",
+    "titulo": "Fundador dos Jesuítas",
+    "resumo": "Soldado convertido que fundou a Companhia de Jesus.",
+    "historia": "Soldado convertido que fundou a Companhia de Jesus.\n\nSanto Inácio de Loyola é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Inácio de Loyola nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santo Inácio de Loyola, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de alegria — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, enche o meu coração de alegria. Não a alegria passageira do mundo, mas a alegria profunda que vem de Ti. Que eu seja uma pessoa alegre, espalhando...",
-      "og_title": "Oração de alegria",
+      "title": "Oração da manhã — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, neste novo dia que se inicia, entrego a Ti todos os meus planos, caminhos e decisões. Que a Tua luz ilumine cada passo e que eu saiba reconhecer a...",
+      "og_title": "Oração da manhã",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-07-30"
+      "date": "2026-07-31"
     },
     "santo": {
-      "title": "São Pedro Crisólogo — Santo do Dia | Minuto da Oração",
-      "description": "Arcebispo de Ravena.",
-      "og_title": "São Pedro Crisólogo — Doutor da Igreja",
+      "title": "Santo Inácio de Loyola — Santo do Dia | Minuto da Oração",
+      "description": "Soldado convertido que fundou a Companhia de Jesus.",
+      "og_title": "Santo Inácio de Loyola — Fundador dos Jesuítas",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-07-30"
+      "date": "2026-07-31"
     }
   }
 }
