@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "oracao": {
-    "titulo": "Oração pela família",
-    "texto": "Deus de amor, abençoa a minha família. Protege cada membro, fortalece nossos laços e cura nossas feridas. Que o nosso lar seja um lugar de amor, perdão e fé.",
-    "reflexao": "A família é a primeira escola de fé. É no lar que aprendemos a amar, perdoar e crescer juntos.",
-    "versiculo": "Josué 24,15 — Eu e a minha casa serviremos ao Senhor."
+    "titulo": "Oração de confiança",
+    "texto": "Senhor, quando o medo e a dúvida tentam dominar meu coração, lembra-me de que Tu estás no controle. Ajuda-me a confiar nos Teus planos, mesmo quando não consigo entendê-los.",
+    "reflexao": "Confiar em Deus não significa entender tudo, mas crer que Ele sabe o que faz, mesmo quando o caminho parece incerto.",
+    "versiculo": "Provérbios 3,5-6 — Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."
   },
   "santo": {
-    "nome": "Santa Lídia",
-    "titulo": "Primeira convertida na Europa",
-    "resumo": "Comerciante batizada por São Paulo.",
-    "historia": "Comerciante batizada por São Paulo.\n\nSanta Lídia é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Lídia nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Lídia, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São João Maria Vianney",
+    "titulo": "Cura d'Ars",
+    "resumo": "Patrono dos párocos.",
+    "historia": "Patrono dos párocos.\n\nSão João Maria Vianney é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São João Maria Vianney nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São João Maria Vianney, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela família — Oração do Dia | Minuto da Oração",
-      "description": "Deus de amor, abençoa a minha família. Protege cada membro, fortalece nossos laços e cura nossas feridas. Que o nosso lar seja um lugar de amor, perdão e...",
-      "og_title": "Oração pela família",
+      "title": "Oração de confiança — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, quando o medo e a dúvida tentam dominar meu coração, lembra-me de que Tu estás no controle. Ajuda-me a confiar nos Teus planos, mesmo quando não...",
+      "og_title": "Oração de confiança",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-03"
+      "date": "2026-08-04"
     },
     "santo": {
-      "title": "Santa Lídia — Santo do Dia | Minuto da Oração",
-      "description": "Comerciante batizada por São Paulo.",
-      "og_title": "Santa Lídia — Primeira convertida na Europa",
+      "title": "São João Maria Vianney — Santo do Dia | Minuto da Oração",
+      "description": "Patrono dos párocos.",
+      "og_title": "São João Maria Vianney — Cura d'Ars",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-03"
+      "date": "2026-08-04"
     }
   }
 }
