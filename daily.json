@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "oracao": {
-    "titulo": "Oração pelos enfermos",
-    "texto": "Senhor Jesus, que curastes tantos durante a Tua caminhada terrena, olha com compaixão para todos os que sofrem com doenças. Concede-lhes força, paciência e a esperança da cura.",
-    "reflexao": "Jesus nunca se afastou dos doentes. Ele se aproximava, tocava e curava. Peçamos essa mesma compaixão.",
-    "versiculo": "Mateus 8,17 — Ele tomou sobre si as nossas enfermidades e carregou as nossas doenças."
+    "titulo": "Oração pela fé",
+    "texto": "Senhor, aumenta a minha fé. Nos momentos de dúvida, fortalece minha confiança em Ti. Nos momentos de escuridão, sê a minha luz. Faz com que eu caminhe sempre pela fé e não pela visão.",
+    "reflexao": "A fé é um dom que precisa ser cultivado diariamente, como uma semente que precisa de água e sol para crescer.",
+    "versiculo": "Hebreus 11,1 — A fé é a certeza das coisas que se esperam e a prova das coisas que não se veem."
   },
   "santo": {
-    "nome": "Transfiguração do Senhor",
-    "titulo": "Festa",
-    "resumo": "Transfiguração de Jesus no Monte Tabor.",
-    "historia": "Transfiguração de Jesus no Monte Tabor.\n\nTransfiguração do Senhor é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Transfiguração do Senhor nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Transfiguração do Senhor, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Caetano de Thiene",
+    "titulo": "Fundador",
+    "resumo": "Fundou os Clérigos Regulares Teatinos.",
+    "historia": "Fundou os Clérigos Regulares Teatinos.\n\nSão Caetano de Thiene é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Caetano de Thiene nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Caetano de Thiene, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos enfermos — Oração do Dia | Minuto da Oração",
-      "description": "Senhor Jesus, que curastes tantos durante a Tua caminhada terrena, olha com compaixão para todos os que sofrem com doenças. Concede-lhes força, paciência...",
-      "og_title": "Oração pelos enfermos",
+      "title": "Oração pela fé — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, aumenta a minha fé. Nos momentos de dúvida, fortalece minha confiança em Ti. Nos momentos de escuridão, sê a minha luz. Faz com que eu caminhe...",
+      "og_title": "Oração pela fé",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-06"
+      "date": "2026-08-07"
     },
     "santo": {
-      "title": "Transfiguração do Senhor — Santo do Dia | Minuto da Oração",
-      "description": "Transfiguração de Jesus no Monte Tabor.",
-      "og_title": "Transfiguração do Senhor — Festa",
+      "title": "São Caetano de Thiene — Santo do Dia | Minuto da Oração",
+      "description": "Fundou os Clérigos Regulares Teatinos.",
+      "og_title": "São Caetano de Thiene — Fundador",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-06"
+      "date": "2026-08-07"
     }
   }
 }
