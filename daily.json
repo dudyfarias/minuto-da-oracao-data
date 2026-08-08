@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "oracao": {
-    "titulo": "Oração pela fé",
-    "texto": "Senhor, aumenta a minha fé. Nos momentos de dúvida, fortalece minha confiança em Ti. Nos momentos de escuridão, sê a minha luz. Faz com que eu caminhe sempre pela fé e não pela visão.",
-    "reflexao": "A fé é um dom que precisa ser cultivado diariamente, como uma semente que precisa de água e sol para crescer.",
-    "versiculo": "Hebreus 11,1 — A fé é a certeza das coisas que se esperam e a prova das coisas que não se veem."
+    "titulo": "Oração de perdão",
+    "texto": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu possa viver em paz.",
+    "reflexao": "Perdoar não é esquecer, mas escolher não carregar mais o peso da mágoa. É um ato de liberdade.",
+    "versiculo": "Mateus 6,14 — Se perdoardes aos homens as suas ofensas, também vosso Pai celeste vos perdoará."
   },
   "santo": {
-    "nome": "São Caetano de Thiene",
-    "titulo": "Fundador",
-    "resumo": "Fundou os Clérigos Regulares Teatinos.",
-    "historia": "Fundou os Clérigos Regulares Teatinos.\n\nSão Caetano de Thiene é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Caetano de Thiene nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Caetano de Thiene, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Domingos de Gusmão",
+    "titulo": "Fundador dos Dominicanos",
+    "resumo": "Fundou a Ordem dos Pregadores.",
+    "historia": "Fundou a Ordem dos Pregadores.\n\nSão Domingos de Gusmão é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Domingos de Gusmão nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Domingos de Gusmão, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela fé — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, aumenta a minha fé. Nos momentos de dúvida, fortalece minha confiança em Ti. Nos momentos de escuridão, sê a minha luz. Faz com que eu caminhe...",
-      "og_title": "Oração pela fé",
+      "title": "Oração de perdão — Oração do Dia | Minuto da Oração",
+      "description": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu...",
+      "og_title": "Oração de perdão",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-07"
+      "date": "2026-08-08"
     },
     "santo": {
-      "title": "São Caetano de Thiene — Santo do Dia | Minuto da Oração",
-      "description": "Fundou os Clérigos Regulares Teatinos.",
-      "og_title": "São Caetano de Thiene — Fundador",
+      "title": "São Domingos de Gusmão — Santo do Dia | Minuto da Oração",
+      "description": "Fundou a Ordem dos Pregadores.",
+      "og_title": "São Domingos de Gusmão — Fundador dos Dominicanos",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-07"
+      "date": "2026-08-08"
     }
   }
 }
