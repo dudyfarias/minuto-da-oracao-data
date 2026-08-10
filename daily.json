@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "oracao": {
-    "titulo": "Oração pela sabedoria",
-    "texto": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da justiça.",
-    "reflexao": "A sabedoria divina não se encontra nos livros, mas no coração humilde que busca a Deus em oração.",
-    "versiculo": "Tiago 1,5 — Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente."
+    "titulo": "Oração pelos jovens",
+    "texto": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e força para resistir ao mal.",
+    "reflexao": "Os jovens são o presente e o futuro da Igreja. Precisamos orar por eles e com eles.",
+    "versiculo": "1 Timóteo 4,12 — Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis."
   },
   "santo": {
-    "nome": "Santa Teresa Benedita da Cruz",
-    "titulo": "Edith Stein",
-    "resumo": "Filósofa judia convertida, carmelita martirizada em Auschwitz.",
-    "historia": "Filósofa judia convertida, carmelita martirizada em Auschwitz.\n\nSanta Teresa Benedita da Cruz é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teresa Benedita da Cruz nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Teresa Benedita da Cruz, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Lourenço",
+    "titulo": "Diácono e Mártir",
+    "resumo": "Diácono romano, padroeiro dos cozinheiros.",
+    "historia": "Diácono romano, padroeiro dos cozinheiros.\n\nSão Lourenço é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Lourenço nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Lourenço, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela sabedoria — Oração do Dia | Minuto da Oração",
-      "description": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da...",
-      "og_title": "Oração pela sabedoria",
+      "title": "Oração pelos jovens — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e...",
+      "og_title": "Oração pelos jovens",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-09"
+      "date": "2026-08-10"
     },
     "santo": {
-      "title": "Santa Teresa Benedita da Cruz — Santo do Dia | Minuto da Oração",
-      "description": "Filósofa judia convertida, carmelita martirizada em Auschwitz.",
-      "og_title": "Santa Teresa Benedita da Cruz — Edith Stein",
+      "title": "São Lourenço — Santo do Dia | Minuto da Oração",
+      "description": "Diácono romano, padroeiro dos cozinheiros.",
+      "og_title": "São Lourenço — Diácono e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-09"
+      "date": "2026-08-10"
     }
   }
 }
