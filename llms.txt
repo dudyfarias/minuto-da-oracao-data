@@ -9,6 +9,10 @@
 - [Mural de Oracoes](https://minutodaoracao.com.br/mural-de-oracoes/): Mural comunitario de pedidos de oracao
 - [Noticias](https://minutodaoracao.com.br/noticias/): Noticias sobre Igreja Catolica, Papa e fe
 
+## Liturgia Diaria (atualizado todo dia)
+- [Evangelho do Dia](https://minutodaoracao.com.br/evangelho-do-dia/): Evangelho lido hoje na Missa, com referencia biblica completa e meditacao
+- [Liturgia Diaria](https://minutodaoracao.com.br/liturgia-diaria/): Leituras completas da Missa de hoje — primeira leitura, salmo responsorial e Evangelho
+
 ## Devocoes e Como Rezar
 - [Como Rezar o Terco](https://minutodaoracao.com.br/como-rezar-o-terco/): Passo a passo completo do terco — as oracoes, a ordem das contas e os misterios de cada dia da semana
 - [Salmo 91](https://minutodaoracao.com.br/salmo-91/): Salmo 91 completo e seu significado — o salmo da protecao divina
