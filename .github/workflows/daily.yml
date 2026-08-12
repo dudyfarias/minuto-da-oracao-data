@@ -52,3 +52,8 @@ jobs:
           for f in daily.json noscript/oracao-do-dia.html noscript/santo-do-dia.html; do
             curl -s -o /dev/null -w "purge $f -> %{http_code}\n" "https://purge.jsdelivr.net/gh/dudyfarias/minuto-da-oracao-data@main/$f"
           done
+
+      - name: Publicar conteudo do dia nas paginas da Nuvemshop
+        env:
+          NUVEMSHOP_TOKEN: ${{ secrets.NUVEMSHOP_TOKEN }}
+        run: python3 scripts/push-nuvemshop.py
