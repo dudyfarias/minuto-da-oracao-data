@@ -31,13 +31,16 @@ jobs:
       - name: Gerar conteudo do dia
         run: python3 scripts/generate-daily.py
 
+      - name: Buscar liturgia do dia (evangelho e leituras)
+        run: python3 scripts/generate-liturgia.py
+
       - name: Commitar se houver mudanca
         id: commit
         run: |
           git config user.name "MDO Bot"
           git config user.email "actions@users.noreply.github.com"
-          if [ -n "$(git status --porcelain daily.json noscript/)" ]; then
-            git add daily.json noscript/
+          if [ -n "$(git status --porcelain daily.json liturgia.json noscript/)" ]; then
+            git add daily.json liturgia.json noscript/
             git commit -m "Conteudo do dia $(date -u +%Y-%m-%d) [automatico]"
             git push
             echo "mudou=true" >> "$GITHUB_OUTPUT"
