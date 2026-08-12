@@ -24,7 +24,8 @@ STORE = "4674321"
 API = f"https://api.nuvemshop.com.br/2025-03/{STORE}/pages"
 UA = "MinutoDaOracao (contato@minutodaoracao.com.br)"
 
-PAGES = {"oracao": 3489102, "santo": 3489108}
+PAGES = {"oracao": 3489102, "santo": 3489108,
+         "evangelho": 3715701, "liturgia": 3715702}
 
 MESES = ["", "janeiro", "fevereiro", "março", "abril", "maio", "junho",
          "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
@@ -63,6 +64,42 @@ def html_santo(d):
     )
 
 
+def _leitura_html(b, titulo_secao):
+    """Renderiza um bloco de leitura (referencia + titulo + texto [+ refrao])."""
+    if not b:
+        return ""
+    partes = [f"<h3>{esc(titulo_secao)} — {esc(b['referencia'])}</h3>"]
+    if b.get("titulo"):
+        partes.append(f"<p><em>{esc(b['titulo'])}</em></p>")
+    if b.get("refrao"):
+        partes.append(f"<p><strong>R. {esc(b['refrao'])}</strong></p>")
+    for par in b["texto"].split("\n"):
+        if par.strip():
+            partes.append(f"<p>{esc(par.strip())}</p>")
+    return "".join(partes)
+
+
+def html_evangelho(lit):
+    ev = lit["evangelho"]
+    return (
+        f"<h2>Evangelho de hoje — {esc(ev['referencia'])}</h2>"
+        f"<p><em>{esc(lit['data_extenso'])} · {esc(lit['liturgia'])} · Cor litúrgica: {esc(lit['cor'])}</em></p>"
+        + _leitura_html(ev, "Evangelho")
+    )
+
+
+def html_liturgia(lit):
+    partes = [
+        f"<h2>Liturgia de {esc(lit['data_extenso'])}</h2>",
+        f"<p><em>{esc(lit['liturgia'])} · Cor litúrgica: {esc(lit['cor'])}</em></p>",
+        _leitura_html(lit.get("primeira_leitura"), "Primeira Leitura"),
+        _leitura_html(lit.get("salmo"), "Salmo Responsorial"),
+        _leitura_html(lit.get("segunda_leitura"), "Segunda Leitura"),
+        _leitura_html(lit.get("evangelho"), "Evangelho"),
+    ]
+    return "".join(p for p in partes if p)
+
+
 def put_page(page_id, title, content, seo_title, seo_desc, token):
     payload = {"page": {"publish": True, "i18n": {"pt_BR": {
         "title": title, "content": content,
@@ -96,6 +133,26 @@ def main():
          meta.get("santo", {}).get("title", "Santo do Dia | Minuto da Oração"),
          meta.get("santo", {}).get("description", d["santo"]["resumo"])),
     ]
+
+    # Liturgia (evangelho + leituras) — opcional: so entra se liturgia.json existir
+    lit_path = os.path.join(ROOT, "liturgia.json")
+    if os.path.exists(lit_path):
+        lit = json.load(open(lit_path, encoding="utf-8"))
+        ev = lit.get("evangelho") or {}
+        if ev.get("texto"):
+            resumo_ev = " ".join(ev["texto"].split())[:150]
+            jobs.append((
+                "evangelho", "Evangelho do Dia", html_evangelho(lit),
+                f"Evangelho de Hoje: {ev['referencia']} | Minuto da Oração",
+                f"Evangelho do dia {lit['data_extenso']} ({ev['referencia']}): {resumo_ev}",
+            ))
+            jobs.append((
+                "liturgia", "Liturgia Diária", html_liturgia(lit),
+                f"Liturgia Diária de Hoje — {lit['liturgia']} | Minuto da Oração",
+                f"Leituras da Missa de {lit['data_extenso']}: primeira leitura, salmo responsorial e Evangelho ({ev['referencia']}).",
+            ))
+    else:
+        print("  (liturgia.json ausente — pulando evangelho/liturgia)")
 
     falhou = False
     for key, title, content, st, sd in jobs:
