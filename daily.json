@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "oracao": {
-    "titulo": "Oração pela noite",
-    "texto": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas forças para o dia de amanhã.",
-    "reflexao": "O momento antes de dormir é ideal para fazer um exame de consciência e entregar o dia a Deus.",
-    "versiculo": "Salmo 4,8 — Em paz me deito e logo adormeço, porque só Tu, Senhor, me fazes repousar seguro."
+    "titulo": "Oração de louvor",
+    "texto": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória, para sempre.",
+    "reflexao": "Louvar a Deus é reconhecer a Sua grandeza independente das circunstâncias. É um ato de fé pura.",
+    "versiculo": "Salmo 150,6 — Tudo quanto tem fôlego louve ao Senhor."
   },
   "santo": {
-    "nome": "Santa Clara de Assis",
-    "titulo": "Fundadora das Clarissas",
-    "resumo": "Seguidora de São Francisco.",
-    "historia": "Seguidora de São Francisco.\n\nSanta Clara de Assis é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Clara de Assis nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Clara de Assis, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Joana Francisca de Chantal",
+    "titulo": "Fundadora",
+    "resumo": "Fundou a Ordem da Visitação.",
+    "historia": "Fundou a Ordem da Visitação.\n\nSanta Joana Francisca de Chantal é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Joana Francisca de Chantal nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Joana Francisca de Chantal, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela noite — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas...",
-      "og_title": "Oração pela noite",
+      "title": "Oração de louvor — Oração do Dia | Minuto da Oração",
+      "description": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória,...",
+      "og_title": "Oração de louvor",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     },
     "santo": {
-      "title": "Santa Clara de Assis — Santo do Dia | Minuto da Oração",
-      "description": "Seguidora de São Francisco.",
-      "og_title": "Santa Clara de Assis — Fundadora das Clarissas",
+      "title": "Santa Joana Francisca de Chantal — Santo do Dia | Minuto da Oração",
+      "description": "Fundou a Ordem da Visitação.",
+      "og_title": "Santa Joana Francisca de Chantal — Fundadora",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     }
   }
 }
