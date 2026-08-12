@@ -1,36 +1,47 @@
 # Minuto da Oracao
 
-> Portal catolico brasileiro com oracao do dia, santo do dia, pedidos de oracao, liturgia diaria e loja de produtos religiosos. Atualizado diariamente.
+> Portal catolico brasileiro com oracao do dia, santo do dia, pedidos de oracao, oracoes por necessidade, devocoes e loja de produtos religiosos. Conteudo atualizado diariamente.
 
-## Conteudo Principal
-- [Oracao do Dia](https://www.minutodaoracao.com.br/oracao-do-dia/): Oracao diaria com reflexao e versiculo biblico, atualizada todo dia
-- [Santo do Dia](https://www.minutodaoracao.com.br/santo-do-dia/): Historia, vida e oracao do santo celebrado hoje
-- [Pedido de Oracao](https://www.minutodaoracao.com.br/pedido-de-oracao/): Envie intencoes para a comunidade rezar por voce
-- [Mural de Oracoes](https://www.minutodaoracao.com.br/mural-de-oracoes/): Mural comunitario de pedidos de oracao
-- [Noticias](https://www.minutodaoracao.com.br/noticias/): Noticias sobre Igreja Catolica, Papa e fe
+## Conteudo Diario
+- [Oracao do Dia](https://minutodaoracao.com.br/oracao-do-dia/): Oracao diaria com reflexao e versiculo biblico, atualizada todo dia
+- [Santo do Dia](https://minutodaoracao.com.br/santo-do-dia/): Historia, vida e oracao do santo celebrado hoje
+- [Pedido de Oracao](https://minutodaoracao.com.br/pedido-de-oracao/): Envie intencoes para a comunidade rezar por voce
+- [Mural de Oracoes](https://minutodaoracao.com.br/mural-de-oracoes/): Mural comunitario de pedidos de oracao
+- [Noticias](https://minutodaoracao.com.br/noticias/): Noticias sobre Igreja Catolica, Papa e fe
+
+## Devocoes e Como Rezar
+- [Como Rezar o Terco](https://minutodaoracao.com.br/como-rezar-o-terco/): Passo a passo completo do terco — as oracoes, a ordem das contas e os misterios de cada dia da semana
+- [Salmo 91](https://minutodaoracao.com.br/salmo-91/): Salmo 91 completo e seu significado — o salmo da protecao divina
+- [Oracao da Manha](https://minutodaoracao.com.br/oracao-da-manha/): Oracao para comecar o dia entregando tudo a Deus
+- [Oracao da Noite](https://minutodaoracao.com.br/oracao-da-noite/): Oracao para rezar antes de dormir, agradecer o dia e descansar em paz
+
+## Oracoes aos Santos
+- [Oracao a Sao Jorge](https://minutodaoracao.com.br/oracao-a-sao-jorge/): Oracao ao santo guerreiro por protecao, coragem e vitoria nas lutas
+- [Oracao a Nossa Senhora Aparecida](https://minutodaoracao.com.br/oracao-nossa-senhora-aparecida/): Oracao a padroeira do Brasil por protecao, gracas e amparo a familia
+- [Oracao de Sao Bento](https://minutodaoracao.com.br/oracao-de-sao-bento/): Oracao de protecao contra todo mal e o significado da medalha de Sao Bento
 
 ## Oracoes por Necessidade
-- [Oracao da Manha](https://www.minutodaoracao.com.br/oracao-da-manha/): Oracoes para comecar o dia com Deus
-- [Oracao de Protecao](https://www.minutodaoracao.com.br/oracao-de-protecao/): Oracoes de protecao espiritual e fisica
-- [Oracao para Ansiedade](https://www.minutodaoracao.com.br/oracao-para-ansiedade/): Oracoes para paz interior e alivio da ansiedade
-- [Oracao para Familia](https://www.minutodaoracao.com.br/oracao-para-familia/): Oracoes por unidade, paz e protecao familiar
-- [Oracao para Prosperidade](https://www.minutodaoracao.com.br/oracao-para-prosperidade/): Oracoes por provisao e prosperidade
-- [Oracao para Cura](https://www.minutodaoracao.com.br/oracao-para-cura/): Oracoes por cura fisica e espiritual
-- [Oracao pelo Casamento](https://www.minutodaoracao.com.br/oracao-pelo-casamento/): Oracoes pela vida conjugal
-- [Oracao pelos Filhos](https://www.minutodaoracao.com.br/oracao-pelos-filhos/): Oracoes de protecao e bencao pelos filhos
-- [Oracao de Gratidao](https://www.minutodaoracao.com.br/oracao-de-gratidao/): Oracoes de agradecimento a Deus
-- [Oracao para Luto](https://www.minutodaoracao.com.br/oracao-para-luto/): Oracoes de consolo e esperanca no luto
+- [Oracao de Protecao](https://minutodaoracao.com.br/oracao-de-protecao/): Oracoes de protecao espiritual e fisica
+- [Oracao para Ansiedade](https://minutodaoracao.com.br/oracao-para-ansiedade/): Oracoes para paz interior e alivio da ansiedade
+- [Oracao para Familia](https://minutodaoracao.com.br/oracao-para-familia/): Oracoes por unidade, paz e protecao familiar
+- [Oracao para Prosperidade](https://minutodaoracao.com.br/oracao-para-prosperidade/): Oracoes por provisao e prosperidade
+- [Oracao para Cura](https://minutodaoracao.com.br/oracao-para-cura/): Oracoes por cura fisica e espiritual
+- [Oracao pelo Casamento](https://minutodaoracao.com.br/oracao-pelo-casamento/): Oracoes pela vida conjugal
+- [Oracao pelos Filhos](https://minutodaoracao.com.br/oracao-pelos-filhos/): Oracoes de protecao e bencao pelos filhos
+- [Oracao de Gratidao](https://minutodaoracao.com.br/oracao-de-gratidao/): Oracoes de agradecimento a Deus
+- [Oracao para Luto](https://minutodaoracao.com.br/oracao-para-luto/): Oracoes de consolo e esperanca no luto
 
 ## Sobre
-- [Quem Somos](https://www.minutodaoracao.com.br/quem-somos/): Missao, valores e equipe do Minuto da Oracao
-- [Perguntas Frequentes](https://www.minutodaoracao.com.br/perguntas-frequentes/): Duvidas comuns sobre o portal
+- [Quem Somos](https://minutodaoracao.com.br/quem-somos/): Missao, valores e responsavel pelo portal. Editor: Eduardo Farias Cappia
+- [Perguntas Frequentes](https://minutodaoracao.com.br/perguntas-frequentes/): Duvidas sobre a oracao do dia, pedidos de oracao, devocoes e a loja
+- [Doacao](https://minutodaoracao.com.br/doacao/): Ajude a manter o portal no ar
 
 ## Loja Catolica
-- [Todos os Produtos](https://www.minutodaoracao.com.br/produtos/): Tercos, imagens, camisetas, biblias e artigos religiosos
-- [Tercos e Medalhas](https://www.minutodaoracao.com.br/tercos-e-medalhas/)
-- [Imagens Sacras](https://www.minutodaoracao.com.br/imagens/)
-- [Livros e Biblias](https://www.minutodaoracao.com.br/livros/)
-- [Roupas](https://www.minutodaoracao.com.br/roupas/)
+- [Todos os Produtos](https://minutodaoracao.com.br/produtos/): Tercos, imagens, camisetas, biblias e artigos religiosos
+- [Tercos e Medalhas](https://minutodaoracao.com.br/tercos-e-medalhas/)
+- [Imagens Sacras](https://minutodaoracao.com.br/imagens/)
+- [Livros e Biblias](https://minutodaoracao.com.br/livros/)
+- [Roupas](https://minutodaoracao.com.br/roupas/)
 
 ## Contato
 - Email: contato@minutodaoracao.com.br
