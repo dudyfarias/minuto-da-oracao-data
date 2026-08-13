@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "oracao": {
-    "titulo": "Oração de louvor",
-    "texto": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória, para sempre.",
-    "reflexao": "Louvar a Deus é reconhecer a Sua grandeza independente das circunstâncias. É um ato de fé pura.",
-    "versiculo": "Salmo 150,6 — Tudo quanto tem fôlego louve ao Senhor."
+    "titulo": "Oração pela esperança",
+    "texto": "Deus de esperança, quando o desânimo bater à minha porta, renova em mim a certeza de que Tu tens um plano. Ajuda-me a ver além das dificuldades e a caminhar com esperança.",
+    "reflexao": "A esperança cristã não é otimismo vazio, mas a confiança firme de que Deus está agindo mesmo no silêncio.",
+    "versiculo": "Romanos 15,13 — Que o Deus da esperança vos encha de toda a alegria e paz na fé."
   },
   "santo": {
-    "nome": "Santa Joana Francisca de Chantal",
-    "titulo": "Fundadora",
-    "resumo": "Fundou a Ordem da Visitação.",
-    "historia": "Fundou a Ordem da Visitação.\n\nSanta Joana Francisca de Chantal é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Joana Francisca de Chantal nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Joana Francisca de Chantal, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santos Ponciano e Hipólito",
+    "titulo": "Mártires",
+    "resumo": "Papa e sacerdote reconciliados que morreram mártires.",
+    "historia": "Papa e sacerdote reconciliados que morreram mártires.\n\nSantos Ponciano e Hipólito é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santos Ponciano e Hipólito nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santos Ponciano e Hipólito, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de louvor — Oração do Dia | Minuto da Oração",
-      "description": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória,...",
-      "og_title": "Oração de louvor",
+      "title": "Oração pela esperança — Oração do Dia | Minuto da Oração",
+      "description": "Deus de esperança, quando o desânimo bater à minha porta, renova em mim a certeza de que Tu tens um plano. Ajuda-me a ver além das dificuldades e a...",
+      "og_title": "Oração pela esperança",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     },
     "santo": {
-      "title": "Santa Joana Francisca de Chantal — Santo do Dia | Minuto da Oração",
-      "description": "Fundou a Ordem da Visitação.",
-      "og_title": "Santa Joana Francisca de Chantal — Fundadora",
+      "title": "Santos Ponciano e Hipólito — Santo do Dia | Minuto da Oração",
+      "description": "Papa e sacerdote reconciliados que morreram mártires.",
+      "og_title": "Santos Ponciano e Hipólito — Mártires",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     }
   }
 }
