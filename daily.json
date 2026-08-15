@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "oracao": {
-    "titulo": "Oração pelo próximo",
-    "texto": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor para todos ao meu redor.",
-    "reflexao": "Amar o próximo é a segunda maior lei. Não é apenas um sentimento, mas uma decisão diária.",
-    "versiculo": "Mateus 25,40 — O que fizestes a um destes meus pequeninos irmãos, a mim o fizestes."
+    "titulo": "Oração de entrega",
+    "texto": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
+    "reflexao": "Entregar-se a Deus é o ato mais corajoso que um ser humano pode fazer. É confiar sem reservas.",
+    "versiculo": "1 Pedro 5,7 — Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós."
   },
   "santo": {
-    "nome": "São Maximiliano Kolbe",
-    "titulo": "Mártir",
-    "resumo": "Franciscano que deu a vida por um pai de família em Auschwitz.",
-    "historia": "Franciscano que deu a vida por um pai de família em Auschwitz.\n\nSão Maximiliano Kolbe é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Maximiliano Kolbe nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Maximiliano Kolbe, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Assunção de Nossa Senhora",
+    "titulo": "Solenidade",
+    "resumo": "Maria elevada ao céu em corpo e alma.",
+    "historia": "Maria elevada ao céu em corpo e alma.\n\nAssunção de Nossa Senhora é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Assunção de Nossa Senhora nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Assunção de Nossa Senhora, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo próximo — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor...",
-      "og_title": "Oração pelo próximo",
+      "title": "Oração de entrega — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
+      "og_title": "Oração de entrega",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-14"
+      "date": "2026-08-15"
     },
     "santo": {
-      "title": "São Maximiliano Kolbe — Santo do Dia | Minuto da Oração",
-      "description": "Franciscano que deu a vida por um pai de família em Auschwitz.",
-      "og_title": "São Maximiliano Kolbe — Mártir",
+      "title": "Assunção de Nossa Senhora — Santo do Dia | Minuto da Oração",
+      "description": "Maria elevada ao céu em corpo e alma.",
+      "og_title": "Assunção de Nossa Senhora — Solenidade",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-14"
+      "date": "2026-08-15"
     }
   }
 }
