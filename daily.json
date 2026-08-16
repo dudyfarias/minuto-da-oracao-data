@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "oracao": {
-    "titulo": "Oração de entrega",
-    "texto": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
-    "reflexao": "Entregar-se a Deus é o ato mais corajoso que um ser humano pode fazer. É confiar sem reservas.",
-    "versiculo": "1 Pedro 5,7 — Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós."
+    "titulo": "Oração pela Igreja",
+    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
+    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
+    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
   },
   "santo": {
-    "nome": "Assunção de Nossa Senhora",
-    "titulo": "Solenidade",
-    "resumo": "Maria elevada ao céu em corpo e alma.",
-    "historia": "Maria elevada ao céu em corpo e alma.\n\nAssunção de Nossa Senhora é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Assunção de Nossa Senhora nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Assunção de Nossa Senhora, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santo Estêvão da Hungria",
+    "titulo": "Rei",
+    "resumo": "Primeiro rei cristão da Hungria.",
+    "historia": "Primeiro rei cristão da Hungria.\n\nSanto Estêvão da Hungria é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Estêvão da Hungria nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santo Estêvão da Hungria, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de entrega — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
-      "og_title": "Oração de entrega",
+      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
+      "og_title": "Oração pela Igreja",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-15"
+      "date": "2026-08-16"
     },
     "santo": {
-      "title": "Assunção de Nossa Senhora — Santo do Dia | Minuto da Oração",
-      "description": "Maria elevada ao céu em corpo e alma.",
-      "og_title": "Assunção de Nossa Senhora — Solenidade",
+      "title": "Santo Estêvão da Hungria — Santo do Dia | Minuto da Oração",
+      "description": "Primeiro rei cristão da Hungria.",
+      "og_title": "Santo Estêvão da Hungria — Rei",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-15"
+      "date": "2026-08-16"
     }
   }
 }
