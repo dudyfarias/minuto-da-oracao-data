@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "oracao": {
-    "titulo": "Oração pela Igreja",
-    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
-    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
-    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
+    "titulo": "Oração de proteção",
+    "texto": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os meus caminhos.",
+    "reflexao": "Deus é o nosso refúgio e fortaleza. Não precisamos temer quando estamos sob a Sua proteção.",
+    "versiculo": "Salmo 91,11 — Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
   },
   "santo": {
-    "nome": "Santo Estêvão da Hungria",
-    "titulo": "Rei",
-    "resumo": "Primeiro rei cristão da Hungria.",
-    "historia": "Primeiro rei cristão da Hungria.\n\nSanto Estêvão da Hungria é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Estêvão da Hungria nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santo Estêvão da Hungria, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Jacinta",
+    "titulo": "Vidente de Fátima",
+    "resumo": "Uma das crianças que viram Nossa Senhora.",
+    "historia": "Uma das crianças que viram Nossa Senhora.\n\nSanta Jacinta é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Jacinta nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Jacinta, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
-      "og_title": "Oração pela Igreja",
+      "title": "Oração de proteção — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os...",
+      "og_title": "Oração de proteção",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-16"
+      "date": "2026-08-17"
     },
     "santo": {
-      "title": "Santo Estêvão da Hungria — Santo do Dia | Minuto da Oração",
-      "description": "Primeiro rei cristão da Hungria.",
-      "og_title": "Santo Estêvão da Hungria — Rei",
+      "title": "Santa Jacinta — Santo do Dia | Minuto da Oração",
+      "description": "Uma das crianças que viram Nossa Senhora.",
+      "og_title": "Santa Jacinta — Vidente de Fátima",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-16"
+      "date": "2026-08-17"
     }
   }
 }
