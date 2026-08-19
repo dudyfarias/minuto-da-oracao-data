@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "oracao": {
-    "titulo": "Oração de humildade",
-    "texto": "Senhor Jesus, que sendo Deus Te fizeste servo, ensina-me a ser humilde. Que eu não busque a glória pessoal, mas somente a Tua glória. Tira de mim todo orgulho e vaidade.",
-    "reflexao": "A humildade não é pensar menos de si mesmo, mas pensar menos em si mesmo. É colocar Deus e o próximo em primeiro lugar.",
-    "versiculo": "Filipenses 2,5-7 — Tende em vós o mesmo sentimento que houve em Cristo Jesus."
+    "titulo": "Oração pelo Brasil",
+    "texto": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país mais justo e fraterno.",
+    "reflexao": "Orar pela nação é um dever de todo cristão. O Brasil precisa das nossas orações e do nosso empenho por um futuro melhor.",
+    "versiculo": "Jeremias 29,7 — Buscai a paz da cidade para onde vos deportei e orai por ela ao Senhor."
   },
   "santo": {
-    "nome": "Santa Helena",
-    "titulo": "Imperatriz",
-    "resumo": "Encontrou a Vera Cruz em Jerusalém.",
-    "historia": "Encontrou a Vera Cruz em Jerusalém.\n\nSanta Helena é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Helena nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Helena, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São João Eudes",
+    "titulo": "Fundador",
+    "resumo": "Promoveu a devoção aos Sagrados Corações.",
+    "historia": "Promoveu a devoção aos Sagrados Corações.\n\nSão João Eudes é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São João Eudes nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São João Eudes, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de humildade — Oração do Dia | Minuto da Oração",
-      "description": "Senhor Jesus, que sendo Deus Te fizeste servo, ensina-me a ser humilde. Que eu não busque a glória pessoal, mas somente a Tua glória. Tira de mim todo...",
-      "og_title": "Oração de humildade",
+      "title": "Oração pelo Brasil — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país...",
+      "og_title": "Oração pelo Brasil",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-18"
+      "date": "2026-08-19"
     },
     "santo": {
-      "title": "Santa Helena — Santo do Dia | Minuto da Oração",
-      "description": "Encontrou a Vera Cruz em Jerusalém.",
-      "og_title": "Santa Helena — Imperatriz",
+      "title": "São João Eudes — Santo do Dia | Minuto da Oração",
+      "description": "Promoveu a devoção aos Sagrados Corações.",
+      "og_title": "São João Eudes — Fundador",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-18"
+      "date": "2026-08-19"
     }
   }
 }
