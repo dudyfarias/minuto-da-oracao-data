@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "oracao": {
-    "titulo": "Oração pelo Brasil",
-    "texto": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país mais justo e fraterno.",
-    "reflexao": "Orar pela nação é um dever de todo cristão. O Brasil precisa das nossas orações e do nosso empenho por um futuro melhor.",
-    "versiculo": "Jeremias 29,7 — Buscai a paz da cidade para onde vos deportei e orai por ela ao Senhor."
+    "titulo": "Oração pela vocação",
+    "texto": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a qual fui criado.",
+    "reflexao": "Cada pessoa tem uma vocação única. Descobri-la é encontrar o sentido mais profundo da vida.",
+    "versiculo": "Jeremias 1,5 — Antes que Eu te formasse no ventre materno, Eu te conheci."
   },
   "santo": {
-    "nome": "São João Eudes",
-    "titulo": "Fundador",
-    "resumo": "Promoveu a devoção aos Sagrados Corações.",
-    "historia": "Promoveu a devoção aos Sagrados Corações.\n\nSão João Eudes é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São João Eudes nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São João Eudes, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Bernardo de Claraval",
+    "titulo": "Doutor da Igreja",
+    "resumo": "Abade cisterciense e grande pregador.",
+    "historia": "Abade cisterciense e grande pregador.\n\nSão Bernardo de Claraval é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Bernardo de Claraval nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Bernardo de Claraval, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo Brasil — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país...",
-      "og_title": "Oração pelo Brasil",
+      "title": "Oração pela vocação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a...",
+      "og_title": "Oração pela vocação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-19"
+      "date": "2026-08-20"
     },
     "santo": {
-      "title": "São João Eudes — Santo do Dia | Minuto da Oração",
-      "description": "Promoveu a devoção aos Sagrados Corações.",
-      "og_title": "São João Eudes — Fundador",
+      "title": "São Bernardo de Claraval — Santo do Dia | Minuto da Oração",
+      "description": "Abade cisterciense e grande pregador.",
+      "og_title": "São Bernardo de Claraval — Doutor da Igreja",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-19"
+      "date": "2026-08-20"
     }
   }
 }
