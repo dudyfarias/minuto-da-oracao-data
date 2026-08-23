@@ -1,24 +1,28 @@
 {
-  "date": "2026-08-22",
-  "data_extenso": "22 de agosto de 2026",
-  "liturgia": "Bem-aventurada Virgem Maria Rainha, Memória",
-  "cor": "Branco",
+  "date": "2026-08-23",
+  "data_extenso": "23 de agosto de 2026",
+  "liturgia": "21º Domingo do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 1, 26-38",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
-    "texto": "Naquele tempo, 26o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27a uma virgem, prometida em casamento a um homem chamado José. Ele era descendente de Davi e o nome da Virgem era Maria.28O anjo entrou onde ela estava e disse: “Alegra-te, cheia de graça, o Senhor está contigo!” 29Maria ficou perturbada com estas palavras e começou a pensar qual seria o significado da saudação.30O anjo, então, disse-lhe: “Não tenhas medo, Maria, porque encontraste graça diante de Deus. 31Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. 32Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi. 33Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim”.34Maria perguntou ao anjo: “Como acontecerá isso, se eu não conheço homem algum?” 35O anjo respondeu: “O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra. Por isso, o menino que vai nascer será chamado Santo, Filho de Deus. 36Também Isabel, tua parenta, concebeu um filho na velhice. Este já é o sexto mês daquela que era considerada estéril, 37porque para Deus nada é impossível”. 38Maria, então, disse: “Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!” E o anjo retirou-se."
+    "referencia": "Mt 16,13-20",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, 13Jesus foi à região de Cesareia de Filipe e aí perguntou a seus discípulos: “Quem dizem os homens ser o Filho do Homem?” 14Eles responderam: “Alguns dizem que é João Batista; outros, que é Elias; outros, ainda, que é Jeremias ou algum dos profetas”. 15Então Jesus lhes perguntou: “E vós, quem dizeis que eu sou?” 16Simão Pedro respondeu: “Tu és o Messias, o Filho do Deus vivo”. 17Respondendo, Jesus lhe disse: “Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. 18Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. 19Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus”. 20Jesus, então, ordenou aos discípulos que não dissessem a ninguém que ele era o Messias."
   },
   "salmo": {
-    "referencia": "Sl 112",
+    "referencia": "Sl 137(138)",
     "titulo": "",
-    "texto": "— Louvai, louvai, ó servos do Senhor, louvai, louvai o nome do Senhor! Bendito seja o nome do Senhor, agora e por toda a eternidade!\n— Do nascer do sol até o seu ocaso, louvado seja o nome do Senhor! O Senhor está acima das nações, sua glória vai além dos altos céus.\n— Quem pode comparar-se ao nosso Deus, ao Senhor, que no alto céu tem o seu trono e se inclina para olhar o céu e a terra?\n— Levanta da poeira o indigente e do lixo ele retira o pobrezinho, para fazê-lo assentar-se com os nobres, assentar-se com os nobres do seu povo",
-    "refrao": "Bendito seja o nome do Senhor, agora e por toda a eternidade!"
+    "texto": "– Ó Senhor, de coração eu vos dou graças, porque ouvistes as palavras dos meus lábios! Perante os vossos anjos vou cantar-vos e ante o vosso templo vou prostrar-me.\n– Eu agradeço vosso amor, vossa verdade, porque fizestes muito mais que prometestes; naquele dia em que gritei, vós me escutastes e aumentastes o vigor da minha alma.\n– Altíssimo é o Senhor, mas olha os pobres e de longe reconhece os orgulhosos. Ó Senhor, vossa bondade é para sempre! Eu vos peço: não deixeis inacabada, esta obra que fizeram vossas mãos!",
+    "refrao": "Ó Senhor, vossa bondade é para sempre! Completai em mim a obra começada!"
   },
   "primeira_leitura": {
-    "referencia": "Is 9, 1-6",
-    "titulo": "Leitura do Livro do Profeta Isaías",
-    "texto": "1O povo, que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu. 2Fizeste crescer a alegria, e aumentaste a felicidade; todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos. 3Pois o jugo que oprimia o povo, — a carga sobre os ombros, o orgulho dos fiscais — tu os abateste como na jornada de Madiã. 4Botas de tropa de assalto, trajes manchados de sangue, tudo será queimado e devorado pelas chamas. 5Porque nasceu para nós um menino, foi-nos dado um filho; ele traz aos ombros a marca da realeza; o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz. 6Grande será o seu reino e a paz não há de ter fim sobre o trono de Davi e sobre o seu reinado, que ele irá consolidar e confirmar em justiça e santidade, a partir de agora e para todo o sempre. O amor zeloso do Senhor dos exércitos há de realizar estas coisas."
+    "referencia": "Is 22,19-23",
+    "titulo": "Leitura do Livro do profeta Isaías",
+    "texto": "Assim diz o Senhor a Sobna, o administrador do palácio: 19“Eu vou te destituir do posto que ocupas e demitir-te do teu cargo. 20Acontecerá que nesse dia chamarei meu servo Eliacim, filho de Helcias, 21e o vestirei com a tua túnica e colocarei nele a tua faixa, porei em suas mãos a tua autoridade; ele será um pai para os habitantes de Jerusalém e para a casa de Judá. 22Eu o farei levar aos ombros a chave da casa de Davi; ele abrirá, e ninguém poderá fechar; ele fechará, e ninguém poderá abrir. 23Hei de fixá-lo como estaca em lugar seguro, e aí ele terá o trono de glória na casa de seu pai”."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "Rm 11,33-36",
+    "titulo": "Leitura da carta de São Paulo aos Romanos",
+    "texto": "33Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Como são inescrutáveis os seus juízos e impenetráveis os seus caminhos! 34De fato, quem conheceu o pensamento do Senhor? Ou quem foi seu conselheiro? 35Ou quem se antecipou em dar-lhe alguma coisa, de maneira a ter direito a uma retribuição? 36Na verdade, tudo é dele, por ele e para ele. A ele a glória para sempre. Amém!"
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
