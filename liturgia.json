@@ -1,28 +1,24 @@
 {
-  "date": "2026-08-23",
-  "data_extenso": "23 de agosto de 2026",
-  "liturgia": "21º Domingo do Tempo Comum",
-  "cor": "Verde",
+  "date": "2026-08-24",
+  "data_extenso": "24 de agosto de 2026",
+  "liturgia": "São Bartolomeu, Apóstolo, Festa",
+  "cor": "Vermelho",
   "evangelho": {
-    "referencia": "Mt 16,13-20",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
-    "texto": "Naquele tempo, 13Jesus foi à região de Cesareia de Filipe e aí perguntou a seus discípulos: “Quem dizem os homens ser o Filho do Homem?” 14Eles responderam: “Alguns dizem que é João Batista; outros, que é Elias; outros, ainda, que é Jeremias ou algum dos profetas”. 15Então Jesus lhes perguntou: “E vós, quem dizeis que eu sou?” 16Simão Pedro respondeu: “Tu és o Messias, o Filho do Deus vivo”. 17Respondendo, Jesus lhe disse: “Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. 18Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. 19Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus”. 20Jesus, então, ordenou aos discípulos que não dissessem a ninguém que ele era o Messias."
+    "referencia": "Jo 1, 45-51",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+    "texto": "45Filipe encontrou-se com Natanael e lhe disse: “Encontramos aquele de quem Moisés escreveu na Lei, e também os profetas: Jesus de Nazaré, o filho de José”.46Natanael disse: “De Nazaré pode sair coisa boa?” Filipe respondeu: “Vem ver!” 47Jesus viu Natanael que vinha para ele e comentou: “Aí vem um israelita de verdade, um homem sem falsidade”. 48Natanael perguntou: “De onde me conheces?” Jesus respondeu: “Antes que Filipe te chamasse, enquanto estavas debaixo da figueira, eu te vi”. 49Natanael respondeu: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel”.50Jesus disse: “Tu crês porque te disse: Eu te vi debaixo da figueira? Coisas maiores que esta verás!” 51E Jesus continuou: “Em verdade, em verdade, eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem”."
   },
   "salmo": {
-    "referencia": "Sl 137(138)",
+    "referencia": "Sl 144",
     "titulo": "",
-    "texto": "– Ó Senhor, de coração eu vos dou graças, porque ouvistes as palavras dos meus lábios! Perante os vossos anjos vou cantar-vos e ante o vosso templo vou prostrar-me.\n– Eu agradeço vosso amor, vossa verdade, porque fizestes muito mais que prometestes; naquele dia em que gritei, vós me escutastes e aumentastes o vigor da minha alma.\n– Altíssimo é o Senhor, mas olha os pobres e de longe reconhece os orgulhosos. Ó Senhor, vossa bondade é para sempre! Eu vos peço: não deixeis inacabada, esta obra que fizeram vossas mãos!",
-    "refrao": "Ó Senhor, vossa bondade é para sempre! Completai em mim a obra começada!"
+    "texto": "— Que vossas obras, ó Senhor, vos glorifiquem, e os vossos Santos com louvores vos bendigam! Narrem a glória e o esplendor do vosso reino e saibam proclamar vosso poder!\n— Para espalhar vossos prodígios entre os homens, e o fulgor de vosso reino esplendoroso. O vosso reino é um reino para sempre, vosso poder, de geração em geração!\n— É justo o Senhor em seus caminhos, é Santo em toda obra que ele faz. Ele está perto da pessoa que o invoca, de todo aquele que o invoca lealmente",
+    "refrao": "Ó Senhor, vossos amigos anunciem vosso Reino glorioso!"
   },
   "primeira_leitura": {
-    "referencia": "Is 22,19-23",
-    "titulo": "Leitura do Livro do profeta Isaías",
-    "texto": "Assim diz o Senhor a Sobna, o administrador do palácio: 19“Eu vou te destituir do posto que ocupas e demitir-te do teu cargo. 20Acontecerá que nesse dia chamarei meu servo Eliacim, filho de Helcias, 21e o vestirei com a tua túnica e colocarei nele a tua faixa, porei em suas mãos a tua autoridade; ele será um pai para os habitantes de Jerusalém e para a casa de Judá. 22Eu o farei levar aos ombros a chave da casa de Davi; ele abrirá, e ninguém poderá fechar; ele fechará, e ninguém poderá abrir. 23Hei de fixá-lo como estaca em lugar seguro, e aí ele terá o trono de glória na casa de seu pai”."
+    "referencia": "Ap 21, 9b-14",
+    "titulo": "Leitura do Apocalipse de São João",
+    "texto": "9bUm anjo falou comigo e disse: “Vem! Vou mostrar-te a noiva, a esposa do Cordeiro”. 10Então me levou em espírito a uma montanha grande e alta. Mostrou-me a cidade Santa, Jerusalém, descendo do céu, de junto de Deus, 11brilhando com a glória de Deus. Seu brilho era como o de uma pedra preciosíssima, como o brilho de jaspe cristalino. 12Estava cercada por uma muralha maciça e alta, com doze portas. Sobre as portas estavam doze anjos, e nas portas estavam escritos os nomes das doze tribos de Israel. 13Havia três portas do lado do oriente, três portas do lado norte, três portas do lado sul e três portas do lado do ocidente. 14A muralha da cidade tinha doze alicerces, e sobre eles estavam escritos os nomes dos doze apóstolos do Cordeiro."
   },
-  "segunda_leitura": {
-    "referencia": "Rm 11,33-36",
-    "titulo": "Leitura da carta de São Paulo aos Romanos",
-    "texto": "33Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Como são inescrutáveis os seus juízos e impenetráveis os seus caminhos! 34De fato, quem conheceu o pensamento do Senhor? Ou quem foi seu conselheiro? 35Ou quem se antecipou em dar-lhe alguma coisa, de maneira a ter direito a uma retribuição? 36Na verdade, tudo é dele, por ele e para ele. A ele a glória para sempre. Amém!"
-  },
+  "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
