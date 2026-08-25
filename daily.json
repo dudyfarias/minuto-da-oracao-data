@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "oracao": {
-    "titulo": "Oração pelos professores",
-    "texto": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas também corações.",
-    "reflexao": "Ensinar é uma das vocações mais nobres. Os professores moldam o futuro através de cada aula.",
-    "versiculo": "Provérbios 22,6 — Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+    "titulo": "Oração pela criação",
+    "texto": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações futuras.",
+    "reflexao": "Somos guardiões da criação de Deus. Cuidar da natureza é uma forma de agradecer ao Criador.",
+    "versiculo": "Gênesis 2,15 — O Senhor Deus tomou o homem e o colocou no jardim do Éden para cultivá-lo e guardá-lo."
   },
   "santo": {
-    "nome": "São Bartolomeu",
-    "titulo": "Apóstolo",
-    "resumo": "Evangelizou a Armênia e foi martirizado.",
-    "historia": "Evangelizou a Armênia e foi martirizado.\n\nSão Bartolomeu é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Bartolomeu nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Bartolomeu, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Luís IX",
+    "titulo": "Rei da França",
+    "resumo": "Rei justo e piedoso.",
+    "historia": "Rei justo e piedoso.\n\nSão Luís IX é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Luís IX nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Luís IX, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos professores — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas...",
-      "og_title": "Oração pelos professores",
+      "title": "Oração pela criação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações...",
+      "og_title": "Oração pela criação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     "santo": {
-      "title": "São Bartolomeu — Santo do Dia | Minuto da Oração",
-      "description": "Evangelizou a Armênia e foi martirizado.",
-      "og_title": "São Bartolomeu — Apóstolo",
+      "title": "São Luís IX — Santo do Dia | Minuto da Oração",
+      "description": "Rei justo e piedoso.",
+      "og_title": "São Luís IX — Rei da França",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     }
   }
 }

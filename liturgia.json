@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-24",
-  "data_extenso": "24 de agosto de 2026",
-  "liturgia": "São Bartolomeu, Apóstolo, Festa",
-  "cor": "Vermelho",
+  "date": "2026-08-25",
+  "data_extenso": "25 de agosto de 2026",
+  "liturgia": "3ª feira da 21ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Jo 1, 45-51",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
-    "texto": "45Filipe encontrou-se com Natanael e lhe disse: “Encontramos aquele de quem Moisés escreveu na Lei, e também os profetas: Jesus de Nazaré, o filho de José”.46Natanael disse: “De Nazaré pode sair coisa boa?” Filipe respondeu: “Vem ver!” 47Jesus viu Natanael que vinha para ele e comentou: “Aí vem um israelita de verdade, um homem sem falsidade”. 48Natanael perguntou: “De onde me conheces?” Jesus respondeu: “Antes que Filipe te chamasse, enquanto estavas debaixo da figueira, eu te vi”. 49Natanael respondeu: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel”.50Jesus disse: “Tu crês porque te disse: Eu te vi debaixo da figueira? Coisas maiores que esta verás!” 51E Jesus continuou: “Em verdade, em verdade, eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem”."
+    "referencia": "Mt 23,23-26",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, disse Jesus: 23“Ai de vós, mestres da Lei e fariseus hipócritas! Vós pagais o dízimo da hortelã, da erva-doce e do cominho e deixais de lado os ensinamentos mais importantes da Lei, como a justiça, a misericórdia e a fidelidade. Vós deveríeis praticar isso sem, contudo, deixar aquilo. 24Guias cegos! Vós filtrais o mosquito, mas engolis o camelo. 25Ai de vós, mestres da Lei e fariseus hipócritas! Vós limpais o copo e o prato por fora, mas, por dentro, estais cheios de roubo e cobiça. 26Fariseu cego! Limpa primeiro o copo por dentro, para que também por fora fique limpo”."
   },
   "salmo": {
-    "referencia": "Sl 144",
+    "referencia": "Sl 95(96)",
     "titulo": "",
-    "texto": "— Que vossas obras, ó Senhor, vos glorifiquem, e os vossos Santos com louvores vos bendigam! Narrem a glória e o esplendor do vosso reino e saibam proclamar vosso poder!\n— Para espalhar vossos prodígios entre os homens, e o fulgor de vosso reino esplendoroso. O vosso reino é um reino para sempre, vosso poder, de geração em geração!\n— É justo o Senhor em seus caminhos, é Santo em toda obra que ele faz. Ele está perto da pessoa que o invoca, de todo aquele que o invoca lealmente",
-    "refrao": "Ó Senhor, vossos amigos anunciem vosso Reino glorioso!"
+    "texto": "– Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável, e os povos ele julga com justiça.\n– O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem.\n– E exultem as florestas e as matas na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça, e os povos julgará com lealdade.",
+    "refrao": "O Senhor vem julgar nossa terra."
   },
   "primeira_leitura": {
-    "referencia": "Ap 21, 9b-14",
-    "titulo": "Leitura do Apocalipse de São João",
-    "texto": "9bUm anjo falou comigo e disse: “Vem! Vou mostrar-te a noiva, a esposa do Cordeiro”. 10Então me levou em espírito a uma montanha grande e alta. Mostrou-me a cidade Santa, Jerusalém, descendo do céu, de junto de Deus, 11brilhando com a glória de Deus. Seu brilho era como o de uma pedra preciosíssima, como o brilho de jaspe cristalino. 12Estava cercada por uma muralha maciça e alta, com doze portas. Sobre as portas estavam doze anjos, e nas portas estavam escritos os nomes das doze tribos de Israel. 13Havia três portas do lado do oriente, três portas do lado norte, três portas do lado sul e três portas do lado do ocidente. 14A muralha da cidade tinha doze alicerces, e sobre eles estavam escritos os nomes dos doze apóstolos do Cordeiro."
+    "referencia": "2Ts 2,1-3.14-17",
+    "titulo": "Leitura da Segunda Carta de São Paulo aos Tessalonicenses",
+    "texto": "1No que se refere à vinda de nosso Senhor Jesus Cristo e à nossa união com ele, nós vos pedimos, irmãos: 2não deixeis tão facilmente transtornar a vossa cabeça nem vos alarmeis por causa de alguma revelação ou carta atribuída a nós, afirmando que o Dia do Senhor está próximo. 3Que ninguém vos engane de modo algum. 14Deus vos chamou para que, por meio do nosso Evangelho, alcanceis a glória de nosso Senhor Jesus Cristo. 15Assim, portanto, irmãos, ficai firmes e conservai firmemente as tradições que vos ensinamos, de viva voz ou por carta. 16Nosso Senhor Jesus Cristo e Deus nosso Pai, que nos amou em sua graça e nos proporcionou uma consolação eterna e feliz esperança, 17animem os vossos corações e vos confirmem em toda boa ação e palavra."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
