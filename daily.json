@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "oracao": {
-    "titulo": "Oração pela criação",
-    "texto": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações futuras.",
-    "reflexao": "Somos guardiões da criação de Deus. Cuidar da natureza é uma forma de agradecer ao Criador.",
-    "versiculo": "Gênesis 2,15 — O Senhor Deus tomou o homem e o colocou no jardim do Éden para cultivá-lo e guardá-lo."
+    "titulo": "Oração de perseverança",
+    "texto": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos que Tu colocaste em meu coração.",
+    "reflexao": "A perseverança é uma virtude essencial na vida cristã. Os grandes santos foram aqueles que nunca desistiram.",
+    "versiculo": "Gálatas 6,9 — Não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos."
   },
   "santo": {
-    "nome": "São Luís IX",
-    "titulo": "Rei da França",
-    "resumo": "Rei justo e piedoso.",
-    "historia": "Rei justo e piedoso.\n\nSão Luís IX é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Luís IX nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Luís IX, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Teresa de Jesus Jornet",
+    "titulo": "Fundadora",
+    "resumo": "Fundou instituição para idosos desamparados.",
+    "historia": "Fundou instituição para idosos desamparados.\n\nSanta Teresa de Jesus Jornet é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teresa de Jesus Jornet nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Teresa de Jesus Jornet, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela criação — Oração do Dia | Minuto da Oração",
-      "description": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações...",
-      "og_title": "Oração pela criação",
+      "title": "Oração de perseverança — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos...",
+      "og_title": "Oração de perseverança",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     "santo": {
-      "title": "São Luís IX — Santo do Dia | Minuto da Oração",
-      "description": "Rei justo e piedoso.",
-      "og_title": "São Luís IX — Rei da França",
+      "title": "Santa Teresa de Jesus Jornet — Santo do Dia | Minuto da Oração",
+      "description": "Fundou instituição para idosos desamparados.",
+      "og_title": "Santa Teresa de Jesus Jornet — Fundadora",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     }
   }
 }
