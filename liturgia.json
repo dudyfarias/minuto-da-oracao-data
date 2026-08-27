@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-26",
-  "data_extenso": "26 de agosto de 2026",
-  "liturgia": "4ª feira da 21ª Semana do Tempo Comum",
-  "cor": "Verde",
+  "date": "2026-08-27",
+  "data_extenso": "27 de agosto de 2026",
+  "liturgia": "Santa Mônica, Memória",
+  "cor": "Branco",
   "evangelho": {
-    "referencia": "Mt 23,27-32",
+    "referencia": "Mt 24,42-51",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
-    "texto": "Naquele tempo, disse Jesus: 27“Ai de vós, mestres da Lei e fariseus hipócritas! Vós sois como sepulcros caiados: por fora parecem belos, mas por dentro estão cheios de ossos de mortos e de toda podridão! 28Assim também vós: por fora, pareceis justos diante dos outros, mas por dentro estais cheios de hipocrisia e injustiça. 29Ai de vós, mestres da Lei e fariseus hipócritas! Vós construís sepulcros para os profetas e enfeitais os túmulos dos justos, 30e dizeis: ‘Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices da morte dos profetas’. 31Com isso, confessais que sois filhos daqueles que mataram os profetas. 32Completai, pois, a medida de vossos pais!”"
+    "texto": "Naquele tempo disse Jesus aos seus discípulos: 42“Ficai atentos! porque não sabeis em que dia virá o Senhor. 43Compreendei bem isto: se o dono da casa soubesse a que horas viria o ladrão, certamente vigiaria e não deixaria que a sua casa fosse arrombada. 44Por isso, também vós ficai preparados! Porque, na hora em que menos pensais, o Filho do homem virá. 45Qual é o empregado fiel e prudente que o senhor colocou como responsável pelos demais empregados, para lhes dar alimento na hora certa? 46Feliz o empregado cujo senhor o encontrar agindo assim, quando voltar. 47Em verdade vos digo, ele lhe confiará a administração de todos os seus bens. 48Mas, se o empregado mau pensar: ‘Meu senhor está demorando’, 49e começar a bater nos companheiros, a comer e a beber com os bêbados, 50então o senhor desse empregado virá no dia em que ele não espera e na hora que ele não sabe. 51Ele o partirá ao meio e lhe imporá a sorte dos hipócritas. Ali haverá choro e ranger de dentes”."
   },
   "salmo": {
-    "referencia": "Sl 127(128)",
+    "referencia": "Sl 144(145)",
     "titulo": "",
-    "texto": "– Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!\n– Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida.",
-    "refrao": "Felizes todos os que respeitam o Senhor!"
+    "texto": "– Todos os dias haverei de bendizer-vos, hei de louvar o vosso nome para sempre. Grande é o Senhor e muito digno de louvores, e ninguém pode medir sua grandeza.\n– Uma idade conta à outra vossas obras e publica os vossos feitos poderosos; proclamam todos o esplendor de vossa glória e divulgam vossas obras portentosas!\n– Narram todos vossas obras poderosas, e de vossa imensidade todos falam. Eles recordam vosso amor tão grandioso e exaltam, ó Senhor, vossa justiça.",
+    "refrao": "Bendirei o vosso nome pelos séculos, Senhor!"
   },
   "primeira_leitura": {
-    "referencia": "2Ts 3,6-10.16-18",
-    "titulo": "Leitura da Segunda Carta de São Paulo aos Tessalonicenses",
-    "texto": "6Nós vos ordenamos, irmãos, em nome de nosso Senhor Jesus Cristo, que vos afasteis de todo irmão que se comporta de maneira desordenada e contrária à tradição que de nós receberam. 7Bem sabeis como deveis seguir o nosso exemplo, pois não temos vivido entre vós na ociosidade. 8De ninguém recebemos de graça o pão que comemos. Pelo contrário, trabalhamos com esforço e cansaço, de dia e de noite, para não sermos pesados a ninguém. 9Não que não tivéssemos o direito de fazê-lo, mas queríamos apresentar-nos como exemplo a ser imitado. 10Com efeito, quando estávamos entre vós, demos esta regra: “Quem não quer trabalhar também não deve comer”. 16Que o Senhor da paz, ele próprio, vos dê a paz, sempre e em toda a parte. O Senhor esteja com todos vós. 17Esta saudação é de meu próprio punho, de Paulo. Assim é que assino todas as minhas cartas; é a minha letra. 18A graça de nosso Senhor Jesus Cristo esteja com todos vós."
+    "referencia": "1Cor 1,1-9",
+    "titulo": "Início da Primeira Carta de São Paulo aos Coríntios",
+    "texto": "1Paulo, chamado a ser apóstolo de Jesus Cristo, por vontade de Deus, e o irmão Sóstenes 2à Igreja de Deus que está em Corinto: aos que foram santificados em Cristo Jesus, chamados a ser santos junto com todos os que, em qualquer lugar, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso. 3Para vós, graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. 4Dou graças a Deus sempre a vosso respeito, por causa da graça que Deus vos concedeu em Cristo Jesus: 5nele fostes enriquecidos em tudo, em toda palavra e em todo conhecimento, 6à medida que o testemunho sobre Cristo se confirmou entre vós. 7Assim, não tendes falta de nenhum dom, vós que aguardais a revelação do Senhor nosso, Jesus Cristo. 8É ele também que vos dará perseverança em vosso procedimento irrepreensível até o fim, até o dia de nosso Senhor, Jesus Cristo. 9Deus é fiel; por ele fostes chamados à comunhão com seu Filho, Jesus Cristo, Senhor nosso."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"

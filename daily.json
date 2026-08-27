@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "oracao": {
-    "titulo": "Oração de perseverança",
-    "texto": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos que Tu colocaste em meu coração.",
-    "reflexao": "A perseverança é uma virtude essencial na vida cristã. Os grandes santos foram aqueles que nunca desistiram.",
-    "versiculo": "Gálatas 6,9 — Não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos."
+    "titulo": "Oração pelos idosos",
+    "texto": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor inabalável.",
+    "reflexao": "Os idosos são tesouros de sabedoria e experiência. Honrá-los é um mandamento de Deus.",
+    "versiculo": "Levítico 19,32 — Diante das cãs te levantarás e honrarás a pessoa do ancião."
   },
   "santo": {
-    "nome": "Santa Teresa de Jesus Jornet",
-    "titulo": "Fundadora",
-    "resumo": "Fundou instituição para idosos desamparados.",
-    "historia": "Fundou instituição para idosos desamparados.\n\nSanta Teresa de Jesus Jornet é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teresa de Jesus Jornet nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Teresa de Jesus Jornet, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Mônica",
+    "titulo": "Mãe de Santo Agostinho",
+    "resumo": "Orou pela conversão de seu filho.",
+    "historia": "Orou pela conversão de seu filho.\n\nSanta Mônica é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Mônica nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Mônica, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de perseverança — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos...",
-      "og_title": "Oração de perseverança",
+      "title": "Oração pelos idosos — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor...",
+      "og_title": "Oração pelos idosos",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-26"
+      "date": "2026-08-27"
     },
     "santo": {
-      "title": "Santa Teresa de Jesus Jornet — Santo do Dia | Minuto da Oração",
-      "description": "Fundou instituição para idosos desamparados.",
-      "og_title": "Santa Teresa de Jesus Jornet — Fundadora",
+      "title": "Santa Mônica — Santo do Dia | Minuto da Oração",
+      "description": "Orou pela conversão de seu filho.",
+      "og_title": "Santa Mônica — Mãe de Santo Agostinho",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-26"
+      "date": "2026-08-27"
     }
   }
 }
