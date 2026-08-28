@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "oracao": {
-    "titulo": "Oração pelos idosos",
-    "texto": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor inabalável.",
-    "reflexao": "Os idosos são tesouros de sabedoria e experiência. Honrá-los é um mandamento de Deus.",
-    "versiculo": "Levítico 19,32 — Diante das cãs te levantarás e honrarás a pessoa do ancião."
+    "titulo": "Oração pela misericórdia",
+    "texto": "Pai de misericórdia, tem piedade de mim. Eu reconheço as minhas fraquezas e as minhas falhas. Na Tua infinita bondade, perdoa-me e renova-me. Jesus, eu confio em Vós.",
+    "reflexao": "A misericórdia de Deus é maior que qualquer pecado. Nunca é tarde para voltar ao Pai.",
+    "versiculo": "Lucas 6,36 — Sede misericordiosos como vosso Pai é misericordioso."
   },
   "santo": {
-    "nome": "Santa Mônica",
-    "titulo": "Mãe de Santo Agostinho",
-    "resumo": "Orou pela conversão de seu filho.",
-    "historia": "Orou pela conversão de seu filho.\n\nSanta Mônica é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Mônica nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Mônica, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santo Agostinho",
+    "titulo": "Doutor da Igreja",
+    "resumo": "Bispo de Hipona, um dos maiores teólogos da Igreja.",
+    "historia": "Bispo de Hipona, um dos maiores teólogos da Igreja.\n\nSanto Agostinho é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Agostinho nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santo Agostinho, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos idosos — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor...",
-      "og_title": "Oração pelos idosos",
+      "title": "Oração pela misericórdia — Oração do Dia | Minuto da Oração",
+      "description": "Pai de misericórdia, tem piedade de mim. Eu reconheço as minhas fraquezas e as minhas falhas. Na Tua infinita bondade, perdoa-me e renova-me. Jesus, eu...",
+      "og_title": "Oração pela misericórdia",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     "santo": {
-      "title": "Santa Mônica — Santo do Dia | Minuto da Oração",
-      "description": "Orou pela conversão de seu filho.",
-      "og_title": "Santa Mônica — Mãe de Santo Agostinho",
+      "title": "Santo Agostinho — Santo do Dia | Minuto da Oração",
+      "description": "Bispo de Hipona, um dos maiores teólogos da Igreja.",
+      "og_title": "Santo Agostinho — Doutor da Igreja",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     }
   }
 }
