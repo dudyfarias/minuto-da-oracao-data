@@ -1,24 +1,28 @@
 {
-  "date": "2026-08-29",
-  "data_extenso": "29 de agosto de 2026",
-  "liturgia": "Martírio de São João Batista, Memória",
-  "cor": "Vermelho",
+  "date": "2026-08-30",
+  "data_extenso": "30 de agosto de 2026",
+  "liturgia": "22º Domingo do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Mc 6, 17-29",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
-    "texto": "Naquele tempo, 17Herodes tinha mandado prender João, e colocá-lo acorrentado na prisão. Fez isso por causa de Herodíades, mulher do seu irmão Filipe, com quem se tinha casado. 18João dizia a Herodes: “Não te é permitido ficar com a mulher do teu irmão”. 19Por isso Herodíades o odiava e queria matá-lo, mas não podia. 20Com efeito, Herodes tinha medo de João, pois sabia que ele era justo e santo, e por isso o protegia. Gostava de ouvi-lo, embora ficasse embaraçado quando o escutava.21Finalmente, chegou o dia oportuno. Era o aniversário de Herodes, e ele fez um grande banquete para os grandes da corte, os oficiais e os cidadãos importantes da Galileia. 22A filha de Herodíades entrou e dançou, agradando a Herodes e seus convidados. Então o rei disse à moça: “Pede-me o que quiseres e eu to darei”. 23E lhe jurou dizendo: “Eu te darei qualquer coisa que me pedires, ainda que seja a metade do meu reino”.24Ela saiu e perguntou à mãe: “O que vou pedir?” A mãe respondeu: “A cabeça de João Batista”. 25E, voltando depressa para junto do rei, pediu: “Quero que me dês agora, num prato, a cabeça de João Batista”. 26O rei ficou muito triste, mas não pôde recusar. Ele tinha feito o juramento diante dos convidados. 27Imediatamente, o rei mandou que um soldado fosse buscar a cabeça de João.O soldado saiu, degolou-o na prisão, 28trouxe a cabeça num prato e a deu à moça. Ela a entregou à sua mãe. 29Ao saberem disso, os discípulos de João foram lá, levaram o cadáver e o sepultaram."
+    "referencia": "Mt 16,21-27",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, 21Jesus começou a mostrar a seus discípulos que devia ir a Jerusalém e sofrer muito da parte dos anciãos, dos sumos sacerdotes e dos mestres da Lei e que devia ser morto e ressuscitar no terceiro dia. 22Então Pedro tomou Jesus à parte e começou a repreendê-lo, dizendo: “Deus não permita tal coisa, Senhor! Que isso nunca te aconteça!” 23Jesus, porém, voltou-se para Pedro e disse: “Vai para longe, satanás! Tu és para mim uma pedra de tropeço, porque não pensas as coisas de Deus, mas sim as coisas dos homens!” 24Então Jesus disse aos discípulos: “Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga. 25Pois quem quiser salvar a sua vida vai perdê-la; e quem perder a sua vida por causa de mim vai encontrá-la. 26De fato, que adianta ao homem ganhar o mundo inteiro, mas perder a sua vida? O que poderá alguém dar em troca de sua vida? 27Porque o Filho do Homem virá na glória do seu Pai, com os seus anjos, e então retribuirá a cada um de acordo com a sua conduta”."
   },
   "salmo": {
-    "referencia": "Sl 70",
+    "referencia": "Sl 62(63)",
     "titulo": "",
-    "texto": "— Eu procuro meu refúgio em vós, Senhor: que eu não seja envergonhado para sempre! Porque sois justo, defendei-me e libertai-me! Escutai a minha voz, vinde salvar-me! \n— Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Porque sois a minha força e meu amparo, o meu refúgio, proteção e segurança! Libertai-me, ó meu Deus, das mãos do ímpio. \n— Porque sois, ó Senhor Deus, minha esperança, em vós confio desde a minha juventude! Sois meu apoio desde antes que eu nascesse, desde o seio maternal, o meu amparo. \n— Minha boca anunciará todos os dias vossa justiça e vossas graças incontáveis. Vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas",
-    "refrao": "Minha boca anunciará vossa justiça."
+    "texto": "– Sois vós, ó Senhor, o meu Deus! Desde a aurora, ansioso vos busco! A minha alma tem sede de vós, minha carne também vos deseja, como terra sedenta e sem água!\n– Venho, assim, contemplar-vos no templo, para ver vossa glória e poder. Vosso amor vale mais do que a vida: e por isso meus lábios vos louvam.\n– Quero, pois, vos louvar pela vida e elevar para vós minhas mãos! A minha alma será saciada, como em grande banquete de festa; cantará a alegria em meus lábios ao cantar para vós meu louvor!\n– Para mim fostes sempre um socorro; de vossas asas à sombra eu exulto! Minha alma se agarra em vós; com poder vossa mão me sustenta.",
+    "refrao": "A minha alma tem sede de vós como a terra sedenta, ó meu Deus!"
   },
   "primeira_leitura": {
-    "referencia": "Jr 1, 17-19",
-    "titulo": "Leitura do Livro do Profeta Jeremias",
-    "texto": "Naqueles dias, a Palavra do Senhor foi-me dirigida: 17“Vamos, põe a roupa e o cinto, levanta-te e comunica-lhes tudo que eu te mandar dizer: não tenhas medo, senão, eu te farei tremer na presença deles. 18Com efeito, eu te transformarei hoje numa cidade fortificada, numa coluna de ferro, num muro de bronze contra todo o mundo, frente aos reis de Judá e seus príncipes, aos sacerdotes e ao povo da terra; 19eles farão guerra contra ti, mas não prevalecerão, porque eu estou contigo para defender-te”, diz o Senhor."
+    "referencia": "Jr 20,7-9",
+    "titulo": "Leitura do Livro do profeta Jeremias",
+    "texto": "7Seduziste-me, Senhor, e deixei-me seduzir; foste mais forte, tiveste mais poder. Tornei-me alvo de irrisão o dia inteiro, todos zombam de mim. 8Todas as vezes que falo, levanto a voz, clamando contra a maldade e invocando calamidades; a palavra do Senhor tornou-se para mim fonte de vergonha e de chacota o dia inteiro. 9Disse comigo: “Não quero mais lembrar-me disso nem falar mais em nome dele”. Senti, então, dentro de mim um fogo ardente a penetrar-me o corpo todo: desfaleci, sem forças para suportar."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "Rm 12,1-2",
+    "titulo": "Leitura da carta de São Paulo aos Romanos",
+    "texto": "1Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: este é o vosso culto espiritual. 2Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito."
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
