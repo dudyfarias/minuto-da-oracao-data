@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "oracao": {
-    "titulo": "Oração da manhã",
-    "texto": "Senhor, neste novo dia que se inicia, entrego a Ti todos os meus planos, caminhos e decisões. Que a Tua luz ilumine cada passo e que eu saiba reconhecer a Tua presença em cada momento.",
-    "reflexao": "Comece cada manhã entregando o dia a Deus. Mesmo nas manhãs mais difíceis, um momento de oração pode transformar toda a jornada.",
-    "versiculo": "Salmo 5,3 — De manhã, Senhor, ouves a minha voz; de manhã te apresento a minha oração e fico esperando."
+    "titulo": "Oração de gratidão",
+    "texto": "Pai celestial, obrigado por mais um dia de vida. Obrigado pelas bênçãos visíveis e invisíveis, pelos desafios que me fortalecem e pelas alegrias que me renovam. Ensina-me a ser grato em todas as circunstâncias.",
+    "reflexao": "A gratidão é uma das formas mais poderosas de oração. Quando agradecemos, reconhecemos que tudo vem de Deus.",
+    "versiculo": "1 Tessalonicenses 5,18 — Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco."
   },
   "santo": {
-    "nome": "São Raimundo Nonato",
-    "titulo": "Cardeal",
-    "resumo": "Ofereceu-se como refém para libertar cativos.",
-    "historia": "Ofereceu-se como refém para libertar cativos.\n\nSão Raimundo Nonato é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Raimundo Nonato nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Raimundo Nonato, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Beatriz da Silva",
+    "titulo": "Fundadora",
+    "resumo": "Fundou a Ordem da Imaculada Conceição.",
+    "historia": "Fundou a Ordem da Imaculada Conceição.\n\nSanta Beatriz da Silva é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Beatriz da Silva nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Beatriz da Silva, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração da manhã — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, neste novo dia que se inicia, entrego a Ti todos os meus planos, caminhos e decisões. Que a Tua luz ilumine cada passo e que eu saiba reconhecer a...",
-      "og_title": "Oração da manhã",
+      "title": "Oração de gratidão — Oração do Dia | Minuto da Oração",
+      "description": "Pai celestial, obrigado por mais um dia de vida. Obrigado pelas bênçãos visíveis e invisíveis, pelos desafios que me fortalecem e pelas alegrias que me...",
+      "og_title": "Oração de gratidão",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-08-31"
+      "date": "2026-09-01"
     },
     "santo": {
-      "title": "São Raimundo Nonato — Santo do Dia | Minuto da Oração",
-      "description": "Ofereceu-se como refém para libertar cativos.",
-      "og_title": "São Raimundo Nonato — Cardeal",
+      "title": "Santa Beatriz da Silva — Santo do Dia | Minuto da Oração",
+      "description": "Fundou a Ordem da Imaculada Conceição.",
+      "og_title": "Santa Beatriz da Silva — Fundadora",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-08-31"
+      "date": "2026-09-01"
     }
   }
 }
