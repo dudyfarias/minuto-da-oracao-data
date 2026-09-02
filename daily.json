@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "oracao": {
-    "titulo": "Oração de gratidão",
-    "texto": "Pai celestial, obrigado por mais um dia de vida. Obrigado pelas bênçãos visíveis e invisíveis, pelos desafios que me fortalecem e pelas alegrias que me renovam. Ensina-me a ser grato em todas as circunstâncias.",
-    "reflexao": "A gratidão é uma das formas mais poderosas de oração. Quando agradecemos, reconhecemos que tudo vem de Deus.",
-    "versiculo": "1 Tessalonicenses 5,18 — Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco."
+    "titulo": "Oração pela paz",
+    "texto": "Senhor da paz, em um mundo tão agitado e cheio de conflitos, concede-nos a Tua paz. Que ela comece em nossos corações e se espalhe para as nossas famílias, comunidades e nações.",
+    "reflexao": "A paz verdadeira não é a ausência de conflitos, mas a presença de Deus em meio às tempestades da vida.",
+    "versiculo": "João 14,27 — Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá."
   },
   "santo": {
-    "nome": "Santa Beatriz da Silva",
-    "titulo": "Fundadora",
-    "resumo": "Fundou a Ordem da Imaculada Conceição.",
-    "historia": "Fundou a Ordem da Imaculada Conceição.\n\nSanta Beatriz da Silva é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Beatriz da Silva nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Beatriz da Silva, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Beato Bartolomeu Gutierrez",
+    "titulo": "Mártir",
+    "resumo": "Missionário martirizado no Japão.",
+    "historia": "Missionário martirizado no Japão.\n\nBeato Bartolomeu Gutierrez é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Beato Bartolomeu Gutierrez nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Beato Bartolomeu Gutierrez, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de gratidão — Oração do Dia | Minuto da Oração",
-      "description": "Pai celestial, obrigado por mais um dia de vida. Obrigado pelas bênçãos visíveis e invisíveis, pelos desafios que me fortalecem e pelas alegrias que me...",
-      "og_title": "Oração de gratidão",
+      "title": "Oração pela paz — Oração do Dia | Minuto da Oração",
+      "description": "Senhor da paz, em um mundo tão agitado e cheio de conflitos, concede-nos a Tua paz. Que ela comece em nossos corações e se espalhe para as nossas...",
+      "og_title": "Oração pela paz",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-01"
+      "date": "2026-09-02"
     },
     "santo": {
-      "title": "Santa Beatriz da Silva — Santo do Dia | Minuto da Oração",
-      "description": "Fundou a Ordem da Imaculada Conceição.",
-      "og_title": "Santa Beatriz da Silva — Fundadora",
+      "title": "Beato Bartolomeu Gutierrez — Santo do Dia | Minuto da Oração",
+      "description": "Missionário martirizado no Japão.",
+      "og_title": "Beato Bartolomeu Gutierrez — Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-01"
+      "date": "2026-09-02"
     }
   }
 }
