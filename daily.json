@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "oracao": {
-    "titulo": "Oração de confiança",
-    "texto": "Senhor, quando o medo e a dúvida tentam dominar meu coração, lembra-me de que Tu estás no controle. Ajuda-me a confiar nos Teus planos, mesmo quando não consigo entendê-los.",
-    "reflexao": "Confiar em Deus não significa entender tudo, mas crer que Ele sabe o que faz, mesmo quando o caminho parece incerto.",
-    "versiculo": "Provérbios 3,5-6 — Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."
+    "titulo": "Oração pelo trabalho",
+    "texto": "Senhor, abençoa o meu trabalho e o trabalho de todos que sustentam suas famílias com dignidade. Que cada esforço seja feito para a Tua glória e que eu encontre sentido naquilo que faço.",
+    "reflexao": "O trabalho é uma forma de participar da criação de Deus. Quando trabalhamos com amor, transformamos o mundo.",
+    "versiculo": "Colossenses 3,23 — Tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens."
   },
   "santo": {
-    "nome": "Santa Rosália",
-    "titulo": "Virgem",
-    "resumo": "Padroeira de Palermo, eremita.",
-    "historia": "Padroeira de Palermo, eremita.\n\nSanta Rosália é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Rosália nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Rosália, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Teresa de Calcutá",
+    "titulo": "Missionária da Caridade",
+    "resumo": "Fundou as Missionárias da Caridade.",
+    "historia": "Fundou as Missionárias da Caridade.\n\nSanta Teresa de Calcutá é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teresa de Calcutá nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Teresa de Calcutá, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de confiança — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, quando o medo e a dúvida tentam dominar meu coração, lembra-me de que Tu estás no controle. Ajuda-me a confiar nos Teus planos, mesmo quando não...",
-      "og_title": "Oração de confiança",
+      "title": "Oração pelo trabalho — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa o meu trabalho e o trabalho de todos que sustentam suas famílias com dignidade. Que cada esforço seja feito para a Tua glória e que eu...",
+      "og_title": "Oração pelo trabalho",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-04"
+      "date": "2026-09-05"
     },
     "santo": {
-      "title": "Santa Rosália — Santo do Dia | Minuto da Oração",
-      "description": "Padroeira de Palermo, eremita.",
-      "og_title": "Santa Rosália — Virgem",
+      "title": "Santa Teresa de Calcutá — Santo do Dia | Minuto da Oração",
+      "description": "Fundou as Missionárias da Caridade.",
+      "og_title": "Santa Teresa de Calcutá — Missionária da Caridade",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-04"
+      "date": "2026-09-05"
     }
   }
 }
