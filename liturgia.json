@@ -1,24 +1,28 @@
 {
-  "date": "2026-09-05",
-  "data_extenso": "5 de setembro de 2026",
-  "liturgia": "Sábado da 22ª Semana do Tempo Comum",
+  "date": "2026-09-06",
+  "data_extenso": "6 de setembro de 2026",
+  "liturgia": "23º Domingo do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 6,1-5",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "1Num sábado, Jesus estava passando através de plantações de trigo. Seus discípulos arrancavam e comiam as espigas, debulhando-as com as mãos. 2Então alguns fariseus disseram: “Por que fazeis o que não é permitido em dia de sábado?” 3Jesus respondeu-lhes: “Acaso vós não lestes o que Davi e seus companheiros fizeram quando estavam sentindo fome? 4Davi entrou na casa de Deus, pegou dos pães oferecidos a Deus e os comeu, e ainda por cima os deu a seus companheiros. No entanto, só os sacerdotes podem comer desses pães”. 5E Jesus acrescentou: “O Filho do Homem é senhor também do sábado”."
+    "referencia": "Mt 18,15-20",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, Jesus disse a seus discípulos: 15“Se o teu irmão pecar contra ti, vai corrigi-lo, mas em particular, a sós contigo! Se ele te ouvir, tu ganhaste o teu irmão. 16Se ele não te ouvir, toma contigo mais uma ou duas pessoas, para que toda a questão seja decidida sob a palavra de duas ou três testemunhas. 17Se ele não vos der ouvido, dize-o à Igreja. Se nem mesmo à Igreja ele ouvir, seja tratado como se fosse um pagão ou um pecador público. 18Em verdade vos digo, tudo o que ligardes na terra será ligado no céu, e tudo o que desligardes na terra será desligado no céu. 19De novo, eu vos digo: se dois de vós estiverem de acordo na terra sobre qualquer coisa que quiserem pedir, isso lhes será concedido por meu Pai que está nos céus. 20Pois, onde dois ou três estiverem reunidos em meu nome, eu estou aí, no meio deles”."
   },
   "salmo": {
-    "referencia": "Sl 144(145)",
+    "referencia": "Sl 94(95)",
     "titulo": "",
-    "texto": "– É justo o Senhor em seus caminhos, é santo em toda obra que ele faz. Ele está perto da pessoa que o invoca, de todo aquele que o invoca lealmente.\n– O Senhor cumpre os desejos dos que o temem, ele escuta os seus clamores e os salva. O Senhor guarda todo aquele que o ama, mas dispersa e extermina os que são ímpios.\n– Que a minha boca cante a glória do Senhor e que bendiga todo ser seu nome santo desde agora, para sempre e pelos séculos.",
-    "refrao": "O Senhor está perto de quem o invoca!"
+    "texto": "– Vinde, exultemos de alegria no Senhor, aclamemos o rochedo que nos salva! Ao seu encontro caminhemos com louvores e, com cantos de alegria, o celebremos!\n– Vinde, adoremos e prostremo-nos por terra, e ajoelhemos ante o Deus que nos criou! Porque ele é o nosso Deus, nosso pastor, e nós somos o seu povo e seu rebanho, as ovelhas que conduz com sua mão.\n– Oxalá ouvísseis hoje a sua voz: “Não fecheis os corações como em Meriba, como em Massa, no deserto, aquele dia, em que outrora vossos pais me provocaram, apesar de terem visto as minhas obras”.",
+    "refrao": "Não fecheis o coração; ouvi hoje a voz de Deus!"
   },
   "primeira_leitura": {
-    "referencia": "1Cor 4,6-15",
-    "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
-    "texto": "6Irmãos, apliquei essa doutrina a mim e a Apolo por causa de vós, para que o nosso exemplo vos ensine a não vos inchar de orgulho, tomando o partido de um contra outro, e a “não ir além daquilo que está escrito”. 7Com efeito, quem é que te faz melhor que os outros? O que tens que não tenhas recebido? Mas, se recebeste tudo que tens, por que, então, te glorias, como se não o tivesses recebido? 8Vós já estais saciados! Já vos enriquecestes! Sem nós, já começastes a reinar! Oxalá estivésseis mesmo reinando, para nós também reinarmos convosco! 9Na verdade, parece-me que Deus nos apresentou, a nós, apóstolos, em último lugar, como pessoas condenadas à morte. Tornamo-nos um espetáculo para o mundo, para os anjos e os homens. 10Nós somos os tolos por causa de Cristo; vós, porém, os sábios nas coisas de Cristo. Nós somos os fracos; vós, os fortes. Vós sois tratados com toda a estima e atenção, e nós, com todo o desprezo. 11Até a presente hora, padecemos fome, sede e nudez; somos esbofeteados e vivemos errantes; 12fadigamo-nos, trabalhando com as nossas mãos; somos injuriados, e abençoamos; somos perseguidos, e suportamos; 13somos caluniados, e exortamos. Tornamo-nos como que o lixo do mundo, a escória do universo, até o presente. 14Escrevo-vos tudo isso não com a intenção de vos envergonhar, mas para vos admoestar como meus filhos queridos. 15De fato, mesmo que tivésseis dez mil educadores na vida em Cristo, não tendes muitos pais. Pois fui eu que, pelo anúncio do Evangelho, vos gerei em Jesus Cristo."
+    "referencia": "Ez 33,7-9",
+    "titulo": "Leitura da Profecia de Ezequiel",
+    "texto": "Assim diz o Senhor: 7“Quanto a ti, filho do homem, eu te estabeleci como vigia para a casa de Israel. Logo que ouvires alguma palavra de minha boca, tu os deves advertir em meu nome. 8Se eu disser ao ímpio que ele vai morrer, e tu não lhe falares, advertindo-o a respeito de sua conduta, o ímpio vai morrer por própria culpa, mas eu te pedirei contas da sua morte. 9Mas, se advertires o ímpio a respeito de sua conduta, para que se arrependa, e ele não se arrepender, o ímpio morrerá por própria culpa, porém tu salvarás tua vida”."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "Rm 13,8-10",
+    "titulo": "Leitura da carta de São Paulo aos Romanos",
+    "texto": "Irmãos, 8não fiqueis devendo nada a ninguém, a não ser o amor mútuo, pois quem ama o próximo está cumprindo a Lei. 9De fato, os mandamentos: “Não cometerás adultério”, “não matarás”, ”não roubarás”, “não cobiçarás” e qualquer outro mandamento se resumem neste: “Amarás ao teu próximo como a ti mesmo”. 10O amor não faz nenhum mal contra o próximo. Portanto, o amor é o cumprimento perfeito da Lei."
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
