@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "oracao": {
-    "titulo": "Oração de perdão",
-    "texto": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu possa viver em paz.",
-    "reflexao": "Perdoar não é esquecer, mas escolher não carregar mais o peso da mágoa. É um ato de liberdade.",
-    "versiculo": "Mateus 6,14 — Se perdoardes aos homens as suas ofensas, também vosso Pai celeste vos perdoará."
+    "titulo": "Oração pela sabedoria",
+    "texto": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da justiça.",
+    "reflexao": "A sabedoria divina não se encontra nos livros, mas no coração humilde que busca a Deus em oração.",
+    "versiculo": "Tiago 1,5 — Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente."
   },
   "santo": {
-    "nome": "Natividade de Nossa Senhora",
-    "titulo": "Festa",
-    "resumo": "Nascimento de Maria.",
-    "historia": "Nascimento de Maria.\n\nNatividade de Nossa Senhora é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Natividade de Nossa Senhora nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Natividade de Nossa Senhora, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Pedro Cláver",
+    "titulo": "Apóstolo dos Escravos",
+    "resumo": "Jesuíta dedicado aos escravos em Cartagena.",
+    "historia": "Jesuíta dedicado aos escravos em Cartagena.\n\nSão Pedro Cláver é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Pedro Cláver nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Pedro Cláver, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de perdão — Oração do Dia | Minuto da Oração",
-      "description": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu...",
-      "og_title": "Oração de perdão",
+      "title": "Oração pela sabedoria — Oração do Dia | Minuto da Oração",
+      "description": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da...",
+      "og_title": "Oração pela sabedoria",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     "santo": {
-      "title": "Natividade de Nossa Senhora — Santo do Dia | Minuto da Oração",
-      "description": "Nascimento de Maria.",
-      "og_title": "Natividade de Nossa Senhora — Festa",
+      "title": "São Pedro Cláver — Santo do Dia | Minuto da Oração",
+      "description": "Jesuíta dedicado aos escravos em Cartagena.",
+      "og_title": "São Pedro Cláver — Apóstolo dos Escravos",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     }
   }
 }
