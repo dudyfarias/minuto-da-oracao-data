@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "oracao": {
-    "titulo": "Oração pelos jovens",
-    "texto": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e força para resistir ao mal.",
-    "reflexao": "Os jovens são o presente e o futuro da Igreja. Precisamos orar por eles e com eles.",
-    "versiculo": "1 Timóteo 4,12 — Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis."
+    "titulo": "Oração pela noite",
+    "texto": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas forças para o dia de amanhã.",
+    "reflexao": "O momento antes de dormir é ideal para fazer um exame de consciência e entregar o dia a Deus.",
+    "versiculo": "Salmo 4,8 — Em paz me deito e logo adormeço, porque só Tu, Senhor, me fazes repousar seguro."
   },
   "santo": {
-    "nome": "São Nicolau de Tolentino",
-    "titulo": "Agostiniano",
-    "resumo": "Frade conhecido pelos milagres.",
-    "historia": "Frade conhecido pelos milagres.\n\nSão Nicolau de Tolentino é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Nicolau de Tolentino nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Nicolau de Tolentino, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Teodora",
+    "titulo": "Penitente",
+    "resumo": "Penitente de Alexandria.",
+    "historia": "Penitente de Alexandria.\n\nSanta Teodora é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teodora nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Teodora, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos jovens — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e...",
-      "og_title": "Oração pelos jovens",
+      "title": "Oração pela noite — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas...",
+      "og_title": "Oração pela noite",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     "santo": {
-      "title": "São Nicolau de Tolentino — Santo do Dia | Minuto da Oração",
-      "description": "Frade conhecido pelos milagres.",
-      "og_title": "São Nicolau de Tolentino — Agostiniano",
+      "title": "Santa Teodora — Santo do Dia | Minuto da Oração",
+      "description": "Penitente de Alexandria.",
+      "og_title": "Santa Teodora — Penitente",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     }
   }
 }
