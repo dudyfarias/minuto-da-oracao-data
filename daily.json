@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "oracao": {
-    "titulo": "Oração pela noite",
-    "texto": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas forças para o dia de amanhã.",
-    "reflexao": "O momento antes de dormir é ideal para fazer um exame de consciência e entregar o dia a Deus.",
-    "versiculo": "Salmo 4,8 — Em paz me deito e logo adormeço, porque só Tu, Senhor, me fazes repousar seguro."
+    "titulo": "Oração de louvor",
+    "texto": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória, para sempre.",
+    "reflexao": "Louvar a Deus é reconhecer a Sua grandeza independente das circunstâncias. É um ato de fé pura.",
+    "versiculo": "Salmo 150,6 — Tudo quanto tem fôlego louve ao Senhor."
   },
   "santo": {
-    "nome": "Santa Teodora",
-    "titulo": "Penitente",
-    "resumo": "Penitente de Alexandria.",
-    "historia": "Penitente de Alexandria.\n\nSanta Teodora é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teodora nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Teodora, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santíssimo Nome de Maria",
+    "titulo": "Festa",
+    "resumo": "Veneração do nome de Maria.",
+    "historia": "Veneração do nome de Maria.\n\nSantíssimo Nome de Maria é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santíssimo Nome de Maria nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santíssimo Nome de Maria, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela noite — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas...",
-      "og_title": "Oração pela noite",
+      "title": "Oração de louvor — Oração do Dia | Minuto da Oração",
+      "description": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória,...",
+      "og_title": "Oração de louvor",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-11"
+      "date": "2026-09-12"
     },
     "santo": {
-      "title": "Santa Teodora — Santo do Dia | Minuto da Oração",
-      "description": "Penitente de Alexandria.",
-      "og_title": "Santa Teodora — Penitente",
+      "title": "Santíssimo Nome de Maria — Santo do Dia | Minuto da Oração",
+      "description": "Veneração do nome de Maria.",
+      "og_title": "Santíssimo Nome de Maria — Festa",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-11"
+      "date": "2026-09-12"
     }
   }
 }
