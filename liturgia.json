@@ -1,28 +1,24 @@
 {
-  "date": "2026-09-14",
-  "data_extenso": "14 de setembro de 2026",
-  "liturgia": "Exaltação da Santa Cruz, Festa",
-  "cor": "Vermelho",
+  "date": "2026-09-15",
+  "data_extenso": "15 de setembro de 2026",
+  "liturgia": "Bem-aventurada Virgem Maria das Dores, Memória",
+  "cor": "Branco",
   "evangelho": {
-    "referencia": "Jo 3, 13-17",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
-    "texto": "Naquele tempo, disse Jesus a Nicodemos: 13“Ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem. 14Do mesmo modo como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado, 15para que todos os que nele crerem tenham a vida eterna.16Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. 17De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele”."
+    "referencia": "Jo 19,25-27",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+    "texto": "Naquele tempo, 25perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena. 26Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: “Mulher, este é o teu filho”. 27Depois disse ao discípulo: “Esta é a tua mãe”. Daquela hora em diante, o discípulo a acolheu consigo."
   },
   "salmo": {
-    "referencia": "Sl 77",
+    "referencia": "Sl 30(31)",
     "titulo": "",
-    "texto": "— Escuta, ó meu povo, a minha Lei, ouve atento as palavras que eu te digo; abrirei a minha boca em parábolas, os mistérios do passado lembrarei. \n— Quando os feria, eles então o procuravam, convertiam-se correndo para ele; recordavam que o Senhor é sua rocha e que Deus, seu Redentor, é o Deus Altíssimo. \n— Mas apenas o honravam com seus lábios e mentiam ao Senhor com suas línguas; seus corações enganadores eram falsos e, infiéis, eles rompiam a Aliança. \n— Mas o Senhor, sempre benigno e compassivo, não os matava e perdoava seu pecado; quantas vezes dominou a sua ira e não deu largas à vazão de seu furor",
-    "refrao": "Das obras do Senhor, ó meu povo, não te esqueças!"
+    "texto": "– Senhor, eu ponho em vós minha esperança; que eu não fique envergonhado eternamente! Porque sois justo, defendei-me e libertai-me, apressai-vos, ó Senhor, em socorrer-me!\n– Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Sim, sois vós a minha rocha e fortaleza; por vossa honra, orientai-me e conduzi-me!\n– Retirai-me desta rede traiçoeira, porque sois o meu refúgio protetor! Em vossas mãos, Senhor, entrego o meu espírito, porque vós me salvareis, ó Deus fiel!\n– A vós, porém, ó meu Senhor, eu me confio e afirmo que só vós sois o meu Deus! Eu entrego em vossas mãos o meu destino; libertai-me do inimigo e do opressor!\n– Como é grande, ó Senhor, vossa bondade, que reservastes para aqueles que vos temem! Para aqueles que em vós se refugiam, mostrando, assim, o vosso amor perante os homens.",
+    "refrao": "Salvai-me pela vossa compaixão, ó Senhor Deus!"
   },
   "primeira_leitura": {
-    "referencia": "Nm 21, 4b-9",
-    "titulo": "Leitura do Livro dos Números",
-    "texto": "Naqueles dias, 4bos filhos de Israel partiram do monte Hor, pelo caminho que leva ao mar Vermelho, para contornarem o país de Edom. Durante a viagem o povo começou a impacientar-se, 5e se pôs a falar contra Deus e contra Moisés, dizendo: “Por que nos fizestes sair do Egito para morrermos no deserto? Não há pão, falta água, e já estamos com nojo desse alimento miserável”. 6Então o Senhor mandou contra o povo serpentes venenosas, que os mordiam; e morreu muita gente em Israel. 7O povo foi ter com Moisés e disse: “Pecamos, falando contra o Senhor e contra ti. Roga ao Senhor que afaste de nós as serpentes”. Moisés intercedeu pelo povo, 8e o Senhor respondeu: “Faze uma serpente de bronze e coloca-a como sinal sobre uma haste; aquele que for mordido e olhar para ela viverá”. 9Moisés fez, pois, uma serpente de bronze e colocou-a como sinal sobre uma haste. Quando alguém era mordido por uma serpente, e olhava para a serpente de bronze, ficava curado."
+    "referencia": "Hb 5,7-9",
+    "titulo": "Leitura da carta aos Hebreus",
+    "texto": "7Cristo, nos dias de sua vida terrestre, dirigiu preces e súplicas, com forte clamor e lágrimas, àquele que era capaz de salvá-lo da morte. E foi atendido, por causa de sua entrega a Deus. 8Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu. 9Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem."
   },
-  "segunda_leitura": {
-    "referencia": "Fl 2, 6-11",
-    "titulo": "Leitura da carta de São Paulo aos Filipenses",
-    "texto": "6Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9Por isso, Deus o exaltou acima de tudo e lhe deu o nome que está acima de todo nome. 10Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra 11e toda língua proclame: “Jesus Cristo é o Senhor”, para a glória de Deus Pai."
-  },
+  "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
 }

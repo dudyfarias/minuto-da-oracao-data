@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "oracao": {
-    "titulo": "Oração pelo próximo",
-    "texto": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor para todos ao meu redor.",
-    "reflexao": "Amar o próximo é a segunda maior lei. Não é apenas um sentimento, mas uma decisão diária.",
-    "versiculo": "Mateus 25,40 — O que fizestes a um destes meus pequeninos irmãos, a mim o fizestes."
+    "titulo": "Oração de entrega",
+    "texto": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
+    "reflexao": "Entregar-se a Deus é o ato mais corajoso que um ser humano pode fazer. É confiar sem reservas.",
+    "versiculo": "1 Pedro 5,7 — Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós."
   },
   "santo": {
-    "nome": "Exaltação da Santa Cruz",
-    "titulo": "Festa",
-    "resumo": "A Santa Cruz como símbolo da redenção.",
-    "historia": "A Santa Cruz como símbolo da redenção.\n\nExaltação da Santa Cruz é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Exaltação da Santa Cruz nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Exaltação da Santa Cruz, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Nossa Senhora das Dores",
+    "titulo": "Memória",
+    "resumo": "As sete dores de Maria.",
+    "historia": "As sete dores de Maria.\n\nNossa Senhora das Dores é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora das Dores nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Nossa Senhora das Dores, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo próximo — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor...",
-      "og_title": "Oração pelo próximo",
+      "title": "Oração de entrega — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
+      "og_title": "Oração de entrega",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-14"
+      "date": "2026-09-15"
     },
     "santo": {
-      "title": "Exaltação da Santa Cruz — Santo do Dia | Minuto da Oração",
-      "description": "A Santa Cruz como símbolo da redenção.",
-      "og_title": "Exaltação da Santa Cruz — Festa",
+      "title": "Nossa Senhora das Dores — Santo do Dia | Minuto da Oração",
+      "description": "As sete dores de Maria.",
+      "og_title": "Nossa Senhora das Dores — Memória",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-14"
+      "date": "2026-09-15"
     }
   }
 }
