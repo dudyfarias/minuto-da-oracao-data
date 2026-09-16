@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "oracao": {
-    "titulo": "Oração de entrega",
-    "texto": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
-    "reflexao": "Entregar-se a Deus é o ato mais corajoso que um ser humano pode fazer. É confiar sem reservas.",
-    "versiculo": "1 Pedro 5,7 — Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós."
+    "titulo": "Oração pela Igreja",
+    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
+    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
+    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
   },
   "santo": {
-    "nome": "Nossa Senhora das Dores",
-    "titulo": "Memória",
-    "resumo": "As sete dores de Maria.",
-    "historia": "As sete dores de Maria.\n\nNossa Senhora das Dores é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora das Dores nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Nossa Senhora das Dores, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santos Cornélio e Cipriano",
+    "titulo": "Mártires",
+    "resumo": "Papa e bispo que defenderam a unidade da Igreja.",
+    "historia": "Papa e bispo que defenderam a unidade da Igreja.\n\nSantos Cornélio e Cipriano é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santos Cornélio e Cipriano nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santos Cornélio e Cipriano, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de entrega — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
-      "og_title": "Oração de entrega",
+      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
+      "og_title": "Oração pela Igreja",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-15"
+      "date": "2026-09-16"
     },
     "santo": {
-      "title": "Nossa Senhora das Dores — Santo do Dia | Minuto da Oração",
-      "description": "As sete dores de Maria.",
-      "og_title": "Nossa Senhora das Dores — Memória",
+      "title": "Santos Cornélio e Cipriano — Santo do Dia | Minuto da Oração",
+      "description": "Papa e bispo que defenderam a unidade da Igreja.",
+      "og_title": "Santos Cornélio e Cipriano — Mártires",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-15"
+      "date": "2026-09-16"
     }
   }
 }
