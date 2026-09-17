@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "oracao": {
-    "titulo": "Oração pela Igreja",
-    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
-    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
-    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
+    "titulo": "Oração de proteção",
+    "texto": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os meus caminhos.",
+    "reflexao": "Deus é o nosso refúgio e fortaleza. Não precisamos temer quando estamos sob a Sua proteção.",
+    "versiculo": "Salmo 91,11 — Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
   },
   "santo": {
-    "nome": "Santos Cornélio e Cipriano",
-    "titulo": "Mártires",
-    "resumo": "Papa e bispo que defenderam a unidade da Igreja.",
-    "historia": "Papa e bispo que defenderam a unidade da Igreja.\n\nSantos Cornélio e Cipriano é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santos Cornélio e Cipriano nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santos Cornélio e Cipriano, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Hildegarda de Bingen",
+    "titulo": "Doutora da Igreja",
+    "resumo": "Mística, compositora e naturalista beneditina.",
+    "historia": "Mística, compositora e naturalista beneditina.\n\nSanta Hildegarda de Bingen é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Hildegarda de Bingen nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Hildegarda de Bingen, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
-      "og_title": "Oração pela Igreja",
+      "title": "Oração de proteção — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os...",
+      "og_title": "Oração de proteção",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-16"
+      "date": "2026-09-17"
     },
     "santo": {
-      "title": "Santos Cornélio e Cipriano — Santo do Dia | Minuto da Oração",
-      "description": "Papa e bispo que defenderam a unidade da Igreja.",
-      "og_title": "Santos Cornélio e Cipriano — Mártires",
+      "title": "Santa Hildegarda de Bingen — Santo do Dia | Minuto da Oração",
+      "description": "Mística, compositora e naturalista beneditina.",
+      "og_title": "Santa Hildegarda de Bingen — Doutora da Igreja",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-16"
+      "date": "2026-09-17"
     }
   }
 }
