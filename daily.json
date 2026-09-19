@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "oracao": {
-    "titulo": "Oração de humildade",
-    "texto": "Senhor Jesus, que sendo Deus Te fizeste servo, ensina-me a ser humilde. Que eu não busque a glória pessoal, mas somente a Tua glória. Tira de mim todo orgulho e vaidade.",
-    "reflexao": "A humildade não é pensar menos de si mesmo, mas pensar menos em si mesmo. É colocar Deus e o próximo em primeiro lugar.",
-    "versiculo": "Filipenses 2,5-7 — Tende em vós o mesmo sentimento que houve em Cristo Jesus."
+    "titulo": "Oração pelo Brasil",
+    "texto": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país mais justo e fraterno.",
+    "reflexao": "Orar pela nação é um dever de todo cristão. O Brasil precisa das nossas orações e do nosso empenho por um futuro melhor.",
+    "versiculo": "Jeremias 29,7 — Buscai a paz da cidade para onde vos deportei e orai por ela ao Senhor."
   },
   "santo": {
-    "nome": "São José de Cupertino",
-    "titulo": "Franciscano",
-    "resumo": "Frade famoso pelas levitações.",
-    "historia": "Frade famoso pelas levitações.\n\nSão José de Cupertino é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São José de Cupertino nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São José de Cupertino, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Januário",
+    "titulo": "Bispo e Mártir",
+    "resumo": "Bispo cujo sangue se liquefaz miraculosamente.",
+    "historia": "Bispo cujo sangue se liquefaz miraculosamente.\n\nSão Januário é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Januário nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Januário, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de humildade — Oração do Dia | Minuto da Oração",
-      "description": "Senhor Jesus, que sendo Deus Te fizeste servo, ensina-me a ser humilde. Que eu não busque a glória pessoal, mas somente a Tua glória. Tira de mim todo...",
-      "og_title": "Oração de humildade",
+      "title": "Oração pelo Brasil — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país...",
+      "og_title": "Oração pelo Brasil",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-18"
+      "date": "2026-09-19"
     },
     "santo": {
-      "title": "São José de Cupertino — Santo do Dia | Minuto da Oração",
-      "description": "Frade famoso pelas levitações.",
-      "og_title": "São José de Cupertino — Franciscano",
+      "title": "São Januário — Santo do Dia | Minuto da Oração",
+      "description": "Bispo cujo sangue se liquefaz miraculosamente.",
+      "og_title": "São Januário — Bispo e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-18"
+      "date": "2026-09-19"
     }
   }
 }
