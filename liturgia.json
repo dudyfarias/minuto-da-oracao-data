@@ -1,24 +1,28 @@
 {
-  "date": "2026-09-19",
-  "data_extenso": "19 de setembro de 2026",
-  "liturgia": "Sábado da 24ª Semana do Tempo Comum",
+  "date": "2026-09-20",
+  "data_extenso": "20 de setembro de 2026",
+  "liturgia": "25º Domingo do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 8,4-15",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 4reuniu-se uma grande multidão, e de todas as cidades iam ter com Jesus. Então ele contou esta parábola: 5“O semeador saiu para semear a sua semente. Enquanto semeava, uma parte caiu à beira do caminho; foi pisada e os pássaros do céu a comeram. 6Outra parte caiu sobre pedras; brotou e secou, porque não havia umidade. 7Outra parte caiu no meio de espinhos; os espinhos cresceram junto e a sufocaram. 8Outra parte caiu em terra boa; brotou e deu fruto, cem por um”. Dizendo isso, Jesus exclamou: “Quem tem ouvidos para ouvir, ouça”. 9Os discípulos lhe perguntaram o significado dessa parábola. 10Jesus respondeu: “A vós foi dado conhecer os mistérios do Reino de Deus. Mas, aos outros, só por meio de parábolas, para que, olhando, não vejam e, ouvindo, não compreendam. 11A parábola quer dizer o seguinte: a semente é a Palavra de Deus. 12Os que estão à beira do caminho são aqueles que ouviram, mas depois vem o diabo e tira a Palavra do coração deles, para que não acreditem e não se salvem. 13Os que estão sobre a pedra são aqueles que, ouvindo, acolhem a Palavra com alegria. Mas eles não têm raiz: por um momento acreditam, mas, na hora da tentação, voltam atrás. 14Aquilo que caiu entre os espinhos são os que ouvem, mas, com o passar do tempo, são sufocados pelas preocupações, pela riqueza e pelos prazeres da vida e não chegam a amadurecer. 15E o que caiu em terra boa são aqueles que, ouvindo com um coração bom e generoso, conservam a Palavra e dão fruto na perseverança”."
+    "referencia": "Mt 20,1-16",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, Jesus contou esta parábola a seus discípulos: 1“O Reino dos céus é como a história do patrão que saiu de madrugada para contratar trabalhadores para a sua vinha. 2Combinou com os trabalhadores uma moeda de prata por dia e os mandou para a vinha. 3Às nove horas da manhã, o patrão saiu de novo, viu outros que estavam na praça desocupados 4e lhes disse: ‘Ide também vós para a minha vinha! E eu vos pagarei o que for justo’. 5E eles foram. O patrão saiu de novo ao meio-dia e às três horas da tarde e fez a mesma coisa. 6Saindo outra vez pelas cinco horas da tarde, encontrou outros que estavam na praça e lhes disse: ‘Por que estais aí o dia inteiro desocupados?’ 7Eles responderam: ‘Porque ninguém nos contratou’. O patrão lhes disse: ‘Ide vós também para a minha vinha’. 8Quando chegou a tarde, o patrão disse ao administrador: ‘Chama os trabalhadores e paga-lhes uma diária a todos, começando pelos últimos até os primeiros!’ 9Vieram os que tinham sido contratados às cinco da tarde e cada um recebeu uma moeda de prata. 10Em seguida vieram os que foram contratados primeiro e pensavam que iam receber mais. Porém cada um deles também recebeu uma moeda de prata. 11Ao receberem o pagamento, começaram a resmungar contra o patrão: 12‘Estes últimos trabalharam uma hora só, e tu os igualaste a nós, que suportamos o cansaço e o calor o dia inteiro’. 13Então o patrão disse a um deles: ‘Amigo, eu não fui injusto contigo. Não combinamos uma moeda de prata? 14Toma o que é teu e volta para casa! Eu quero dar a este que foi contratado por último o mesmo que dei a ti. 15Por acaso não tenho o direito de fazer o que quero com aquilo que me pertence? Ou estás com inveja, porque estou sendo bom?’ 16Assim, os últimos serão os primeiros, e os primeiros serão os últimos”.- Palavra da salvação."
   },
   "salmo": {
-    "referencia": "Sl 55(56)",
+    "referencia": "Sl 144(145)",
     "titulo": "",
-    "texto": "– Meus inimigos haverão de recuar em qualquer dia em que eu vos invocar; tenho certeza: o Senhor está comigo!\n– Confio em Deus e louvarei sua promessa; é no Senhor que eu confio e nada temo: que poderia contra mim um ser mortal?\n– Devo cumprir, ó Deus, os votos que vos fiz e vos oferto um sacrifício de louvor, porque da morte arrancastes minha vida e não deixastes os meus pés escorregarem, para que eu ande na presença do Senhor, na presença do Senhor na luz da vida.",
-    "refrao": "Na presença do Senhor, andarei na luz da vida."
+    "texto": "– Todos os dias haverei de bendizer-vos, hei de louvar o vosso nome para sempre. Grande é o Senhor e muito digno de louvores, e ninguém pode medir sua grandeza.\n– Misericórdia e piedade é o Senhor, ele é amor, é paciência, é compaixão. O Senhor é muito bom para com todos, sua ternura abraça toda criatura.\n– É justo o Senhor em seus caminhos, é santo em toda obra que ele faz. Ele está perto da pessoa que o invoca, de todo aquele que o invoca lealmente.",
+    "refrao": "O Senhor está perto da pessoa que o invoca!"
   },
   "primeira_leitura": {
-    "referencia": "1Cor 15,35-37.42-49",
-    "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
-    "texto": "Irmãos, 35alguém perguntará: Como ressuscitam os mortos? 36Insensato! O que semeias não nasce sem antes morrer. 37E, quando semeias, não semeias o corpo da planta, que há de nascer, mas o simples grão, como o de trigo ou de alguma outra planta. 42Pois assim será também a ressurreição dos mortos. Semeia-se em corrupção e ressuscita-se em incorrupção. 43Semeia-se em ignomínia e ressuscita-se em glória. Semeia-se em fraqueza e ressuscita-se em vigor. 44Semeia-se um corpo animal e ressuscita-se um corpo espiritual. Se há um corpo animal, há também um espiritual. 45Por isso está escrito: o primeiro homem, Adão, “foi um ser vivo”. O segundo Adão é um espírito vivificante. 46Veio primeiro não o homem espiritual, mas o homem natural; depois é que veio o homem espiritual. 47O primeiro homem, tirado da terra, é terrestre; o segundo homem vem do céu. 48Como foi o homem terrestre, assim também são as pessoas terrestres; e como é o homem celeste, assim também vão ser as pessoas celestes. 49E como já refletimos a imagem do homem terrestre, assim também refletiremos a imagem do homem celeste."
+    "referencia": "Is 55,6-9",
+    "titulo": "Leitura do Livro do profeta Isaías",
+    "texto": "6Buscai o Senhor, enquanto pode ser achado; invocai-o, enquanto ele está perto. 7Abandone o ímpio seu caminho, e o homem injusto, suas maquinações; volte para o Senhor, que terá piedade dele, volte para nosso Deus, que é generoso no perdão. 8Meus pensamentos não são como os vossos pensamentos, e vossos caminhos não são como os meus caminhos, diz o Senhor. 9Estão meus caminhos tão acima dos vossos caminhos e meus pensamentos acima dos vossos pensamentos quanto está o céu acima da terra."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "Fl 1,20-24.27",
+    "titulo": "Leitura da carta de São Paulo aos Filipenses",
+    "texto": "Irmãos, 20Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte. 21Pois, para mim, o viver é Cristo e o morrer é lucro. 22Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso, não sei o que escolher. 23Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo – o que para mim seria de longe o melhor -, 24mas para vós é mais necessário que eu continue minha vida neste mundo. 27Só uma coisa importa: vivei à altura do Evangelho de Cristo."
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
