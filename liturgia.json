@@ -1,28 +1,24 @@
 {
-  "date": "2026-09-20",
-  "data_extenso": "20 de setembro de 2026",
-  "liturgia": "25º Domingo do Tempo Comum",
-  "cor": "Verde",
+  "date": "2026-09-21",
+  "data_extenso": "21 de setembro de 2026",
+  "liturgia": "São Mateus, Apóstolo e Evangelista, Festa",
+  "cor": "Vermelho",
   "evangelho": {
-    "referencia": "Mt 20,1-16",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
-    "texto": "Naquele tempo, Jesus contou esta parábola a seus discípulos: 1“O Reino dos céus é como a história do patrão que saiu de madrugada para contratar trabalhadores para a sua vinha. 2Combinou com os trabalhadores uma moeda de prata por dia e os mandou para a vinha. 3Às nove horas da manhã, o patrão saiu de novo, viu outros que estavam na praça desocupados 4e lhes disse: ‘Ide também vós para a minha vinha! E eu vos pagarei o que for justo’. 5E eles foram. O patrão saiu de novo ao meio-dia e às três horas da tarde e fez a mesma coisa. 6Saindo outra vez pelas cinco horas da tarde, encontrou outros que estavam na praça e lhes disse: ‘Por que estais aí o dia inteiro desocupados?’ 7Eles responderam: ‘Porque ninguém nos contratou’. O patrão lhes disse: ‘Ide vós também para a minha vinha’. 8Quando chegou a tarde, o patrão disse ao administrador: ‘Chama os trabalhadores e paga-lhes uma diária a todos, começando pelos últimos até os primeiros!’ 9Vieram os que tinham sido contratados às cinco da tarde e cada um recebeu uma moeda de prata. 10Em seguida vieram os que foram contratados primeiro e pensavam que iam receber mais. Porém cada um deles também recebeu uma moeda de prata. 11Ao receberem o pagamento, começaram a resmungar contra o patrão: 12‘Estes últimos trabalharam uma hora só, e tu os igualaste a nós, que suportamos o cansaço e o calor o dia inteiro’. 13Então o patrão disse a um deles: ‘Amigo, eu não fui injusto contigo. Não combinamos uma moeda de prata? 14Toma o que é teu e volta para casa! Eu quero dar a este que foi contratado por último o mesmo que dei a ti. 15Por acaso não tenho o direito de fazer o que quero com aquilo que me pertence? Ou estás com inveja, porque estou sendo bom?’ 16Assim, os últimos serão os primeiros, e os primeiros serão os últimos”.- Palavra da salvação."
+    "referencia": "Mt 9, 9-13",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+    "texto": "Naquele tempo, 9Jesus viu um homem chamado Mateus, sentado na coletoria de impostos, e disse-lhe: “Segue-me!” Ele se levantou e seguiu a Jesus.10Enquanto Jesus estava à mesa, em casa de Mateus, vieram muitos cobradores de impostos e pecadores e sentaram-se à mesa com Jesus e seus discípulos. 11Alguns fariseus viram isso e perguntaram aos discípulos: “Por que vosso mestre come com os cobradores de impostos e pecadores?”12Jesus ouviu a pergunta e respondeu: “Aqueles que têm saúde não precisam de médico, mas sim os doentes. 13Aprendei, pois, o que significa: ‘Quero misericórdia e não sacrifício’. De fato, eu não vim para chamar os justos, mas os pecadores”."
   },
   "salmo": {
-    "referencia": "Sl 144(145)",
+    "referencia": "Sl 18",
     "titulo": "",
-    "texto": "– Todos os dias haverei de bendizer-vos, hei de louvar o vosso nome para sempre. Grande é o Senhor e muito digno de louvores, e ninguém pode medir sua grandeza.\n– Misericórdia e piedade é o Senhor, ele é amor, é paciência, é compaixão. O Senhor é muito bom para com todos, sua ternura abraça toda criatura.\n– É justo o Senhor em seus caminhos, é santo em toda obra que ele faz. Ele está perto da pessoa que o invoca, de todo aquele que o invoca lealmente.",
-    "refrao": "O Senhor está perto da pessoa que o invoca!"
+    "texto": "— Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite esta mensagem, a noite à noite publica esta notícia.\n— Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz",
+    "refrao": "Seu som ressoa e se espalha em toda a terra."
   },
   "primeira_leitura": {
-    "referencia": "Is 55,6-9",
-    "titulo": "Leitura do Livro do profeta Isaías",
-    "texto": "6Buscai o Senhor, enquanto pode ser achado; invocai-o, enquanto ele está perto. 7Abandone o ímpio seu caminho, e o homem injusto, suas maquinações; volte para o Senhor, que terá piedade dele, volte para nosso Deus, que é generoso no perdão. 8Meus pensamentos não são como os vossos pensamentos, e vossos caminhos não são como os meus caminhos, diz o Senhor. 9Estão meus caminhos tão acima dos vossos caminhos e meus pensamentos acima dos vossos pensamentos quanto está o céu acima da terra."
+    "referencia": "Ef 4, 1-7. 11-13",
+    "titulo": "Leitura da Carta de São Paulo aos  Efésios",
+    "texto": "Irmãos, 1eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: 2com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. 3Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. 4Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. 5Há um só Senhor, uma só fé, um só batismo, 6um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos. 7Cada um de nós recebeu a graça na medida em que Cristo lha deu. 11E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. 12Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, 13até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude."
   },
-  "segunda_leitura": {
-    "referencia": "Fl 1,20-24.27",
-    "titulo": "Leitura da carta de São Paulo aos Filipenses",
-    "texto": "Irmãos, 20Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte. 21Pois, para mim, o viver é Cristo e o morrer é lucro. 22Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso, não sei o que escolher. 23Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo – o que para mim seria de longe o melhor -, 24mas para vós é mais necessário que eu continue minha vida neste mundo. 27Só uma coisa importa: vivei à altura do Evangelho de Cristo."
-  },
+  "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
