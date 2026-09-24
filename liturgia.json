@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-23",
-  "data_extenso": "23 de setembro de 2026",
-  "liturgia": "São Pio de Pietrelcina, presbítero, Memória",
-  "cor": "Branco",
+  "date": "2026-09-24",
+  "data_extenso": "24 de setembro de 2026",
+  "liturgia": "5ª feira da 25ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 9,1-6",
+    "referencia": "Lc 9,7-9",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 1Jesus convocou os doze, deu-lhes poder e autoridade sobre todos os demônios e para curar doenças 2e enviou-os a proclamar o Reino de Deus e a curar os enfermos. 3E disse-lhes: “Não leveis nada para o caminho: nem cajado, nem sacola, nem pão, nem dinheiro, nem mesmo duas túnicas. 4Em qualquer casa onde entrardes, ficai aí; e daí é que partireis de novo. 5Todos aqueles que não vos acolherem, ao sairdes daquela cidade, sacudi a poeira dos vossos pés como protesto contra eles”. 6Os discípulos partiram e percorriam os povoados, anunciando a Boa-nova e fazendo curas em todos os lugares."
+    "texto": "Naquele tempo, 7o tetrarca Herodes ouviu falar de tudo o que estava acontecendo e ficou perplexo, porque alguns diziam que João Batista tinha ressuscitado dos mortos. 8Outros diziam que Elias tinha aparecido; outros, ainda, que um dos antigos profetas tinha ressuscitado. 9Então Herodes disse: “Eu mandei degolar João. Quem é esse homem sobre quem ouço falar essas coisas?” E procurava ver Jesus."
   },
   "salmo": {
-    "referencia": "Sl 118(119)",
+    "referencia": "Sl 89(90)",
     "titulo": "",
-    "texto": "– Afastai-me do caminho da mentira e dai-me a vossa lei como um presente!\n– A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– É eterna, ó Senhor, vossa Palavra, ela é tão firme e estável como o céu.\n– De todo mau caminho afasto os passos, para que eu siga fielmente as vossas ordens.\n– De vossa lei eu recebi inteligência, por isso odeio os caminhos da mentira.\n– Eu odeio e detesto a falsidade, porém amo vossas leis e mandamentos!",
-    "refrao": "Vossa Palavra é uma luz para os meus passos!"
+    "texto": "– Vós fazeis voltar ao pó todo mortal quando dizeis: “Voltai ao pó, filhos de Adão!” Pois mil anos para vós são como ontem, qual vigília de uma noite que passou.\n– Eles passam como o sono da manhã, são iguais à erva verde pelos campos: de manhã ela floresce vicejante, mas à tarde é cortada e logo seca.\n– Ensinai-nos a contar os nossos dias e dai ao nosso coração sabedoria! Senhor, voltai-vos! Até quando tardareis? Tende piedade e compaixão de vossos servos!\n– Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Que a bondade do Senhor e nosso Deus repouse sobre nós e nos conduza! Tornai fecundo, ó Senhor, nosso trabalho.",
+    "refrao": "Ó Senhor, vós fostes sempre um refúgio para nós."
   },
   "primeira_leitura": {
-    "referencia": "Pr 30,5-9",
-    "titulo": "Leitura do Livro dos Provérbios",
-    "texto": "5A Palavra de Deus é comprovada. Ele é um escudo para os que nele se abrigam. 6Não acrescentes nada às suas palavras, para que ele não te repreenda e passes por mentiroso! 7Duas coisas eu te pedi; não mas recuses, antes de eu morrer: 8afasta de mim a falsidade e a mentira, não me dês pobreza nem riqueza, mas concede-me o pão que me é necessário. 9Não aconteça que, saciado, eu te renegue e diga: “Quem é o Senhor?” Ou que, empobrecido, eu me ponha a roubar e profane o nome de meu Deus."
+    "referencia": "Ecl 1,2-11",
+    "titulo": "Leitura do Livro do Eclesiastes",
+    "texto": "2“Vaidade das vaidades, diz o Eclesiastes, vaidade das vaidades! Tudo é vaidade.” 3Que proveito tira o homem de todo trabalho com o qual se afadiga debaixo do sol? 4Uma geração passa, outra lhe sucede, enquanto a terra permanece sempre a mesma. 5O sol se levanta, o sol se deita, apressando-se para voltar ao seu lugar, donde novamente torna a levantar-se. 6Dirigindo-se para o sul e voltando para o norte, ora para cá, ora para lá, vai soprando o vento, para retomar novamente o seu curso. 7Todos os rios correm para o mar e, contudo, o mar não transborda; voltam ao lugar de onde saíram para tornarem a correr. 8Tudo é penoso, difícil para o homem explicar. A vista não se cansa de ver nem o ouvido se farta de ouvir. 9O que foi, será; o que aconteceu, acontecerá: 10não há nada de novo debaixo do sol. Uma coisa da qual se diz: “Eis aqui algo de novo”, também esta já existiu nos séculos que nos precederam. 11Não há memória do que aconteceu no passado nem também haverá lembrança do que acontecer, entre aqueles que viverão depois."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
