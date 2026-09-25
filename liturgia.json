@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-24",
-  "data_extenso": "24 de setembro de 2026",
-  "liturgia": "5ª feira da 25ª Semana do Tempo Comum",
+  "date": "2026-09-25",
+  "data_extenso": "25 de setembro de 2026",
+  "liturgia": "6ª feira da 25ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 9,7-9",
+    "referencia": "Lc 9,18-22",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 7o tetrarca Herodes ouviu falar de tudo o que estava acontecendo e ficou perplexo, porque alguns diziam que João Batista tinha ressuscitado dos mortos. 8Outros diziam que Elias tinha aparecido; outros, ainda, que um dos antigos profetas tinha ressuscitado. 9Então Herodes disse: “Eu mandei degolar João. Quem é esse homem sobre quem ouço falar essas coisas?” E procurava ver Jesus."
+    "texto": "Aconteceu que Jesus 18estava rezando num lugar retirado, e os discípulos estavam com ele. Então, Jesus perguntou-lhes: “Quem diz o povo que eu sou?” 19Eles responderam: “Uns dizem que és João Batista; outros, que és Elias; mas outros acham que és algum dos antigos profetas que ressuscitou”. 20Mas Jesus perguntou: “E vós, quem dizeis que eu sou?” Pedro respondeu: “O Cristo de Deus”. 21Mas Jesus proibiu-lhes severamente que contassem isso a alguém. 22E acrescentou: “O Filho do Homem deve sofrer muito, ser rejeitado pelos anciãos, pelos sumos sacerdotes e doutores da Lei, deve ser morto e ressuscitar no terceiro dia”."
   },
   "salmo": {
-    "referencia": "Sl 89(90)",
+    "referencia": "Sl 143(144)",
     "titulo": "",
-    "texto": "– Vós fazeis voltar ao pó todo mortal quando dizeis: “Voltai ao pó, filhos de Adão!” Pois mil anos para vós são como ontem, qual vigília de uma noite que passou.\n– Eles passam como o sono da manhã, são iguais à erva verde pelos campos: de manhã ela floresce vicejante, mas à tarde é cortada e logo seca.\n– Ensinai-nos a contar os nossos dias e dai ao nosso coração sabedoria! Senhor, voltai-vos! Até quando tardareis? Tende piedade e compaixão de vossos servos!\n– Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Que a bondade do Senhor e nosso Deus repouse sobre nós e nos conduza! Tornai fecundo, ó Senhor, nosso trabalho.",
-    "refrao": "Ó Senhor, vós fostes sempre um refúgio para nós."
+    "texto": "– Bendito seja o Senhor, meu rochedo. Ele é meu amor, meu refúgio, libertador, fortaleza e abrigo. É meu escudo: é nele que espero.\n– Que é o homem, Senhor, para vós? Por que dele cuidais tanto assim e no filho do homem pensais? Como o sopro de vento é o homem, os seus dias são sombra que passa.",
+    "refrao": "Bendito seja o Senhor, meu rochedo."
   },
   "primeira_leitura": {
-    "referencia": "Ecl 1,2-11",
+    "referencia": "Ecl, 3,1-11",
     "titulo": "Leitura do Livro do Eclesiastes",
-    "texto": "2“Vaidade das vaidades, diz o Eclesiastes, vaidade das vaidades! Tudo é vaidade.” 3Que proveito tira o homem de todo trabalho com o qual se afadiga debaixo do sol? 4Uma geração passa, outra lhe sucede, enquanto a terra permanece sempre a mesma. 5O sol se levanta, o sol se deita, apressando-se para voltar ao seu lugar, donde novamente torna a levantar-se. 6Dirigindo-se para o sul e voltando para o norte, ora para cá, ora para lá, vai soprando o vento, para retomar novamente o seu curso. 7Todos os rios correm para o mar e, contudo, o mar não transborda; voltam ao lugar de onde saíram para tornarem a correr. 8Tudo é penoso, difícil para o homem explicar. A vista não se cansa de ver nem o ouvido se farta de ouvir. 9O que foi, será; o que aconteceu, acontecerá: 10não há nada de novo debaixo do sol. Uma coisa da qual se diz: “Eis aqui algo de novo”, também esta já existiu nos séculos que nos precederam. 11Não há memória do que aconteceu no passado nem também haverá lembrança do que acontecer, entre aqueles que viverão depois."
+    "texto": "1Tudo tem seu tempo. Há um momento oportuno para tudo que acontece debaixo do céu. 2Tempo de nascer e tempo de morrer; tempo de plantar e tempo de colher a planta. 3Tempo de matar e tempo de salvar; tempo de destruir e tempo de construir. 4Tempo de chorar e tempo de rir; tempo de lamentar e tempo de dançar. 5Tempo de atirar pedras e tempo de as amontoar; tempo de abraçar e tempo de se separar. 6Tempo de buscar e tempo de perder; tempo de guardar e tempo de esbanjar. 7Tempo de rasgar e tempo de costurar; tempo de calar e tempo de falar. 8Tempo de amar e tempo de odiar; tempo de guerra e tempo de paz. 9Que proveito tira o trabalhador de seu esforço? 10Observei a tarefa que Deus impôs aos homens, para que nela se ocupassem. 11As coisas que ele fez são todas boas no tempo oportuno. Além disso, ele dispôs que fossem permanentes; no entanto o homem jamais chega a conhecer o princípio e o fim da ação que Deus realiza."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"

@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "oracao": {
-    "titulo": "Oração pelos professores",
-    "texto": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas também corações.",
-    "reflexao": "Ensinar é uma das vocações mais nobres. Os professores moldam o futuro através de cada aula.",
-    "versiculo": "Provérbios 22,6 — Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+    "titulo": "Oração pela criação",
+    "texto": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações futuras.",
+    "reflexao": "Somos guardiões da criação de Deus. Cuidar da natureza é uma forma de agradecer ao Criador.",
+    "versiculo": "Gênesis 2,15 — O Senhor Deus tomou o homem e o colocou no jardim do Éden para cultivá-lo e guardá-lo."
   },
   "santo": {
-    "nome": "Nossa Senhora das Mercês",
-    "titulo": "Memória",
-    "resumo": "Maria como redentora dos cativos.",
-    "historia": "Maria como redentora dos cativos.\n\nNossa Senhora das Mercês é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora das Mercês nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Nossa Senhora das Mercês, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Sérgio",
+    "titulo": "Abade",
+    "resumo": "Monge russo reformador.",
+    "historia": "Monge russo reformador.\n\nSão Sérgio é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Sérgio nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Sérgio, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos professores — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas...",
-      "og_title": "Oração pelos professores",
+      "title": "Oração pela criação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações...",
+      "og_title": "Oração pela criação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     },
     "santo": {
-      "title": "Nossa Senhora das Mercês — Santo do Dia | Minuto da Oração",
-      "description": "Maria como redentora dos cativos.",
-      "og_title": "Nossa Senhora das Mercês — Memória",
+      "title": "São Sérgio — Santo do Dia | Minuto da Oração",
+      "description": "Monge russo reformador.",
+      "og_title": "São Sérgio — Abade",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     }
   }
 }
