@@ -1,24 +1,28 @@
 {
-  "date": "2026-09-26",
-  "data_extenso": "26 de setembro de 2026",
-  "liturgia": "Sábado da 25ª Semana do Tempo Comum",
+  "date": "2026-09-27",
+  "data_extenso": "27 de setembro de 2026",
+  "liturgia": "26º Domingo do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 9, 43b-45",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
-    "texto": "Naquele tempo, 43btodos estavam admirados com todas as coisas que Jesus fazia. Então Jesus disse a seus discípulos: 44“Prestai bem atenção às palavras que vou dizer: O Filho do Homem vai ser entregue nas mãos dos homens”. 45Mas os discípulos não compreendiam o que Jesus dizia. O sentido lhes ficava escondido, de modo que não podiam entender; e eles tinham medo de fazer perguntas sobre o assunto."
+    "referencia": "Mt 21,28-32",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, Jesus disse aos sacerdotes e anciãos do povo: 28“Que vos parece? Um homem tinha dois filhos. Dirigindo-se ao primeiro, ele disse: ‘Filho, vai trabalhar hoje na vinha!’ 29O filho respondeu: ‘Não quero’. Mas depois mudou de opinião e foi. 30O pai dirigiu-se ao outro filho e disse a mesma coisa. Este respondeu: ‘Sim, senhor, eu vou’. Mas não foi. 31Qual dos dois fez a vontade do pai?” Os sumos sacerdotes e os anciãos do povo responderam: “O primeiro”. Então Jesus lhes disse: “Em verdade vos digo que os cobradores de impostos e as prostitutas vos precedem no Reino de Deus. 32Porque João veio até vós, num caminho de justiça, e vós não acreditastes nele. Ao contrário, os cobradores de impostos e as prostitutas creram nele. Vós, porém, mesmo vendo isso, não vos arrependestes para crer nele”."
   },
   "salmo": {
-    "referencia": "Sl 89",
+    "referencia": "Sl 24(25)",
     "titulo": "",
-    "texto": "— Vós fazeis voltar ao pó todo mortal, quando dizeis: “Voltai ao pó, filhos de Adão!” Pois mil anos para vós são como ontem, qual vigília de uma noite que passou.\n— Eles passam como o sono da manhã, são iguais à erva verde pelos campos: de manhã ela floresce vicejante, mas à tarde é cortada e logo seca.\n— Ensinai-nos a contar os nossos dias, e dai ao nosso coração sabedoria! Senhor, voltai-vos! Até quando tardareis? Tende piedade e compaixão de vossos servos!\n— Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Que a bondade do Senhor e nosso Deus repouse sobre nós e nos conduza! Tornai fecundo, ó Senhor, nosso trabalho",
-    "refrao": "Ó Senhor, vós fostes sempre um refúgio para nós."
+    "texto": "– Mostrai-me, ó Senhor, vossos caminhos e fazei-me conhecer a vossa estrada! Vossa verdade me oriente e me conduza, porque sois o Deus da minha salvação; em vós espero, ó Senhor, todos os dias!\n– Recordai, Senhor meu Deus, vossa ternura e a vossa compaixão, que são eternas! Não recordeis os meus pecados quando jovem nem vos lembreis de minhas faltas e delitos! De mim lembrai-vos, porque sois misericórdia e sois bondade sem limites, ó Senhor!\n– O Senhor é piedade e retidão e reconduz ao bom caminho os pecadores. Ele dirige os humildes na justiça e aos pobres ele ensina o seu caminho.",
+    "refrao": "Recordai, Senhor meu Deus, vossa ternura e compaixão!"
   },
   "primeira_leitura": {
-    "referencia": "Ecl 11, 9-12, 8",
-    "titulo": "Leitura do Livro do Eclesiastes",
-    "texto": "11, 9Alegra-te, jovem, na tua adolescência, e que o teu coração repouse no bem nos dias da tua juventude; segue as aspirações do teu coração e os desejos dos teus olhos; fica sabendo, porém, que de tudo isso Deus te pedirá contas. 10Tira a tristeza do teu coração, e afasta a malícia do teu corpo, pois a adolescência e a juventude são vaidade.12, 1Lembra-te do teu Criador nos dias da juventude, antes que venham os dias da desgraça e cheguem os anos dos quais dirás: “Não sinto prazer neles”; 2 — antes que se obscureçam o sol, a luz, a lua e as estrelas, e voltem as nuvens depois da chuva; 3quando os guardas da casa começarem a tremer, e se curvarem os homens robustos; quando as poucas mulheres cessarem de moer, e ficarem turvas as vistas das que olham pelas janelas 4e se fecharem as portas que dão para a rua; quando enfraquecer o ruído do moinho, e os homens se levantarem ao canto dos pássaros, e silenciarem as vozes das canções, 5e houver medo das alturas e sobressaltos no caminho, enquanto a amendoeira floresce, o gafanhoto se arrasta e a alcaparra perde o seu gosto, porque o homem se encaminha para a morada eterna, e os que choram já rondam pelas ruas; 6— antes que se rompa o cordão de prata e se despedace a taça de ouro, a jarra se parta na fonte, a roldana se arrebente no poço, 7— antes que volte o pó à terra, de onde veio, e o sopro de vida volte a Deus que o concedeu. 8Vaidade das vaidades, diz o Eclesiastes, tudo é vaidade."
+    "referencia": "Ez 18,25-28",
+    "titulo": "Leitura da Profecia de Ezequiel",
+    "texto": "Assim diz o Senhor: 25“Vós andais dizendo: ‘A conduta do Senhor não é correta’. Ouvi, vós da casa de Israel: é a minha conduta que não é correta ou, antes, é a vossa conduta que não é correta? 26Quando um justo se desvia da justiça, pratica o mal e morre, é por causa do mal praticado que ele morre. 27Quando um ímpio se arrepende da maldade que praticou e observa o direito e a justiça, conserva a própria vida. 28Arrependendo-se de todos os seus pecados, com certeza viverá; não morrerá”."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "Fl 2,1-11 ou 1-5",
+    "titulo": "Leitura da carta de São Paulo aos Filipenses",
+    "texto": "[Irmãos, 1se existe consolação na vida em Cristo, se existe alento no mútuo amor, se existe comunhão no Espírito, se existe ternura e compaixão, 2tornai então completa a minha alegria: aspirai à mesma coisa, unidos no mesmo amor; vivei em harmonia, procurando a unidade. 3Nada façais por competição ou vanglória, mas, com humildade, cada um julgue que o outro é mais importante 4e não cuide somente do que é seu, mas também do que é do outro. 5Tende entre vós o mesmo sentimento que existe em Cristo Jesus.] 6Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7mas esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9Por isso, Deus o exaltou acima de tudo e lhe deu o nome que está acima de todo nome. 10Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra 11e toda língua proclame: “Jesus Cristo é o Senhor”, para a glória de Deus Pai."
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }

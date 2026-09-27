@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "oracao": {
-    "titulo": "Oração de perseverança",
-    "texto": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos que Tu colocaste em meu coração.",
-    "reflexao": "A perseverança é uma virtude essencial na vida cristã. Os grandes santos foram aqueles que nunca desistiram.",
-    "versiculo": "Gálatas 6,9 — Não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos."
+    "titulo": "Oração pelos idosos",
+    "texto": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor inabalável.",
+    "reflexao": "Os idosos são tesouros de sabedoria e experiência. Honrá-los é um mandamento de Deus.",
+    "versiculo": "Levítico 19,32 — Diante das cãs te levantarás e honrarás a pessoa do ancião."
   },
   "santo": {
-    "nome": "Santos Cosme e Damião",
-    "titulo": "Médicos e Mártires",
-    "resumo": "Irmãos gêmeos médicos.",
-    "historia": "Irmãos gêmeos médicos.\n\nSantos Cosme e Damião é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santos Cosme e Damião nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santos Cosme e Damião, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Vicente de Paulo",
+    "titulo": "Apóstolo da Caridade",
+    "resumo": "Fundou as Filhas da Caridade e os Lazaristas.",
+    "historia": "Fundou as Filhas da Caridade e os Lazaristas.\n\nSão Vicente de Paulo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Vicente de Paulo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Vicente de Paulo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de perseverança — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos...",
-      "og_title": "Oração de perseverança",
+      "title": "Oração pelos idosos — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor...",
+      "og_title": "Oração pelos idosos",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-09-26"
+      "date": "2026-09-27"
     },
     "santo": {
-      "title": "Santos Cosme e Damião — Santo do Dia | Minuto da Oração",
-      "description": "Irmãos gêmeos médicos.",
-      "og_title": "Santos Cosme e Damião — Médicos e Mártires",
+      "title": "São Vicente de Paulo — Santo do Dia | Minuto da Oração",
+      "description": "Fundou as Filhas da Caridade e os Lazaristas.",
+      "og_title": "São Vicente de Paulo — Apóstolo da Caridade",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-09-26"
+      "date": "2026-09-27"
     }
   }
 }
