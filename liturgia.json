@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-01",
-  "data_extenso": "1 de outubro de 2026",
-  "liturgia": "Santa Teresa do Menino Jesus, virgem e doutora da Igreja, Memória",
+  "date": "2026-10-02",
+  "data_extenso": "2 de outubro de 2026",
+  "liturgia": "Santos Anjos da Guarda, Memória",
   "cor": "Branco",
   "evangelho": {
-    "referencia": "Lc 10,1-12",
-    "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 1o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. 2E dizia-lhes: “A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. 3Eis que vos envio como cordeiros para o meio de lobos. 4Não leveis bolsa, nem sacola, nem sandálias e não cumprimenteis ninguém pelo caminho! 5Em qualquer casa em que entrardes, dizei primeiro: ‘A paz esteja nesta casa!’ 6Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. 7Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa.\n8Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, 9curai os doentes que nela houver e dizei ao povo: ‘O reino de Deus está próximo de vós’. 10Mas, quando entrardes numa cidade e não fordes bem recebidos, saindo pelas ruas, dizei: 11‘Até a poeira de vossa cidade, que se apegou aos nossos pés, sacudimos contra vós. No entanto, sabei que o reino de Deus está próximo!’ 12Eu vos digo que, naquele dia, Sodoma será tratada com menos rigor do que essa cidade”."
+    "referencia": "Mt 18, 1-5. 10",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+    "texto": "Naquela hora, 1os discípulos aproximaram-se de Jesus e perguntaram: “Quem é o maior no Reino dos Céus?” 2Jesus chamou uma criança, colocou-a no meio deles 3e disse: “Em verdade vos digo, se não vos converterdes, e não vos tornardes como crianças, não entrareis no Reino dos Céus. 4Quem se faz pequeno como esta criança, esse é o maior no Reino dos Céus. 5E quem recebe em meu nome uma criança como esta, é a mim que recebe. 10Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus”."
   },
   "salmo": {
-    "referencia": "Sl 26(27)",
+    "referencia": "Sl 90",
     "titulo": "",
-    "texto": "– Ó Senhor, ouvi a voz do meu apelo, atendei por compaixão! Meu coração fala convosco confiante e os meus olhos vos procuram.\n– Senhor, é vossa face que eu procuro; não me escondais a vossa face! Não afasteis em vossa ira o vosso servo, sois vós o meu auxílio! Não me esqueçais nem me deixeis abandonado, meu Deus e salvador!\n– Sei que a bondade do Senhor eu hei de ver na terra dos viventes. Espera no Senhor e tem coragem, espera no Senhor!",
-    "refrao": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes."
+    "texto": "— Quem habita ao abrigo do Altíssimo e vive à sombra do Senhor onipotente, diz ao Senhor: “Sois meu refúgio e proteção, sois o meu Deus, no qual confio inteiramente”. \n— Do caçador e do seu laço ele te livra. Ele te salva da palavra que destrói. Com suas asas haverá de proteger-te, com seu escudo e suas armas, defender-te. \n— Não temerás terror algum durante a noite, nem a flecha disparada em pleno dia; nem a peste que caminha pelo escuro, nem a desgraça que devasta ao meio-dia. \n— Nenhum mal há de chegar perto de ti, nem a desgraça baterá à tua porta; pois o Senhor deu uma ordem a seus anjos para em todos os caminhos te guardarem",
+    "refrao": "O Senhor deu uma ordem aos seus anjos, para em todos os caminhos te guardarem."
   },
   "primeira_leitura": {
-    "referencia": "Jó 19,21-27",
-    "titulo": "Leitura do livro de Jó",
-    "texto": "Disse Jó: 21“Piedade, piedade de mim, meus amigos, pois a mão de Deus me feriu! 22Por que me perseguis como Deus e não vos cansais de me torturar? 23Gostaria que minhas palavras fossem escritas e gravadas numa inscrição 24com ponteiro de ferro e com chumbo, cravadas na rocha para sempre! 25Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; 26e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus. 27Eu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros. Dentro de mim consomem-se os meus rins”."
+    "referencia": "Ex 23, 20-23",
+    "titulo": "Leitura do Livro do Êxodo",
+    "texto": "Assim diz o Senhor: 20“Vou enviar um anjo que vá à tua frente, que te guarde pelo caminho e te conduza ao lugar que te preparei. 21Respeita-o e ouve a sua voz. Não lhe sejas rebelde, porque não suportará as vossas transgressões, e nele está o meu nome. 22Se ouvires a sua voz e fizeres tudo o que eu disser, serei inimigo dos teus inimigos, e adversário dos teus adversários. 23O meu anjo irá à tua frente e te conduzirá à terra dos amorreus, dos hititas, dos fereseus, dos cananeus, dos heveus e dos jebuseus, e eu os exterminarei”."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
