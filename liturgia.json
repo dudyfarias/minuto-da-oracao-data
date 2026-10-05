@@ -1,28 +1,24 @@
 {
-  "date": "2026-10-04",
-  "data_extenso": "4 de outubro de 2026",
-  "liturgia": "27º Domingo do Tempo Comum",
+  "date": "2026-10-05",
+  "data_extenso": "5 de outubro de 2026",
+  "liturgia": "2ª feira da 27ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Mt 21,33-43",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
-    "texto": "Naquele tempo, Jesus disse aos sumos sacerdotes e aos anciãos do povo: 33“Escutai esta outra parábola: certo proprietário plantou uma vinha, pôs uma cerca em volta, fez nela um lagar para esmagar as uvas e construiu uma torre de guarda. Depois, arrendou-a a vinhateiros e viajou para o estrangeiro. 34Quando chegou o tempo da colheita, o proprietário mandou seus empregados aos vinhateiros para receber seus frutos. 35Os vinhateiros, porém, agarraram os empregados, espancaram a um, mataram a outro e ao terceiro apedrejaram. 36O proprietário mandou de novo outros empregados, em maior número do que os primeiros. Mas eles os trataram da mesma forma. 37Finalmente, o proprietário enviou-lhes o seu filho, pensando: ‘Ao meu filho eles vão respeitar’. 38Os vinhateiros, porém, ao verem o filho, disseram entre si: ‘Este é o herdeiro. Vinde, vamos matá-lo e tomar posse da sua herança!’ 39Então agarraram o filho, jogaram-no para fora da vinha e o mataram. 40Pois bem, quando o dono da vinha voltar, o que fará com esses vinhateiros?” 41Os sumos sacerdotes e os anciãos do povo responderam: “Com certeza mandará matar de modo violento esses perversos e arrendará a vinha a outros vinhateiros, que lhe entregarão os frutos no tempo certo”. 42Então Jesus lhes disse: “Vós nunca lestes nas Escrituras: ‘A pedra que os construtores rejeitaram tornou-se a pedra angular; isso foi feito pelo Senhor e é maravilhoso aos nossos olhos’? 43Por isso eu vos digo, o Reino de Deus vos será tirado e será entregue a um povo que produzirá frutos”."
+    "referencia": "Lc 10,25-37",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 25um mestre da Lei se levantou e, querendo pôr Jesus em dificuldade, perguntou: “Mestre, que devo fazer para receber em herança a vida eterna?” 26Jesus lhe disse: “O que está escrito na Lei? Como lês?” 27Ele então respondeu: “Amarás o Senhor, teu Deus, de todo o teu coração e com toda a tua alma, com toda a tua força e com toda a tua inteligência; e ao teu próximo como a ti mesmo!” 28Jesus lhe disse: “Tu respondeste corretamente. Faze isso e viverás”. 29Ele, porém, querendo justificar-se, disse a Jesus: “E quem é o meu próximo?” 30Jesus respondeu: “Certo homem descia de Jerusalém para Jericó e caiu nas mãos de assaltantes. Estes arrancaram-lhe tudo, espancaram-no e foram-se embora, deixando-o quase morto. 31Por acaso, um sacerdote estava descendo por aquele caminho. Quando viu o homem, seguiu adiante, pelo outro lado. 32O mesmo aconteceu com um levita: chegou ao lugar, viu o homem e seguiu adiante, pelo outro lado. 33Mas um samaritano, que estava viajando, chegou perto dele, viu e sentiu compaixão. 34Aproximou-se dele e fez curativos, derramando óleo e vinho nas feridas. Depois colocou o homem em seu próprio animal e levou-o a uma pensão, onde cuidou dele. 35No dia seguinte, pegou duas moedas de prata e entregou-as ao dono da pensão, recomendando: ‘Toma conta dele! Quando eu voltar, vou pagar o que tiveres gasto a mais'”. E Jesus perguntou: 36“Na tua opinião, qual dos três foi o próximo do homem que caiu nas mãos dos assaltantes?” 37Ele respondeu: “Aquele que usou de misericórdia para com ele”. Então Jesus lhe disse: “Vai e faze a mesma coisa”."
   },
   "salmo": {
-    "referencia": "Sl 79(80)",
+    "referencia": "Sl 110(111)",
     "titulo": "",
-    "texto": "– Arrancastes do Egito esta videira e expulsastes as nações para plantá-la; até o mar se estenderam seus sarmentos, até o rio os seus rebentos se espalharam.\n– Por que razão vós destruístes sua cerca, para que todos os passantes a vindimem, o javali da mata virgem a devaste e os animais do descampado nela pastem?\n– Voltai-vos para nós, Deus do universo! Olhai dos altos céus e observai. Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou; protegei-a, e ao rebento que firmastes!\n– E nunca mais vos deixaremos, Senhor Deus! Dai-nos vida, e louvaremos vosso nome! Convertei-nos, ó Senhor Deus do universo, e sobre nós iluminai a vossa face! Se voltardes para nós, seremos salvos!",
-    "refrao": "A vinha do Senhor é a casa de Israel."
+    "texto": "– Eu agradeço a Deus de todo o coração, junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Suas obras são verdade e são justiça, seus preceitos, todos eles, são estáveis, confirmados para sempre e pelos séculos, realizados na verdade e retidão.\n– Enviou libertação para o seu povo, confirmou sua Aliança para sempre. Seu nome é santo e é digno de respeito. Permaneça eternamente o seu louvor.",
+    "refrao": "O Senhor se lembra sempre da Aliança."
   },
   "primeira_leitura": {
-    "referencia": "Is 5,1-7",
-    "titulo": "Leitura do livro do profeta Isaías",
-    "texto": "1Vou cantar para o meu amado o cântico da vinha de um amigo meu: um amigo meu possuía uma vinha em fértil encosta. 2Cercou-a, limpou-a de pedras, plantou videiras escolhidas, edificou uma torre no meio e construiu um lagar; esperava que ela produzisse uvas boas, mas produziu uvas selvagens. 3Agora, habitantes de Jerusalém e cidadãos de Judá, julgai a minha situação e a de minha vinha. 4O que poderia eu ter feito a mais por minha vinha e não fiz? Eu contava com uvas de verdade, mas por que produziu ela uvas selvagens? 5Pois agora vou mostrar-vos o que farei com minha vinha: vou desmanchar a cerca, e ela será devastada; vou derrubar o muro, e ela será pisoteada. 6Vou deixá-la inculta e selvagem: ela não será podada nem lavrada, espinhos e sarças tomarão conta dela; não deixarei as nuvens derramar a chuva sobre ela. 7Pois bem, a vinha do Senhor dos exércitos é a casa de Israel, e o povo de Judá, sua dileta plantação; eu esperava deles frutos de justiça – e eis injustiça; esperava obras de bondade – e eis iniquidade."
+    "referencia": "Gl 1,6-12",
+    "titulo": "Leitura da carta de São Paulo aos Gálatas",
+    "texto": "Irmãos, 6admiro-me de terdes abandonado tão depressa aquele que vos chamou, na graça de Cristo, e de terdes passado para um outro evangelho. 7Não que haja outro Evangelho, mas algumas pessoas vos estão perturbando e querendo mudar o Evangelho de Cristo. 8Pois bem, mesmo que nós ou um anjo vindo do céu vos pregasse um evangelho diferente daquele que vos pregamos, seja excomungado. 9Como já dissemos e agora repito: se alguém vos pregar um evangelho diferente daquele que recebestes, seja excomungado. 10Será que eu estou buscando a aprovação dos homens ou a aprovação de Deus? Ou estou procurando agradar aos homens? Se eu ainda estivesse preocupado em agradar aos homens, não seria servo de Cristo. 11Irmãos, asseguro-vos que o Evangelho pregado por mim não é conforme a critérios humanos. 12Com efeito, não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo."
   },
-  "segunda_leitura": {
-    "referencia": "Fl 4,6-9",
-    "titulo": "Leitura da carta de São Paulo aos Filipenses",
-    "texto": "Irmãos, 6não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças. 7E a paz de Deus, que ultrapassa todo entendimento, guardará os vossos corações e pensamentos em Cristo Jesus. 8Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. 9Praticai o que aprendestes e recebestes de mim ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco."
-  },
+  "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
