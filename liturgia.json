@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-05",
-  "data_extenso": "5 de outubro de 2026",
-  "liturgia": "2ª feira da 27ª Semana do Tempo Comum",
+  "date": "2026-10-06",
+  "data_extenso": "6 de outubro de 2026",
+  "liturgia": "3ª feira da 27ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 10,25-37",
+    "referencia": "Lc 10,38-42",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 25um mestre da Lei se levantou e, querendo pôr Jesus em dificuldade, perguntou: “Mestre, que devo fazer para receber em herança a vida eterna?” 26Jesus lhe disse: “O que está escrito na Lei? Como lês?” 27Ele então respondeu: “Amarás o Senhor, teu Deus, de todo o teu coração e com toda a tua alma, com toda a tua força e com toda a tua inteligência; e ao teu próximo como a ti mesmo!” 28Jesus lhe disse: “Tu respondeste corretamente. Faze isso e viverás”. 29Ele, porém, querendo justificar-se, disse a Jesus: “E quem é o meu próximo?” 30Jesus respondeu: “Certo homem descia de Jerusalém para Jericó e caiu nas mãos de assaltantes. Estes arrancaram-lhe tudo, espancaram-no e foram-se embora, deixando-o quase morto. 31Por acaso, um sacerdote estava descendo por aquele caminho. Quando viu o homem, seguiu adiante, pelo outro lado. 32O mesmo aconteceu com um levita: chegou ao lugar, viu o homem e seguiu adiante, pelo outro lado. 33Mas um samaritano, que estava viajando, chegou perto dele, viu e sentiu compaixão. 34Aproximou-se dele e fez curativos, derramando óleo e vinho nas feridas. Depois colocou o homem em seu próprio animal e levou-o a uma pensão, onde cuidou dele. 35No dia seguinte, pegou duas moedas de prata e entregou-as ao dono da pensão, recomendando: ‘Toma conta dele! Quando eu voltar, vou pagar o que tiveres gasto a mais'”. E Jesus perguntou: 36“Na tua opinião, qual dos três foi o próximo do homem que caiu nas mãos dos assaltantes?” 37Ele respondeu: “Aquele que usou de misericórdia para com ele”. Então Jesus lhe disse: “Vai e faze a mesma coisa”."
+    "texto": "Naquele tempo, 38Jesus entrou num povoado e certa mulher, de nome Marta, recebeu-o em sua casa. 39Sua irmã, chamada Maria, sentou-se aos pés do Senhor e escutava a sua palavra. 40Marta, porém, estava ocupada com muitos afazeres. Ela aproximou-se e disse: “Senhor, não te importas que minha irmã me deixe sozinha com todo o serviço? Manda que ela me venha ajudar!” 41O Senhor, porém, lhe respondeu: “Marta, Marta! Tu te preocupas e andas agitada por muitas coisas. 42Porém uma só coisa é necessária. Maria escolheu a melhor parte, e esta não lhe será tirada”."
   },
   "salmo": {
-    "referencia": "Sl 110(111)",
+    "referencia": "Sl 138(139)",
     "titulo": "",
-    "texto": "– Eu agradeço a Deus de todo o coração, junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Suas obras são verdade e são justiça, seus preceitos, todos eles, são estáveis, confirmados para sempre e pelos séculos, realizados na verdade e retidão.\n– Enviou libertação para o seu povo, confirmou sua Aliança para sempre. Seu nome é santo e é digno de respeito. Permaneça eternamente o seu louvor.",
-    "refrao": "O Senhor se lembra sempre da Aliança."
+    "texto": "– Senhor, vós me sondais e conheceis, sabeis quando me sento ou me levanto; de longe penetrais meus pensamentos, percebeis quando me deito e quando eu ando, os meus caminhos vos são todos conhecidos.\n– Fostes vós que me formastes as entranhas, e no seio de minha mãe vós me tecestes. Eu vos louvo e vos dou graças, ó Senhor, porque de modo admirável me formastes! Que prodígio e maravilha as vossas obras!\n– Até o mais íntimo, Senhor, me conheceis; nenhuma sequer de minhas fibras ignoráveis; quando eu era modelado ocultamente, era formado nas entranhas subterrâneas.",
+    "refrao": "Conduzi-me no caminho para a vida, ó Senhor!"
   },
   "primeira_leitura": {
-    "referencia": "Gl 1,6-12",
+    "referencia": "Gl 1,13-24",
     "titulo": "Leitura da carta de São Paulo aos Gálatas",
-    "texto": "Irmãos, 6admiro-me de terdes abandonado tão depressa aquele que vos chamou, na graça de Cristo, e de terdes passado para um outro evangelho. 7Não que haja outro Evangelho, mas algumas pessoas vos estão perturbando e querendo mudar o Evangelho de Cristo. 8Pois bem, mesmo que nós ou um anjo vindo do céu vos pregasse um evangelho diferente daquele que vos pregamos, seja excomungado. 9Como já dissemos e agora repito: se alguém vos pregar um evangelho diferente daquele que recebestes, seja excomungado. 10Será que eu estou buscando a aprovação dos homens ou a aprovação de Deus? Ou estou procurando agradar aos homens? Se eu ainda estivesse preocupado em agradar aos homens, não seria servo de Cristo. 11Irmãos, asseguro-vos que o Evangelho pregado por mim não é conforme a critérios humanos. 12Com efeito, não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo."
+    "texto": "Irmãos, 13certamente ouvistes falar como foi outrora a minha conduta no judaísmo, com que excessos perseguia e devastava a Igreja de Deus 14e como progredia no judaísmo mais do que muitos judeus de minha idade, mostrando-me extremamente zeloso das tradições paternas. 15Quando, porém, aquele que me separou desde o ventre materno e me chamou por sua graça 16se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, não consultei carne nem sangue 17nem subi logo a Jerusalém para estar com os que eram apóstolos antes de mim. Pelo contrário, parti para a Arábia e, depois, voltei ainda a Damasco. 18Três anos mais tarde, fui a Jerusalém para conhecer Cefas e fiquei com ele quinze dias. 19E não estive com nenhum outro apóstolo, a não ser Tiago, o irmão do Senhor. 20Escrevendo estas coisas, afirmo, diante de Deus, que não estou mentindo. 21Depois, fui para as regiões da Síria e da Cilícia. 22Ainda não era pessoalmente conhecido das Igrejas da Judeia que estão em Cristo. 23Apenas tinham ouvido dizer que “aquele que antes nos perseguia está agora pregando a fé que antes procurava destruir”. 24E glorificavam a Deus por minha causa."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
