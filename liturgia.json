@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-06",
-  "data_extenso": "6 de outubro de 2026",
-  "liturgia": "3ª feira da 27ª Semana do Tempo Comum",
-  "cor": "Verde",
+  "date": "2026-10-07",
+  "data_extenso": "7 de outubro de 2026",
+  "liturgia": "Bem-aventurada Virgem Maria do Rosário, Memória",
+  "cor": "Branco",
   "evangelho": {
-    "referencia": "Lc 10,38-42",
+    "referencia": "Lc 1,26-38",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 38Jesus entrou num povoado e certa mulher, de nome Marta, recebeu-o em sua casa. 39Sua irmã, chamada Maria, sentou-se aos pés do Senhor e escutava a sua palavra. 40Marta, porém, estava ocupada com muitos afazeres. Ela aproximou-se e disse: “Senhor, não te importas que minha irmã me deixe sozinha com todo o serviço? Manda que ela me venha ajudar!” 41O Senhor, porém, lhe respondeu: “Marta, Marta! Tu te preocupas e andas agitada por muitas coisas. 42Porém uma só coisa é necessária. Maria escolheu a melhor parte, e esta não lhe será tirada”."
+    "texto": "Naquele tempo, 26o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27a uma virgem, prometida em casamento a um homem chamado José. Ele era descendente de Davi, e o nome da virgem era Maria. 28O anjo entrou onde ela estava e disse: “Alegra-te, cheia de graça, o Senhor está contigo!”29Maria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação. 30O anjo, então, disse-lhe: “Não tenhas medo, Maria, porque encontraste graça diante de Deus. 31Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. 32Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi. 33Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim”. 34Maria perguntou ao anjo: “Como acontecerá isso se eu não conheço homem algum?” 35O anjo respondeu: “O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra. Por isso, o menino que vai nascer será chamado santo, Filho de Deus. 36Também Isabel, tua parenta, concebeu um filho na velhice. Este já é o sexto mês daquela que era considerada estéril, 37porque para Deus nada é impossível”. 38Maria, então, disse: “Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!” E o anjo retirou-se."
   },
   "salmo": {
-    "referencia": "Sl 138(139)",
+    "referencia": "Sl Lc 1",
     "titulo": "",
-    "texto": "– Senhor, vós me sondais e conheceis, sabeis quando me sento ou me levanto; de longe penetrais meus pensamentos, percebeis quando me deito e quando eu ando, os meus caminhos vos são todos conhecidos.\n– Fostes vós que me formastes as entranhas, e no seio de minha mãe vós me tecestes. Eu vos louvo e vos dou graças, ó Senhor, porque de modo admirável me formastes! Que prodígio e maravilha as vossas obras!\n– Até o mais íntimo, Senhor, me conheceis; nenhuma sequer de minhas fibras ignoráveis; quando eu era modelado ocultamente, era formado nas entranhas subterrâneas.",
-    "refrao": "Conduzi-me no caminho para a vida, ó Senhor!"
+    "texto": "– A minha alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu salvador.\n– Pois ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas, e santo é o seu nome!\n– Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos.\n– Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos.\n– Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos para sempre.",
+    "refrao": "O Poderoso fez por mim maravilhas e santo é o seu nome!"
   },
   "primeira_leitura": {
-    "referencia": "Gl 1,13-24",
-    "titulo": "Leitura da carta de São Paulo aos Gálatas",
-    "texto": "Irmãos, 13certamente ouvistes falar como foi outrora a minha conduta no judaísmo, com que excessos perseguia e devastava a Igreja de Deus 14e como progredia no judaísmo mais do que muitos judeus de minha idade, mostrando-me extremamente zeloso das tradições paternas. 15Quando, porém, aquele que me separou desde o ventre materno e me chamou por sua graça 16se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, não consultei carne nem sangue 17nem subi logo a Jerusalém para estar com os que eram apóstolos antes de mim. Pelo contrário, parti para a Arábia e, depois, voltei ainda a Damasco. 18Três anos mais tarde, fui a Jerusalém para conhecer Cefas e fiquei com ele quinze dias. 19E não estive com nenhum outro apóstolo, a não ser Tiago, o irmão do Senhor. 20Escrevendo estas coisas, afirmo, diante de Deus, que não estou mentindo. 21Depois, fui para as regiões da Síria e da Cilícia. 22Ainda não era pessoalmente conhecido das Igrejas da Judeia que estão em Cristo. 23Apenas tinham ouvido dizer que “aquele que antes nos perseguia está agora pregando a fé que antes procurava destruir”. 24E glorificavam a Deus por minha causa."
+    "referencia": "At 1,12-14",
+    "titulo": "Leitura dos Atos dos Apóstolos",
+    "texto": "Depois que Jesus subiu ao céu, 12os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro. 13Entraram na cidade e subiram para a sala de cima, onde costumavam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago. 14Todos eles perseveravam na oração em comum junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
