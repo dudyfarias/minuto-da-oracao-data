@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "oracao": {
-    "titulo": "Oração pela fé",
-    "texto": "Senhor, aumenta a minha fé. Nos momentos de dúvida, fortalece minha confiança em Ti. Nos momentos de escuridão, sê a minha luz. Faz com que eu caminhe sempre pela fé e não pela visão.",
-    "reflexao": "A fé é um dom que precisa ser cultivado diariamente, como uma semente que precisa de água e sol para crescer.",
-    "versiculo": "Hebreus 11,1 — A fé é a certeza das coisas que se esperam e a prova das coisas que não se veem."
+    "titulo": "Oração de perdão",
+    "texto": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu possa viver em paz.",
+    "reflexao": "Perdoar não é esquecer, mas escolher não carregar mais o peso da mágoa. É um ato de liberdade.",
+    "versiculo": "Mateus 6,14 — Se perdoardes aos homens as suas ofensas, também vosso Pai celeste vos perdoará."
   },
   "santo": {
-    "nome": "Nossa Senhora do Rosário",
-    "titulo": "Festa",
-    "resumo": "Celebração do Santo Rosário.",
-    "historia": "Celebração do Santo Rosário.\n\nNossa Senhora do Rosário é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora do Rosário nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Nossa Senhora do Rosário, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Pelágia",
+    "titulo": "Penitente",
+    "resumo": "Convertida que viveu como eremita.",
+    "historia": "Convertida que viveu como eremita.\n\nSanta Pelágia é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Pelágia nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Pelágia, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela fé — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, aumenta a minha fé. Nos momentos de dúvida, fortalece minha confiança em Ti. Nos momentos de escuridão, sê a minha luz. Faz com que eu caminhe...",
-      "og_title": "Oração pela fé",
+      "title": "Oração de perdão — Oração do Dia | Minuto da Oração",
+      "description": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu...",
+      "og_title": "Oração de perdão",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     "santo": {
-      "title": "Nossa Senhora do Rosário — Santo do Dia | Minuto da Oração",
-      "description": "Celebração do Santo Rosário.",
-      "og_title": "Nossa Senhora do Rosário — Festa",
+      "title": "Santa Pelágia — Santo do Dia | Minuto da Oração",
+      "description": "Convertida que viveu como eremita.",
+      "og_title": "Santa Pelágia — Penitente",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     }
   }
 }

@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-07",
-  "data_extenso": "7 de outubro de 2026",
-  "liturgia": "Bem-aventurada Virgem Maria do Rosário, Memória",
-  "cor": "Branco",
+  "date": "2026-10-08",
+  "data_extenso": "8 de outubro de 2026",
+  "liturgia": "5ª feira da 27ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 1,26-38",
+    "referencia": "Lc 11,5-13",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 26o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27a uma virgem, prometida em casamento a um homem chamado José. Ele era descendente de Davi, e o nome da virgem era Maria. 28O anjo entrou onde ela estava e disse: “Alegra-te, cheia de graça, o Senhor está contigo!”29Maria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação. 30O anjo, então, disse-lhe: “Não tenhas medo, Maria, porque encontraste graça diante de Deus. 31Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. 32Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi. 33Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim”. 34Maria perguntou ao anjo: “Como acontecerá isso se eu não conheço homem algum?” 35O anjo respondeu: “O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra. Por isso, o menino que vai nascer será chamado santo, Filho de Deus. 36Também Isabel, tua parenta, concebeu um filho na velhice. Este já é o sexto mês daquela que era considerada estéril, 37porque para Deus nada é impossível”. 38Maria, então, disse: “Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!” E o anjo retirou-se."
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 5“Se um de vós tiver um amigo e for procurá-lo à meia-noite e lhe disser: ‘Amigo, empresta-me três pães, 6porque um amigo meu chegou de viagem e nada tenho para lhe oferecer’, 7e se o outro responder lá de dentro: ‘Não me incomodes! Já tranquei a porta, e meus filhos e eu já estamos deitados; não me posso levantar para te dar os pães’, 8eu vos declaro: mesmo que o outro não se levante para dá-los porque é seu amigo, vai levantar-se ao menos por causa da impertinência dele e lhe dará quanto for necessário. 9Portanto, eu vos digo, pedi e recebereis; procurai e encontrareis; batei e vos será aberto. 10Pois quem pede, recebe; quem procura, encontra; e para quem bate, se abrirá. 11Será que algum de vós que é pai, se o filho pedir um peixe, lhe dará uma cobra? 12Ou ainda, se pedir um ovo, lhe dará um escorpião? 13Ora, se vós, que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o Pai do céu dará o Espírito Santo aos que o pedirem!”"
   },
   "salmo": {
     "referencia": "Sl Lc 1",
     "titulo": "",
-    "texto": "– A minha alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu salvador.\n– Pois ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas, e santo é o seu nome!\n– Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos.\n– Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos.\n– Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos para sempre.",
-    "refrao": "O Poderoso fez por mim maravilhas e santo é o seu nome!"
+    "texto": "– Fez surgir um poderoso salvador na casa de Davi, seu servidor, como falara pela boca de seus santos, os profetas desde os tempos mais antigos.\n– Para salvar-nos do poder dos inimigos e da mão de todos quantos nos odeiam. Assim mostrou misericórdia a nossos pais, recordando a sua santa Aliança.\n– E o juramento a Abraão, o nosso pai, de conceder-nos que, libertos do inimigo, a ele nós sirvamos sem temor, em santidade e em justiça diante dele, enquanto perdurarem nossos dias.",
+    "refrao": "Bendito seja o Senhor Deus de Israel, porque a seu povo visitou e libertou!"
   },
   "primeira_leitura": {
-    "referencia": "At 1,12-14",
-    "titulo": "Leitura dos Atos dos Apóstolos",
-    "texto": "Depois que Jesus subiu ao céu, 12os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro. 13Entraram na cidade e subiram para a sala de cima, onde costumavam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago. 14Todos eles perseveravam na oração em comum junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus."
+    "referencia": "Gl 3,1-5",
+    "titulo": "Leitura da carta de São Paulo aos Gálatas",
+    "texto": "1Ó gálatas insensatos, quem é que vos fascinou? Diante de vossos olhos, não foi acaso representado, como que ao vivo, Jesus Cristo crucificado? 2Só isto quero saber de vós: recebestes o Espírito pela prática da Lei ou pela fé através da pregação? 3Sois assim tão insensatos? A ponto de, depois de terdes começado pelo espírito, quererdes terminar pela carne? 4Foi acaso em vão que sofrestes tanto? Se é que foi mesmo em vão! 5Aquele que vos dá generosamente o Espírito e realiza milagres entre vós faz isso porque praticais a Lei ou porque crestes através da pregação?"
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
