@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "oracao": {
-    "titulo": "Oração de perdão",
-    "texto": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu possa viver em paz.",
-    "reflexao": "Perdoar não é esquecer, mas escolher não carregar mais o peso da mágoa. É um ato de liberdade.",
-    "versiculo": "Mateus 6,14 — Se perdoardes aos homens as suas ofensas, também vosso Pai celeste vos perdoará."
+    "titulo": "Oração pela sabedoria",
+    "texto": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da justiça.",
+    "reflexao": "A sabedoria divina não se encontra nos livros, mas no coração humilde que busca a Deus em oração.",
+    "versiculo": "Tiago 1,5 — Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente."
   },
   "santo": {
-    "nome": "Santa Pelágia",
-    "titulo": "Penitente",
-    "resumo": "Convertida que viveu como eremita.",
-    "historia": "Convertida que viveu como eremita.\n\nSanta Pelágia é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Pelágia nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Pelágia, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Dionísio",
+    "titulo": "Mártir",
+    "resumo": "Primeiro bispo de Paris.",
+    "historia": "Primeiro bispo de Paris.\n\nSão Dionísio é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Dionísio nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Dionísio, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de perdão — Oração do Dia | Minuto da Oração",
-      "description": "Pai misericordioso, perdoa as minhas faltas e ajuda-me a perdoar aqueles que me ofenderam. Liberta meu coração de todo rancor e amargura, para que eu...",
-      "og_title": "Oração de perdão",
+      "title": "Oração pela sabedoria — Oração do Dia | Minuto da Oração",
+      "description": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da...",
+      "og_title": "Oração pela sabedoria",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     "santo": {
-      "title": "Santa Pelágia — Santo do Dia | Minuto da Oração",
-      "description": "Convertida que viveu como eremita.",
-      "og_title": "Santa Pelágia — Penitente",
+      "title": "São Dionísio — Santo do Dia | Minuto da Oração",
+      "description": "Primeiro bispo de Paris.",
+      "og_title": "São Dionísio — Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     }
   }
 }
