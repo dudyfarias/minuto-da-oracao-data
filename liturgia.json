@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-09",
-  "data_extenso": "9 de outubro de 2026",
-  "liturgia": "6ª feira da 27ª Semana do Tempo Comum",
+  "date": "2026-10-10",
+  "data_extenso": "10 de outubro de 2026",
+  "liturgia": "Sábado da 27ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 11,15-26",
+    "referencia": "Lc 11,27-28",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, Jesus estava expulsando um demônio. 15Mas alguns disseram: “É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios”. 16Outros, para tentar Jesus, pediam-lhe um sinal do céu. 17Mas, conhecendo seus pensamentos, Jesus disse-lhes: “Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra. 18Ora, se até satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios. 19Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes. 20Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus. 21Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros. 22Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava e reparte o que roubou. 23Quem não está comigo está contra mim. E quem não recolhe comigo dispersa. 24Quando o espírito mau sai de um homem, fica vagando em lugares desertos à procura de repouso; não o encontrando, ele diz: ‘Vou voltar para minha casa de onde saí’. 25Quando ele chega, encontra a casa varrida e arrumada. 26Então ele vai e traz consigo outros sete espíritos piores do que ele. E, entrando, instalam-se aí. No fim, esse homem fica em condição pior do que antes”."
+    "texto": "Naquele tempo, 27enquanto Jesus falava, uma mulher levantou a voz no meio da multidão e lhe disse: “Feliz o ventre que te trouxe e os seios que te amamentaram”. 28Jesus respondeu: “Muito mais felizes são aqueles que ouvem a Palavra de Deus e a põem em prática”."
   },
   "salmo": {
-    "referencia": "Sl 110(111)",
+    "referencia": "Sl 104(105)",
     "titulo": "",
-    "texto": "– Eu agradeço a Deus, de todo o coração, junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas.\n– Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações.",
+    "texto": "– Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome, que é santo, exulte o coração que busca a Deus!\n– Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!\n– Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra.",
     "refrao": "O Senhor se lembra sempre da Aliança!"
   },
   "primeira_leitura": {
-    "referencia": "Gl 3,7-14",
+    "referencia": "Gl 3,22-29",
     "titulo": "Leitura da carta de São Paulo aos Gálatas",
-    "texto": "Irmãos, 7ficai cientes que os que creem é que são verdadeiros filhos de Abraão. 8E a Escritura, prevendo que Deus justificaria as nações pagãs pela fé, anunciou, muito antes, a Abraão: “Em ti serão abençoadas todas as nações”. 9Portanto, os crentes são abençoados com o crente Abraão. 10Aliás, todos os que põem sua confiança na prática da Lei estão ameaçados pela maldição, porque está escrito: “Maldito quem não cumprir perseverantemente tudo o que está escrito no livro da Lei”. 11Pela Lei ninguém se justifica perante Deus; isso é evidente, porque o justo vive da fé. 12E a Lei não se funda na fé, mas no cumprimento: aquele que cumpre a Lei por ela viverá. 13Cristo resgatou-nos da maldição da Lei, fazendo-se maldição por nós, pois está escrito: “Maldito todo aquele que é suspenso no madeiro!” 14Assim a bênção de Abraão se estendeu aos pagãos em Cristo Jesus e pela fé recebemos a promessa do Espírito."
+    "texto": "Irmãos, 22a Escritura pôs todos e tudo sob o jugo do pecado, a fim de que, pela fé em Jesus Cristo, se cumprisse a promessa em favor dos que creem. 23Antes que se inaugurasse o regime da fé, nós éramos guardados, como prisioneiros, sob o jugo da Lei. Éramos guardados para o regime da fé, que estava para ser revelado. 24Assim, a Lei foi como um pedagogo que nos conduziu até Cristo, para que fôssemos justificados pela fé. 25Mas, uma vez inaugurado o regime da fé, já não estamos na dependência desse pedagogo. 26Com efeito, vós todos sois filhos de Deus pela fé em Jesus Cristo. 27Vós todos que fostes batizados em Cristo vos revestistes de Cristo. 28O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só em Jesus Cristo. 29Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"

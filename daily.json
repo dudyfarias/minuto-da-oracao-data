@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "oracao": {
-    "titulo": "Oração pela sabedoria",
-    "texto": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da justiça.",
-    "reflexao": "A sabedoria divina não se encontra nos livros, mas no coração humilde que busca a Deus em oração.",
-    "versiculo": "Tiago 1,5 — Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente."
+    "titulo": "Oração pelos jovens",
+    "texto": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e força para resistir ao mal.",
+    "reflexao": "Os jovens são o presente e o futuro da Igreja. Precisamos orar por eles e com eles.",
+    "versiculo": "1 Timóteo 4,12 — Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis."
   },
   "santo": {
-    "nome": "São Dionísio",
-    "titulo": "Mártir",
-    "resumo": "Primeiro bispo de Paris.",
-    "historia": "Primeiro bispo de Paris.\n\nSão Dionísio é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Dionísio nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Dionísio, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Daniel Comboni",
+    "titulo": "Missionário",
+    "resumo": "Apóstolo da África.",
+    "historia": "Apóstolo da África.\n\nSão Daniel Comboni é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Daniel Comboni nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Daniel Comboni, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela sabedoria — Oração do Dia | Minuto da Oração",
-      "description": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da...",
-      "og_title": "Oração pela sabedoria",
+      "title": "Oração pelos jovens — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e...",
+      "og_title": "Oração pelos jovens",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-09"
+      "date": "2026-10-10"
     },
     "santo": {
-      "title": "São Dionísio — Santo do Dia | Minuto da Oração",
-      "description": "Primeiro bispo de Paris.",
-      "og_title": "São Dionísio — Mártir",
+      "title": "São Daniel Comboni — Santo do Dia | Minuto da Oração",
+      "description": "Apóstolo da África.",
+      "og_title": "São Daniel Comboni — Missionário",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-09"
+      "date": "2026-10-10"
     }
   }
 }
