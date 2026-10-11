@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "oracao": {
-    "titulo": "Oração pelos jovens",
-    "texto": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e força para resistir ao mal.",
-    "reflexao": "Os jovens são o presente e o futuro da Igreja. Precisamos orar por eles e com eles.",
-    "versiculo": "1 Timóteo 4,12 — Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis."
+    "titulo": "Oração pela noite",
+    "texto": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas forças para o dia de amanhã.",
+    "reflexao": "O momento antes de dormir é ideal para fazer um exame de consciência e entregar o dia a Deus.",
+    "versiculo": "Salmo 4,8 — Em paz me deito e logo adormeço, porque só Tu, Senhor, me fazes repousar seguro."
   },
   "santo": {
-    "nome": "São Daniel Comboni",
-    "titulo": "Missionário",
-    "resumo": "Apóstolo da África.",
-    "historia": "Apóstolo da África.\n\nSão Daniel Comboni é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Daniel Comboni nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Daniel Comboni, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São João XXIII",
+    "titulo": "Papa Bom",
+    "resumo": "Convocou o Concílio Vaticano II.",
+    "historia": "Convocou o Concílio Vaticano II.\n\nSão João XXIII é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São João XXIII nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São João XXIII, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos jovens — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e...",
-      "og_title": "Oração pelos jovens",
+      "title": "Oração pela noite — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas...",
+      "og_title": "Oração pela noite",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     },
     "santo": {
-      "title": "São Daniel Comboni — Santo do Dia | Minuto da Oração",
-      "description": "Apóstolo da África.",
-      "og_title": "São Daniel Comboni — Missionário",
+      "title": "São João XXIII — Santo do Dia | Minuto da Oração",
+      "description": "Convocou o Concílio Vaticano II.",
+      "og_title": "São João XXIII — Papa Bom",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     }
   }
 }

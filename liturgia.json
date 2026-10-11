@@ -1,24 +1,28 @@
 {
-  "date": "2026-10-10",
-  "data_extenso": "10 de outubro de 2026",
-  "liturgia": "Sábado da 27ª Semana do Tempo Comum",
+  "date": "2026-10-11",
+  "data_extenso": "11 de outubro de 2026",
+  "liturgia": "28º Domingo do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 11,27-28",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 27enquanto Jesus falava, uma mulher levantou a voz no meio da multidão e lhe disse: “Feliz o ventre que te trouxe e os seios que te amamentaram”. 28Jesus respondeu: “Muito mais felizes são aqueles que ouvem a Palavra de Deus e a põem em prática”."
+    "referencia": "Mt 22,1-14",
+    "titulo": "Proclamação do evangelho de Jesus Cristo segundo Mateus",
+    "texto": "[Naquele tempo, 1Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo: 2“O reino dos céus é como a história do rei que preparou a festa de casamento do seu filho. 3E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram ir. 4O rei mandou outros empregados, dizendo: ‘Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos, e tudo está pronto. Vinde para a festa!’ 5Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios, 6outros agarraram os empregados, bateram neles e os mataram. 7O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles. 8Em seguida, o rei disse aos empregados: ‘A festa de casamento está pronta, mas os convidados não foram dignos dela. 9Portanto, ide até as encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes’. 10Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados”.] 11“Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa 12e perguntou-lhe: ‘Amigo, como entraste aqui sem o traje de festa?’ Mas o homem nada respondeu. 13Então o rei disse aos que serviam: ‘Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes’. 14Porque muitos são chamados, e poucos são escolhidos”."
   },
   "salmo": {
-    "referencia": "Sl 104(105)",
+    "referencia": "Sl 22(23)",
     "titulo": "",
-    "texto": "– Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome, que é santo, exulte o coração que busca a Deus!\n– Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!\n– Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra.",
-    "refrao": "O Senhor se lembra sempre da Aliança!"
+    "texto": "– O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei; estais comigo com bastão e com cajado: eles me dão a segurança!\n– Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos.",
+    "refrao": "Na casa do Senhor habitarei eternamente."
   },
   "primeira_leitura": {
-    "referencia": "Gl 3,22-29",
-    "titulo": "Leitura da carta de São Paulo aos Gálatas",
-    "texto": "Irmãos, 22a Escritura pôs todos e tudo sob o jugo do pecado, a fim de que, pela fé em Jesus Cristo, se cumprisse a promessa em favor dos que creem. 23Antes que se inaugurasse o regime da fé, nós éramos guardados, como prisioneiros, sob o jugo da Lei. Éramos guardados para o regime da fé, que estava para ser revelado. 24Assim, a Lei foi como um pedagogo que nos conduziu até Cristo, para que fôssemos justificados pela fé. 25Mas, uma vez inaugurado o regime da fé, já não estamos na dependência desse pedagogo. 26Com efeito, vós todos sois filhos de Deus pela fé em Jesus Cristo. 27Vós todos que fostes batizados em Cristo vos revestistes de Cristo. 28O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só em Jesus Cristo. 29Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa."
+    "referencia": "Is 25,6-10",
+    "titulo": "Leitura do livro do profeta Isaías",
+    "texto": "6O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos. 7Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. 8O Senhor Deus eliminará para sempre a morte, e enxugará as lágrimas de todas as faces, e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. 9Naquele dia se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”. 10E a mão do Senhor repousará sobre este monte."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "Fl 4,12-14.19-20",
+    "titulo": "Leitura da carta de são Paulo aos Filipenses",
+    "texto": "Irmãos, 12sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade. 13Tudo posso naquele que me dá força. 14No entanto, fizestes bem em compartilhar as minhas dificuldades. 19O meu Deus proverá esplendidamente, com sua riqueza, a todas as vossas necessidades, em Cristo Jesus. 20Ao nosso Deus e Pai, a glória pelos séculos dos séculos. Amém."
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }
