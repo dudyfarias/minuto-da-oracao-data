@@ -1,28 +1,24 @@
 {
-  "date": "2026-10-12",
-  "data_extenso": "12 de outubro de 2026",
-  "liturgia": "Bem-Aventurada Virgem Maria da Conceição Aparecida, Padroeira do Brasil, Solenidade",
-  "cor": "Branco",
+  "date": "2026-10-13",
+  "data_extenso": "13 de outubro de 2026",
+  "liturgia": "3ª feira da 28ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Jo 2, 1-11",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
-    "texto": "Naquele tempo, 1houve um casamento em Caná da Galileia. A mãe de Jesus estava presente. 2Também Jesus e seus discípulos tinham sido convidados para o casamento. 3Como o vinho veio a faltar, a mãe de Jesus lhe disse: “Eles não têm mais vinho”.4Jesus respondeu-lhe: “Mulher, por que dizes isto a mim? Minha hora ainda não chegou”. 5Sua mãe disse aos que estavam servindo: “Fazei o que ele vos disser”. 6Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros.7Jesus disse aos que estavam servindo: “Enchei as talhas de água”. Encheram-nas até a boca. 8Jesus disse: “Agora tirai e levai ao mestre-sala”. E eles levaram. 9O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água.10O mestre-sala chamou então o noivo e lhe disse: “Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!” 11Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
+    "referencia": "Lc 11,37-41",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 37enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa. 38O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição. 39O Senhor disse ao fariseu: “Vós, fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades. 40Insensatos! Aquele que fez o exterior não fez também o interior? 41Antes, dai esmola do que vós possuís, e tudo ficará puro para vós”."
   },
   "salmo": {
-    "referencia": "Sl 44",
+    "referencia": "Sl 118(119)",
     "titulo": "",
-    "texto": "— Escutai, minha filha, olhai, ouvi isto: “Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor! \n— O povo de Tiro vos traz seus presentes, os grandes do povo vos pedem favores. Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. \n— Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo; entre cantos de festa e com grande alegria, ingressam, então, no palácio real”",
-    "refrao": "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+    "texto": "– Senhor, que desça sobre mim a vossa graça e a vossa salvação que prometestes!\n– Não retireis vossa verdade de meus lábios, pois eu confio em vossos justos julgamentos!\n– Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!\n– É amplo e agradável meu caminho, porque busco e pesquiso as vossas ordens.\n– Muito me alegro com os vossos mandamentos, que eu amo, amo tanto, mais que tudo!\n– Elevarei as minhas mãos para louvar-vos e com prazer meditarei vossa vontade.",
+    "refrao": "Senhor, que desça sobre mim a vossa graça!"
   },
   "primeira_leitura": {
-    "referencia": "Est 5, 1b-2; 7, 2b-3",
-    "titulo": "Leitura do Livro de Ester",
-    "texto": "Ester revestiu-se com vestes de rainha e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei. O rei estava sentado no trono real, na sala do trono, frente à entrada. 2Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendeu-lhe o cetro de ouro que tinha na mão, e Ester aproximou-se para tocar a ponta do cetro. 7, 2bEntão, o rei lhe disse: “O que me pedes, Ester; o que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida”. 3Ester respondeu-lhe: “Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida — eis o meu pedido! — e a vida do meu povo — eis o meu desejo!”"
+    "referencia": "Gl 5,1-6",
+    "titulo": "Leitura da carta de São Paulo aos Gálatas",
+    "texto": "Irmãos, 1é para a liberdade que Cristo nos libertou. Ficai, pois, firmes e não vos deixeis amarrar de novo ao jugo da escravidão. 2Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós se vos deixardes circuncidar. 3Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei. 4Vós que procurais a vossa justificação na Lei rompestes com Cristo, decaístes da graça. 5Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança. 6Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
   },
-  "segunda_leitura": {
-    "referencia": "Ap 12, 1. 5. 13a. 15-16a",
-    "titulo": "Leitura do Livro do Apocalipse de São João",
-    "texto": "Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. 5E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono. 13aQuando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino. 15A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir. 16aA terra, porém, veio em socorro da mulher."
-  },
+  "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
 }

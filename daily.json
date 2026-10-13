@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "oracao": {
-    "titulo": "Oração de louvor",
-    "texto": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória, para sempre.",
-    "reflexao": "Louvar a Deus é reconhecer a Sua grandeza independente das circunstâncias. É um ato de fé pura.",
-    "versiculo": "Salmo 150,6 — Tudo quanto tem fôlego louve ao Senhor."
+    "titulo": "Oração pela esperança",
+    "texto": "Deus de esperança, quando o desânimo bater à minha porta, renova em mim a certeza de que Tu tens um plano. Ajuda-me a ver além das dificuldades e a caminhar com esperança.",
+    "reflexao": "A esperança cristã não é otimismo vazio, mas a confiança firme de que Deus está agindo mesmo no silêncio.",
+    "versiculo": "Romanos 15,13 — Que o Deus da esperança vos encha de toda a alegria e paz na fé."
   },
   "santo": {
-    "nome": "Nossa Senhora Aparecida",
-    "titulo": "Padroeira do Brasil",
-    "resumo": "Padroeira do Brasil.",
-    "historia": "Padroeira do Brasil.\n\nNossa Senhora Aparecida é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Nossa Senhora Aparecida nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Nossa Senhora Aparecida, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Eduardo",
+    "titulo": "Rei da Inglaterra",
+    "resumo": "Último rei anglo-saxão, piedoso e justo.",
+    "historia": "Último rei anglo-saxão, piedoso e justo.\n\nSão Eduardo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Eduardo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Eduardo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de louvor — Oração do Dia | Minuto da Oração",
-      "description": "Te louvo, Senhor, por quem Tu és. Não pelo que me dás, mas pela Tua grandeza, bondade e fidelidade. Tu és digno de todo louvor, toda honra e toda glória,...",
-      "og_title": "Oração de louvor",
+      "title": "Oração pela esperança — Oração do Dia | Minuto da Oração",
+      "description": "Deus de esperança, quando o desânimo bater à minha porta, renova em mim a certeza de que Tu tens um plano. Ajuda-me a ver além das dificuldades e a...",
+      "og_title": "Oração pela esperança",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-12"
+      "date": "2026-10-13"
     },
     "santo": {
-      "title": "Nossa Senhora Aparecida — Santo do Dia | Minuto da Oração",
-      "description": "Padroeira do Brasil.",
-      "og_title": "Nossa Senhora Aparecida — Padroeira do Brasil",
+      "title": "São Eduardo — Santo do Dia | Minuto da Oração",
+      "description": "Último rei anglo-saxão, piedoso e justo.",
+      "og_title": "São Eduardo — Rei da Inglaterra",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-12"
+      "date": "2026-10-13"
     }
   }
 }
