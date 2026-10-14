@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-13",
-  "data_extenso": "13 de outubro de 2026",
-  "liturgia": "3ª feira da 28ª Semana do Tempo Comum",
+  "date": "2026-10-14",
+  "data_extenso": "14 de outubro de 2026",
+  "liturgia": "4ª feira da 28ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 11,37-41",
+    "referencia": "Lc 11,42-46",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 37enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa. 38O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição. 39O Senhor disse ao fariseu: “Vós, fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades. 40Insensatos! Aquele que fez o exterior não fez também o interior? 41Antes, dai esmola do que vós possuís, e tudo ficará puro para vós”."
+    "texto": "Naquele tempo, disse o Senhor: 42“Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso sem deixar de lado aquilo. 43Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas e de serdes cumprimentados nas praças públicas. 44Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber”. 45Um mestre da Lei tomou a palavra e disse: “Mestre, falando assim, insultas-nos também a nós!” 46Jesus respondeu: “Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis e vós mesmos não tocais nessas cargas nem com um só dedo”."
   },
   "salmo": {
-    "referencia": "Sl 118(119)",
+    "referencia": "Sl 1",
     "titulo": "",
-    "texto": "– Senhor, que desça sobre mim a vossa graça e a vossa salvação que prometestes!\n– Não retireis vossa verdade de meus lábios, pois eu confio em vossos justos julgamentos!\n– Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!\n– É amplo e agradável meu caminho, porque busco e pesquiso as vossas ordens.\n– Muito me alegro com os vossos mandamentos, que eu amo, amo tanto, mais que tudo!\n– Elevarei as minhas mãos para louvar-vos e com prazer meditarei vossa vontade.",
-    "refrao": "Senhor, que desça sobre mim a vossa graça!"
+    "texto": "– Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.\n– Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar.\n– Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte.",
+    "refrao": "Senhor, quem vos seguir terá a luz da vida!"
   },
   "primeira_leitura": {
-    "referencia": "Gl 5,1-6",
+    "referencia": "Gl 5,18-25",
     "titulo": "Leitura da carta de São Paulo aos Gálatas",
-    "texto": "Irmãos, 1é para a liberdade que Cristo nos libertou. Ficai, pois, firmes e não vos deixeis amarrar de novo ao jugo da escravidão. 2Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós se vos deixardes circuncidar. 3Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei. 4Vós que procurais a vossa justificação na Lei rompestes com Cristo, decaístes da graça. 5Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança. 6Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
+    "texto": "Irmãos, 18se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. 19São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, 20idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, 21invejas, bebedeiras, orgias e coisas semelhantes a essas. Eu vos previno, como, aliás, já o fiz: os que praticam essas coisas não herdarão o Reino de Deus. 22Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, 23mansidão, continência. Contra essas coisas não existe Lei. 24Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos. 25Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
