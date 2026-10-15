@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "oracao": {
-    "titulo": "Oração pelo próximo",
-    "texto": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor para todos ao meu redor.",
-    "reflexao": "Amar o próximo é a segunda maior lei. Não é apenas um sentimento, mas uma decisão diária.",
-    "versiculo": "Mateus 25,40 — O que fizestes a um destes meus pequeninos irmãos, a mim o fizestes."
+    "titulo": "Oração de entrega",
+    "texto": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
+    "reflexao": "Entregar-se a Deus é o ato mais corajoso que um ser humano pode fazer. É confiar sem reservas.",
+    "versiculo": "1 Pedro 5,7 — Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós."
   },
   "santo": {
-    "nome": "São Calisto I",
-    "titulo": "Papa e Mártir",
-    "resumo": "Papa do século III.",
-    "historia": "Papa do século III.\n\nSão Calisto I é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Calisto I nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Calisto I, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Teresa de Jesus",
+    "titulo": "Doutora da Igreja",
+    "resumo": "Reformadora do Carmelo e grande mística.",
+    "historia": "Reformadora do Carmelo e grande mística.\n\nSanta Teresa de Jesus é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Teresa de Jesus nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Teresa de Jesus, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo próximo — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor...",
-      "og_title": "Oração pelo próximo",
+      "title": "Oração de entrega — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, eu me entrego totalmente a Ti. Os meus medos, ansiedades e preocupações, coloco nas Tuas mãos. Sei que Tu cuidas de mim com amor infinito.",
+      "og_title": "Oração de entrega",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-14"
+      "date": "2026-10-15"
     },
     "santo": {
-      "title": "São Calisto I — Santo do Dia | Minuto da Oração",
-      "description": "Papa do século III.",
-      "og_title": "São Calisto I — Papa e Mártir",
+      "title": "Santa Teresa de Jesus — Santo do Dia | Minuto da Oração",
+      "description": "Reformadora do Carmelo e grande mística.",
+      "og_title": "Santa Teresa de Jesus — Doutora da Igreja",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-14"
+      "date": "2026-10-15"
     }
   }
 }
