@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-15",
-  "data_extenso": "15 de outubro de 2026",
-  "liturgia": "Santa Teresa de Jesus, virgem e doutora da Igreja, Memória",
-  "cor": "Branco",
+  "date": "2026-10-16",
+  "data_extenso": "16 de outubro de 2026",
+  "liturgia": "6ª feira da 28ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 11,47-54",
+    "referencia": "Lc 12,1-7",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, disse o Senhor: 47“Ai de vós, porque construís os túmulos dos profetas; no entanto, foram vossos pais que os mataram. 48Com isso, vós sois testemunhas e aprovais as obras de vossos pais, pois eles mataram os profetas e vós construís os túmulos. 49É por isso que a sabedoria de Deus afirmou: Eu lhes enviarei profetas e apóstolos, e eles matarão e perseguirão alguns deles, 50a fim de que se peçam contas a esta geração do sangue de todos os profetas derramado desde a criação do mundo, 51desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário. Sim, eu vos digo, serão pedidas contas disso a esta geração. 52Ai de vós, mestres da Lei, porque tomastes a chave da ciência. Vós mesmos não entrastes e ainda impedistes os que queriam entrar”. 53Quando Jesus saiu daí, os mestres da Lei e os fariseus começaram a tratá-lo mal e a provocá-lo sobre muitos pontos. 54Armavam ciladas para pegá-lo de surpresa por qualquer palavra que saísse de sua boca."
+    "texto": "Naquele tempo, 1milhares de pessoas se reuniram, a ponto de uns pisarem os outros. Jesus começou a falar, primeiro a seus discípulos: “Tomai cuidado com o fermento dos fariseus, que é a hipocrisia. 2Não há nada de escondido que não venha a ser revelado, e não há nada de oculto que não venha a ser conhecido. 3Portanto, tudo o que tiverdes dito na escuridão será ouvido à luz do dia; e o que tiverdes pronunciado ao pé do ouvido, no quarto, será proclamado sobre os telhados. 4Pois bem, meus amigos, eu vos digo, não tenhais medo daqueles que matam o corpo, não podendo fazer mais do que isso. 5Vou mostrar-vos a quem deveis temer: temei aquele que, depois de tirar a vida, tem o poder de lançar-vos no inferno. Sim, eu vos digo, a esse temei. 6Não se vendem cinco pardais por uma pequena quantia? No entanto, nenhum deles é esquecido por Deus. 7Até mesmo os cabelos de vossa cabeça estão todos contados. Não tenhais medo! Vós valeis mais do que muitos pardais”."
   },
   "salmo": {
-    "referencia": "Sl 97(98)",
+    "referencia": "Sl 32(33)",
     "titulo": "",
-    "texto": "– Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n– O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel.\n– Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!\n– Cantai salmos ao Senhor ao som da harpa e da cítara suave! Aclamai, com os clarins e as trombetas, ao Senhor, o nosso rei!",
-    "refrao": "O Senhor fez conhecer seu poder salvador perante as nações."
+    "texto": "– Ó justos, alegrai-vos no Senhor! Aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!\n– Pois reta é a Palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.\n– Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança! Dos altos céus o Senhor olha e observa; ele se inclina para olhar todos os homens.",
+    "refrao": "Feliz o povo que o Senhor escolheu por sua herança!"
   },
   "primeira_leitura": {
-    "referencia": "Ef 1,1-10",
-    "titulo": "Início da carta de São Paulo aos Efésios",
-    "texto": "1Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus: 2a vós, graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. 3Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu. 4Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveis sob o seu olhar, no amor. 5Ele nos predestinou para sermos seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade, 6para o louvor da sua glória e da graça com que ele nos cumulou no seu bem-amado. 7Pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça, 8que Deus derramou profusamente sobre nós, abrindo-nos a toda sabedoria e prudência. 9Ele nos fez conhecer o mistério da sua vontade, o desígnio benevolente que de antemão determinou em si mesmo, 10para levar à plenitude o tempo estabelecido e recapitular, em Cristo, o universo inteiro: tudo o que está nos céus e tudo o que está sobre a terra."
+    "referencia": "Ef 1,11-14",
+    "titulo": "Leitura da carta de São Paulo aos Efésios",
+    "texto": "Irmãos, 11em Cristo nós recebemos a nossa parte. Segundo o projeto daquele que conduz tudo conforme a decisão de sua vontade, nós fomos predestinados 12a ser, para o louvor de sua glória, os que de antemão colocaram a sua esperança em Cristo. 13Nele também vós ouvistes a Palavra da verdade, o Evangelho que vos salva. Nele, ainda, acreditastes e fostes marcados com o selo do Espírito prometido, o Espírito Santo, 14o que é o penhor da nossa herança para a redenção do povo que ele adquiriu para o louvor da sua glória."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
