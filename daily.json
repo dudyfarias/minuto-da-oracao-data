@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "oracao": {
-    "titulo": "Oração pela Igreja",
-    "texto": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos uma Igreja viva e acolhedora.",
-    "reflexao": "A Igreja somos nós. Quando oramos pela Igreja, oramos por nós mesmos e por todos os irmãos na fé.",
-    "versiculo": "Mateus 16,18 — Sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
+    "titulo": "Oração de proteção",
+    "texto": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os meus caminhos.",
+    "reflexao": "Deus é o nosso refúgio e fortaleza. Não precisamos temer quando estamos sob a Sua proteção.",
+    "versiculo": "Salmo 91,11 — Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
   },
   "santo": {
-    "nome": "Santa Margarida Maria Alacoque",
-    "titulo": "Visitandina",
-    "resumo": "Recebeu revelações do Sagrado Coração.",
-    "historia": "Recebeu revelações do Sagrado Coração.\n\nSanta Margarida Maria Alacoque é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Margarida Maria Alacoque nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Margarida Maria Alacoque, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santo Inácio de Antioquia",
+    "titulo": "Bispo e Mártir",
+    "resumo": "Pai da Igreja devorado pelas feras em Roma.",
+    "historia": "Pai da Igreja devorado pelas feras em Roma.\n\nSanto Inácio de Antioquia é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Inácio de Antioquia nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santo Inácio de Antioquia, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela Igreja — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa a Tua Igreja espalhada pelo mundo. Protege os pastores, fortaleça os fiéis e renova o ardor missionário em cada comunidade. Que sejamos...",
-      "og_title": "Oração pela Igreja",
+      "title": "Oração de proteção — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, cobre-me com o Teu manto de proteção. Afasta de mim todo mal, toda cilada e toda armadilha do inimigo. Que os Teus anjos me guardem em todos os...",
+      "og_title": "Oração de proteção",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-16"
+      "date": "2026-10-17"
     },
     "santo": {
-      "title": "Santa Margarida Maria Alacoque — Santo do Dia | Minuto da Oração",
-      "description": "Recebeu revelações do Sagrado Coração.",
-      "og_title": "Santa Margarida Maria Alacoque — Visitandina",
+      "title": "Santo Inácio de Antioquia — Santo do Dia | Minuto da Oração",
+      "description": "Pai da Igreja devorado pelas feras em Roma.",
+      "og_title": "Santo Inácio de Antioquia — Bispo e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-16"
+      "date": "2026-10-17"
     }
   }
 }
