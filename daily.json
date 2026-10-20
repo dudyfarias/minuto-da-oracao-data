@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "oracao": {
-    "titulo": "Oração pelo Brasil",
-    "texto": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país mais justo e fraterno.",
-    "reflexao": "Orar pela nação é um dever de todo cristão. O Brasil precisa das nossas orações e do nosso empenho por um futuro melhor.",
-    "versiculo": "Jeremias 29,7 — Buscai a paz da cidade para onde vos deportei e orai por ela ao Senhor."
+    "titulo": "Oração pela vocação",
+    "texto": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a qual fui criado.",
+    "reflexao": "Cada pessoa tem uma vocação única. Descobri-la é encontrar o sentido mais profundo da vida.",
+    "versiculo": "Jeremias 1,5 — Antes que Eu te formasse no ventre materno, Eu te conheci."
   },
   "santo": {
-    "nome": "São João de Brébeuf",
-    "titulo": "Missionário",
-    "resumo": "Jesuíta martirizado no Canadá.",
-    "historia": "Jesuíta martirizado no Canadá.\n\nSão João de Brébeuf é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São João de Brébeuf nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São João de Brébeuf, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Santa Maria Bertilla",
+    "titulo": "Religiosa",
+    "resumo": "Dedicou-se ao cuidado dos doentes.",
+    "historia": "Dedicou-se ao cuidado dos doentes.\n\nSanta Maria Bertilla é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Maria Bertilla nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Santa Maria Bertilla, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo Brasil — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país...",
-      "og_title": "Oração pelo Brasil",
+      "title": "Oração pela vocação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a...",
+      "og_title": "Oração pela vocação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-19"
+      "date": "2026-10-20"
     },
     "santo": {
-      "title": "São João de Brébeuf — Santo do Dia | Minuto da Oração",
-      "description": "Jesuíta martirizado no Canadá.",
-      "og_title": "São João de Brébeuf — Missionário",
+      "title": "Santa Maria Bertilla — Santo do Dia | Minuto da Oração",
+      "description": "Dedicou-se ao cuidado dos doentes.",
+      "og_title": "Santa Maria Bertilla — Religiosa",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-19"
+      "date": "2026-10-20"
     }
   }
 }
