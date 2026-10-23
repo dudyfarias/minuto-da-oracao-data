@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-22",
-  "data_extenso": "22 de outubro de 2026",
-  "liturgia": "5ª feira da 29ª Semana do Tempo Comum",
+  "date": "2026-10-23",
+  "data_extenso": "23 de outubro de 2026",
+  "liturgia": "6ª feira da 29ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 12,49-53",
+    "referencia": "Lc 12,54-59",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 49“Eu vim para lançar fogo sobre a terra e como gostaria que já estivesse aceso! 50Devo receber um batismo e como estou ansioso até que isso se cumpra! 51Vós pensais que eu vim trazer a paz sobre a terra? Pelo contrário, eu vos digo, vim trazer divisão. 52Pois daqui em diante, numa família de cinco pessoas, três ficarão divididas contra duas e duas contra três; 53ficarão divididos o pai contra o filho e o filho contra o pai, a mãe contra a filha e a filha contra a mãe, a sogra contra a nora e a nora contra a sogra”."
+    "texto": "Naquele tempo, 54Jesus dizia às multidões: “Quando vedes uma nuvem vinda do ocidente, logo dizeis que vem chuva. E assim acontece. 55Quando sentis soprar o vento do sul, logo dizeis que vai fazer calor. E assim acontece. 56Hipócritas! Vós sabeis interpretar o aspecto da terra e do céu. Como é que não sabeis interpretar o tempo presente? 57Por que não julgais por vós mesmos o que é justo? 58Quando, pois, tu vais com o teu adversário apresentar-te diante do magistrado, procura resolver o caso com ele enquanto estais a caminho. Senão ele te levará ao juiz, o juiz te entregará ao guarda, e o guarda te jogará na cadeia. 59Eu te digo, daí tu não sairás, enquanto não pagares o último centavo”."
   },
   "salmo": {
-    "referencia": "Sl 32(33)",
+    "referencia": "Sl 23(24)",
     "titulo": "",
-    "texto": "– Ó justos, alegrai-vos no Senhor! Aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!\n– Pois reta é a Palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.\n– Mas os desígnios do Senhor são para sempre, e os pensamentos que ele traz no coração, de geração em geração, vão perdurar. Feliz o povo cujo Deus é o Senhor e a nação que o escolheu por sua herança!\n– Mas o Senhor pousa o olhar sobre os que o temem e que confiam, esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria.",
-    "refrao": "Transborda em toda a terra a bondade do Senhor!"
+    "texto": "– Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares e, sobre as águas, a mantém inabalável.\n– “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime.\n– Sobre este desce a bênção do Senhor e a recompensa de seu Deus e salvador.” “É assim a geração dos que o procuram e do Deus de Israel buscam a face.”",
+    "refrao": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel."
   },
   "primeira_leitura": {
-    "referencia": "Ef 3,14-21",
+    "referencia": "Ef 4,1-6",
     "titulo": "Leitura da carta de São Paulo aos Efésios",
-    "texto": "Irmãos, 14eu dobro os joelhos diante do Pai, 15de quem toda e qualquer família recebe seu nome no céu e sobre a terra. 16Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior; 17que ele faça habitar, pela fé, Cristo em vossos corações; que estejais enraizados e fundados no amor. 18Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade, 19e de conhecer o amor de Cristo, que ultrapassa todo conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus. 20Àquele que tudo pode realizar superabundantemente, e muito mais do que nós pedimos ou concebemos, e cujo poder atua em nós, 21a ele a glória, na Igreja e em Jesus Cristo, por todas as gerações, para sempre. Amém."
+    "texto": "Irmãos, 1eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: 2com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. 3Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. 4Há um só corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. 5Há um só Senhor, uma só fé, um só batismo, 6um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
