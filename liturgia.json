@@ -1,24 +1,28 @@
 {
-  "date": "2026-10-24",
-  "data_extenso": "24 de outubro de 2026",
-  "liturgia": "Sábado da 29ª Semana do Tempo Comum",
+  "date": "2026-10-25",
+  "data_extenso": "25 de outubro de 2026",
+  "liturgia": "30º Domingo do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 13,1-9",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "1Naquele tempo, vieram algumas pessoas trazendo notícias a Jesus a respeito dos galileus que Pilatos tinha matado, misturando seu sangue com o dos sacrifícios que ofereciam. 2Jesus lhes respondeu: “Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus por terem sofrido tal coisa? 3Eu vos digo que não. Mas, se vós não vos converterdes, ireis morrer todos do mesmo modo. 4E aqueles dezoito que morreram quando a torre de Siloé caiu sobre eles? Pensais que eram mais culpados do que todos os outros moradores de Jerusalém? 5Eu vos digo que não. Mas, se não vos converterdes, ireis morrer todos do mesmo modo”. 6E Jesus contou esta parábola: “Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou. 7Então disse ao vinhateiro: ‘Já faz três anos que venho procurando figos nesta figueira e nada encontro. Corta-a! Por que está ela inutilizando a terra?’ 8Ele, porém, respondeu: ‘Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo. 9Pode ser que venha a dar fruto. Se não der, então tu a cortarás!'”"
+    "referencia": "Mt 22,34-40",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, 34os fariseus ouviram dizer que Jesus tinha feito calar os saduceus. Então eles se reuniram em grupo 35e um deles perguntou a Jesus, para experimentá-lo: 36“Mestre, qual é o maior mandamento da Lei?” 37Jesus respondeu: “‘Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento!’ 38Esse é o maior e o primeiro mandamento. 39O segundo é semelhante a esse: ‘Amarás ao teu próximo como a ti mesmo’. 40Toda a Lei e os Profetas dependem desses dois mandamentos”."
   },
   "salmo": {
-    "referencia": "Sl 121(122)",
+    "referencia": "Sl 17(18)",
     "titulo": "",
-    "texto": "– Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!” E agora nossos pés já se detêm, Jerusalém, em tuas portas.\n– Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor.\n– Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi.",
-    "refrao": "Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!”"
+    "texto": "– Eu vos amo, ó Senhor! Sois minha força, minha rocha, meu refúgio e salvador! Ó meu Deus, sois o rochedo que me abriga, minha força e poderosa salvação.\n– Ó meu Deus, sois o rochedo que me abriga, sois meu escudo e proteção: em vós espero! Invocarei o meu Senhor: a ele a glória! E dos meus perseguidores serei salvo!\n– Viva o Senhor! Bendito seja o meu rochedo! E louvado seja Deus, meu salvador! Concedeis ao vosso rei grandes vitórias e mostrais misericórdia ao vosso ungido.",
+    "refrao": "Eu vos amo, ó Senhor, sois minha força e salvação."
   },
   "primeira_leitura": {
-    "referencia": "Ef 4,7-16",
-    "titulo": "Leitura da carta de São Paulo aos Efésios",
-    "texto": "Irmãos, 7cada um de nós recebeu a graça na medida em que Cristo lha deu. 8Daí esta palavra: “Tendo subido às alturas, ele capturou prisioneiros e distribuiu dons aos homens”. 9“Ele subiu”! Que significa isso, senão que ele desceu também às profundezas da terra? 10Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo. 11E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. 12Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, 13até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude. 14Assim, não seremos mais crianças ao sabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens e induzidos por sua astúcia ao erro. 15Motivados pelo amor, queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a cabeça, Cristo. 16Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor."
+    "referencia": "Ex 22,20-26",
+    "titulo": "Leitura do livro do Êxodo",
+    "texto": "Assim diz o Senhor: 20Não oprimas nem maltrates o estrangeiro, pois vós fostes estrangeiros na terra do Egito. 21Não façais mal algum à viúva nem ao órfão. 22Se os maltratardes, gritarão por mim e eu ouvirei o seu clamor. 23Minha cólera, então, se inflamará e eu vos matarei à espada; vossas mulheres ficarão viúvas, e órfãos os vossos filhos. 24Se emprestares dinheiro a alguém do meu povo, a um pobre que vive ao teu lado, não sejas um usurário, dele cobrando juros. 25Se tomares como penhor o manto do teu próximo, deverás devolvê-lo antes do pôr do sol. 26Pois é a única veste que tem para o seu corpo, e coberta que ele tem para dormir. Se clamar por mim, eu o ouvirei, porque sou misericordioso."
   },
-  "segunda_leitura": null,
+  "segunda_leitura": {
+    "referencia": "1Ts 1,5-10",
+    "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+    "texto": "Irmãos, 5sabeis de que maneira procedemos entre vós, para o vosso bem. 6E vós vos tornastes imitadores nossos e do Senhor, acolhendo a Palavra com a alegria do Espírito Santo, apesar de tantas tribulações. 7Assim vos tornastes modelo para todos os fiéis da Macedônia e da Acaia. 8Com efeito, a partir de vós, a Palavra do Senhor não se divulgou apenas na Macedônia e na Acaia, mas a vossa fé em Deus propagou-se por toda parte. Assim, nós já nem precisamos de falar, 9pois as pessoas mesmas contam como vós nos acolhestes e como vos convertestes, abandonando os falsos deuses para servir ao Deus vivo e verdadeiro, 10esperando dos céus o seu Filho, a quem ele ressuscitou dentre os mortos: Jesus, que nos livra do castigo que está por vir."
+  },
   "fonte": "https://liturgia.up.railway.app/v2/"
 }

@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "oracao": {
-    "titulo": "Oração pelos professores",
-    "texto": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas também corações.",
-    "reflexao": "Ensinar é uma das vocações mais nobres. Os professores moldam o futuro através de cada aula.",
-    "versiculo": "Provérbios 22,6 — Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+    "titulo": "Oração pela criação",
+    "texto": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações futuras.",
+    "reflexao": "Somos guardiões da criação de Deus. Cuidar da natureza é uma forma de agradecer ao Criador.",
+    "versiculo": "Gênesis 2,15 — O Senhor Deus tomou o homem e o colocou no jardim do Éden para cultivá-lo e guardá-lo."
   },
   "santo": {
-    "nome": "Santo Antônio Maria Claret",
-    "titulo": "Fundador",
-    "resumo": "Fundou os Missionários Claretianos.",
-    "historia": "Fundou os Missionários Claretianos.\n\nSanto Antônio Maria Claret é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santo Antônio Maria Claret nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santo Antônio Maria Claret, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Crispim e São Crispiniano",
+    "titulo": "Mártires",
+    "resumo": "Irmãos sapateiros martirizados.",
+    "historia": "Irmãos sapateiros martirizados.\n\nSão Crispim e São Crispiniano é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Crispim e São Crispiniano nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Crispim e São Crispiniano, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos professores — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa todos os professores e educadores. Dá-lhes paciência, sabedoria e amor pelos seus alunos. Que o seu trabalho forme não apenas mentes, mas...",
-      "og_title": "Oração pelos professores",
+      "title": "Oração pela criação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações...",
+      "og_title": "Oração pela criação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     "santo": {
-      "title": "Santo Antônio Maria Claret — Santo do Dia | Minuto da Oração",
-      "description": "Fundou os Missionários Claretianos.",
-      "og_title": "Santo Antônio Maria Claret — Fundador",
+      "title": "São Crispim e São Crispiniano — Santo do Dia | Minuto da Oração",
+      "description": "Irmãos sapateiros martirizados.",
+      "og_title": "São Crispim e São Crispiniano — Mártires",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     }
   }
 }
