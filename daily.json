@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "oracao": {
-    "titulo": "Oração de perseverança",
-    "texto": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos que Tu colocaste em meu coração.",
-    "reflexao": "A perseverança é uma virtude essencial na vida cristã. Os grandes santos foram aqueles que nunca desistiram.",
-    "versiculo": "Gálatas 6,9 — Não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos."
+    "titulo": "Oração pelos idosos",
+    "texto": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor inabalável.",
+    "reflexao": "Os idosos são tesouros de sabedoria e experiência. Honrá-los é um mandamento de Deus.",
+    "versiculo": "Levítico 19,32 — Diante das cãs te levantarás e honrarás a pessoa do ancião."
   },
   "santo": {
-    "nome": "São Evaristo",
-    "titulo": "Papa",
-    "resumo": "Quinto papa de Roma.",
-    "historia": "Quinto papa de Roma.\n\nSão Evaristo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Evaristo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Evaristo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Frumêncio",
+    "titulo": "Apóstolo da Etiópia",
+    "resumo": "Primeiro bispo da Etiópia.",
+    "historia": "Primeiro bispo da Etiópia.\n\nSão Frumêncio é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Frumêncio nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Frumêncio, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração de perseverança — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos...",
-      "og_title": "Oração de perseverança",
+      "title": "Oração pelos idosos — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abençoa os nossos idosos. Cuida daqueles que estão sozinhos, enfermos ou esquecidos. Dá-lhes conforto, companhia e a certeza do Teu amor...",
+      "og_title": "Oração pelos idosos",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     },
     "santo": {
-      "title": "São Evaristo — Santo do Dia | Minuto da Oração",
-      "description": "Quinto papa de Roma.",
-      "og_title": "São Evaristo — Papa",
+      "title": "São Frumêncio — Santo do Dia | Minuto da Oração",
+      "description": "Primeiro bispo da Etiópia.",
+      "og_title": "São Frumêncio — Apóstolo da Etiópia",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     }
   }
 }
