@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-27",
-  "data_extenso": "27 de outubro de 2026",
-  "liturgia": "3ª feira da 30ª Semana do Tempo Comum",
-  "cor": "Verde",
+  "date": "2026-10-28",
+  "data_extenso": "28 de outubro de 2026",
+  "liturgia": "Santos Simão e Judas, Apóstolos, Festa",
+  "cor": "Vermelho",
   "evangelho": {
-    "referencia": "Lc 13,18-21",
+    "referencia": "Lc 6,12-19",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 18Jesus dizia: “A que é semelhante o Reino de Deus e com que poderei compará-lo? 19Ele é como a semente de mostarda, que um homem pega e atira no seu jardim. A semente cresce, torna-se uma grande árvore, e as aves do céu fazem ninhos nos seus ramos”. 20Jesus disse ainda: “Com que poderei ainda comparar o Reino de Deus? 21Ele é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado”."
+    "texto": "12Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus. 13Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: 14Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; 15Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; 16Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor. 17Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. 18Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados. 19A multidão toda procurava tocar em Jesus, porque uma força saía dele e curava a todos."
   },
   "salmo": {
-    "referencia": "Sl 127(128)",
+    "referencia": "Sl 18(19A)",
     "titulo": "",
-    "texto": "– Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!\n– A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa.\n– Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida.",
-    "refrao": "Felizes todos os que respeitam o Senhor!"
+    "texto": "– Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite essa mensagem, a noite à noite publica essa notícia.\n– Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz.",
+    "refrao": "Seu som ressoa e se espalha em toda a terra."
   },
   "primeira_leitura": {
-    "referencia": "Ef 5,21-33",
+    "referencia": "Ef 2,19-22",
     "titulo": "Leitura da carta de São Paulo aos Efésios",
-    "texto": "Irmãos, 21vós que temeis a Cristo, sede solícitos uns para com os outros. 22As mulheres sejam submissas aos seus maridos como ao Senhor. 23Pois o marido é a cabeça da mulher, do mesmo modo que Cristo é a cabeça da Igreja, ele, o salvador do seu corpo. 24Mas como a Igreja é solícita por Cristo, sejam as mulheres solícitas em tudo pelos seus maridos. 25Maridos, amai as vossas mulheres, como o Cristo amou a Igreja e se entregou por ela. 26Ele quis assim torná-la santa, purificando-a com o banho da água unida à Palavra. 27Ele quis apresentá-la a si mesmo esplêndida, sem mancha, nem ruga, nem defeito algum, mas santa e irrepreensível. 28Assim é que o marido deve amar a sua mulher, como ao seu próprio corpo. Aquele que ama a sua mulher ama-se a si mesmo. 29Ninguém jamais odiou a sua própria carne. Ao contrário, alimenta-a e cerca-a de cuidados, como o Cristo faz com a sua Igreja; 30e nós somos membros do seu corpo! 31Por isso o homem deixará seu pai e sua mãe e se unirá à sua mulher, e os dois serão uma só carne. 32Este mistério é grande, e eu o interpreto em relação a Cristo e à Igreja. 33Em todo caso, cada um, no que lhe toca, deve amar a sua mulher como a si mesmo; e a mulher deve respeitar o seu marido."
+    "texto": "Irmãos, 19já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas e o próprio Jesus Cristo como pedra principal. 21É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. 22E vós também sois integrados nessa construção, para vos tornardes morada de Deus pelo Espírito."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
