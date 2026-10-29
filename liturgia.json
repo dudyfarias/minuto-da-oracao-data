@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-28",
-  "data_extenso": "28 de outubro de 2026",
-  "liturgia": "Santos Simão e Judas, Apóstolos, Festa",
-  "cor": "Vermelho",
+  "date": "2026-10-29",
+  "data_extenso": "29 de outubro de 2026",
+  "liturgia": "5ª feira da 30ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 6,12-19",
+    "referencia": "Lc 13,31-35",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "12Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus. 13Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: 14Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; 15Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; 16Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor. 17Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. 18Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados. 19A multidão toda procurava tocar em Jesus, porque uma força saía dele e curava a todos."
+    "texto": "31Naquela hora, alguns fariseus aproximaram-se e disseram a Jesus: “Tu deves ir embora daqui, porque Herodes quer te matar”. 32Jesus disse: “Ide dizer a essa raposa: eu expulso demônios e faço curas hoje e amanhã; e no terceiro dia terminarei o meu trabalho. 33Entretanto, preciso caminhar hoje, amanhã e depois de amanhã, porque não convém que um profeta morra fora de Jerusalém. 34Jerusalém, Jerusalém! Tu que matas os profetas e apedrejas os que te foram enviados! Quantas vezes eu quis reunir teus filhos como a galinha reúne os pintainhos debaixo das asas, mas tu não quiseste! 35Eis que vossa casa ficará abandonada. Eu vos digo, não me vereis mais, até que chegue o tempo em que vós mesmos direis: ‘Bendito aquele que vem em nome do Senhor'”."
   },
   "salmo": {
-    "referencia": "Sl 18(19A)",
+    "referencia": "Sl 143(144)",
     "titulo": "",
-    "texto": "– Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite essa mensagem, a noite à noite publica essa notícia.\n– Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz.",
-    "refrao": "Seu som ressoa e se espalha em toda a terra."
+    "texto": "– Bendito seja o Senhor, meu rochedo, que adestrou minhas mãos para a luta e os meus dedos treinou para a guerra!\n– Ele é meu amor, meu refúgio, libertador, fortaleza e abrigo; é meu escudo: é nele que espero, ele submete as nações a meus pés.\n– Um canto novo, meu Deus, vou cantar-vos, nas dez cordas da harpa louvar-vos, a vós que dais a vitória aos reis e salvais vosso servo Davi.",
+    "refrao": "Bendito seja o Senhor, meu rochedo!"
   },
   "primeira_leitura": {
-    "referencia": "Ef 2,19-22",
+    "referencia": "Ef 6,10-20",
     "titulo": "Leitura da carta de São Paulo aos Efésios",
-    "texto": "Irmãos, 19já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas e o próprio Jesus Cristo como pedra principal. 21É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. 22E vós também sois integrados nessa construção, para vos tornardes morada de Deus pelo Espírito."
+    "texto": "10Para terminar, irmãos, confortai-vos no Senhor e, no domínio de sua força, 11revesti-vos da armadura de Deus, para estardes em condições de enfrentar as manobras do diabo. 12Pois não é a homens que enfrentamos, mas as autoridades, os poderes, as dominações deste mundo de trevas, os espíritos do mal que estão nos céus. 13Revesti, portanto, a armadura de Deus, a fim de que no dia mau possais resistir e permanecer firmes em tudo. 14De pé, portanto! Cingi os vossos rins com a verdade, revesti-vos com a couraça da justiça 15e calçai os vossos pés com a prontidão em anunciar o Evangelho da paz. 16Tomai o escudo da fé, o qual vos permitirá apagar todas as flechas ardentes do maligno. 17Tomai, enfim, o capacete da salvação e o gládio do espírito, isto é, a Palavra de Deus. 18Com preces e súplicas de vária ordem, orai em todas as circunstâncias, no Espírito, e vigiai com toda a perseverança, intercedendo por todos os santos. 19Orai também por mim, para que a palavra seja colocada em minha boca para anunciar corajosamente o mistério do Evangelho, 20do qual sou embaixador acorrentado. Possa eu, como é minha obrigação, proclamá-lo com toda a ousadia."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
