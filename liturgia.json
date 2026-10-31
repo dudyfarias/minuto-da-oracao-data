@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-30",
-  "data_extenso": "30 de outubro de 2026",
-  "liturgia": "6ª feira da 30ª Semana do Tempo Comum",
+  "date": "2026-10-31",
+  "data_extenso": "31 de outubro de 2026",
+  "liturgia": "Sábado da 30ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 14,1-6",
+    "referencia": "Lc 14,1.7-11¬¬",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "1Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 2Diante de Jesus, havia um hidrópico. 3Tomando a palavra, Jesus falou aos mestres da Lei e aos fariseus: “A Lei permite curar em dia de sábado ou não?” 4Mas eles ficaram em silêncio. Então Jesus tomou o homem pela mão, curou-o e despediu-o. 5Depois lhes disse: “Se algum de vós tem um filho ou um boi que caiu num poço, não o tira logo, mesmo em dia de sábado?” 6E eles não foram capazes de responder a isso."
+    "texto": "1Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 7Jesus notou como os convidados escolhiam os primeiros lugares. Então, contou-lhes uma parábola: 8“Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu, 9e o dono da casa, que convidou os dois, venha te dizer: ‘Dá o lugar a ele’. Então tu ficarás envergonhado e irás ocupar o último lugar. 10Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: ‘Amigo, vem mais para cima’. E isso vai ser uma honra para ti diante de todos os convidados. 11Porque quem se eleva será humilhado, e quem se humilha será elevado”."
   },
   "salmo": {
-    "referencia": "Sl 110(111)",
+    "referencia": "Sl 41(42)",
     "titulo": "",
-    "texto": "– Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas.\n– Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações.",
-    "refrao": "Grandiosas são as obras do Senhor!"
+    "texto": "– Assim como a corça suspira pelas águas correntes, suspira igualmente minha alma por vós, ó meu Deus!\n– Minha alma tem sede de Deus e deseja o Deus vivo. Quando terei a alegria de ver a face de Deus?\n– Peregrino e feliz caminhando para a casa de Deus, entre gritos, louvor e alegria da multidão jubilosa.",
+    "refrao": "Minha alma tem sede de Deus, do Deus vivo!"
   },
   "primeira_leitura": {
-    "referencia": "Fl 1,1-11",
-    "titulo": "Início da carta de São Paulo aos Filipenses",
-    "texto": "1Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus bispos e diáconos: 2graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo. 3Dou graças ao meu Deus todas as vezes que me lembro de vós. 4Sempre, em todas as minhas orações, rezo por vós, com alegria, 5por causa da vossa comunhão conosco na divulgação do Evangelho, desde o primeiro dia até agora. 6Tenho a certeza de que aquele que começou em vós uma boa obra há de levá-la à perfeição até o dia de Cristo Jesus. 7É justo que eu pense assim a respeito de vós todos, pois a todos trago no coração, porque, tanto na minha prisão como na defesa e confirmação do Evangelho, participais na graça que me foi dada. 8Deus é testemunha de que tenho saudade de todos vós, com a ternura de Cristo Jesus. 9E isto eu peço a Deus: que o vosso amor cresça sempre mais, em todo o conhecimento e experiência, 10para discernirdes o que é o melhor. E assim ficareis puros e sem defeito para o dia de Cristo, 11cheios do fruto da justiça que nos vem por Jesus Cristo, para a glória e o louvor de Deus."
+    "referencia": "Fl 1,18-26",
+    "titulo": "Leitura da carta de São Paulo aos Filipenses",
+    "texto": "Irmãos, 18de qualquer maneira, com segundas intenções ou com sinceridade, Cristo é anunciado. E eu me alegro com isso e sempre me alegrarei. 19Pois eu sei que isso resultará na minha salvação graças à vossa oração e à assistência do Espírito de Jesus Cristo. 20Segundo a minha viva expectativa e a minha esperança, não terei de corar de vergonha. Se a minha firmeza continuar total, como sempre, então Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte. 21Pois, para mim, o viver é Cristo e o morrer é lucro. 22Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso não sei o que escolher. 23Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo – o que para mim seria de longe o melhor -, 24mas para vós é mais necessário que eu continue minha vida neste mundo. 25Por isso, sei com certeza que vou ficar e continuar com vós todos, para que possais progredir e alegrar-vos na fé. 26Assim, com a minha volta para junto de vós, vai aumentar ainda a razão de vos gloriardes em Cristo Jesus."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
