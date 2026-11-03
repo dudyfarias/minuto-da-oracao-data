@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "oracao": {
-    "titulo": "Oração pela paz",
-    "texto": "Senhor da paz, em um mundo tão agitado e cheio de conflitos, concede-nos a Tua paz. Que ela comece em nossos corações e se espalhe para as nossas famílias, comunidades e nações.",
-    "reflexao": "A paz verdadeira não é a ausência de conflitos, mas a presença de Deus em meio às tempestades da vida.",
-    "versiculo": "João 14,27 — Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá."
+    "titulo": "Oração pela família",
+    "texto": "Deus de amor, abençoa a minha família. Protege cada membro, fortalece nossos laços e cura nossas feridas. Que o nosso lar seja um lugar de amor, perdão e fé.",
+    "reflexao": "A família é a primeira escola de fé. É no lar que aprendemos a amar, perdoar e crescer juntos.",
+    "versiculo": "Josué 24,15 — Eu e a minha casa serviremos ao Senhor."
   },
   "santo": {
-    "nome": "Finados",
-    "titulo": "Comemoração",
-    "resumo": "Dia de oração pelas almas do Purgatório.",
-    "historia": "Dia de oração pelas almas do Purgatório.\n\nFinados é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Finados nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Finados, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Martinho de Porres",
+    "titulo": "Dominicano",
+    "resumo": "Frade mulato peruano que serviu os pobres.",
+    "historia": "Frade mulato peruano que serviu os pobres.\n\nSão Martinho de Porres é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Martinho de Porres nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Martinho de Porres, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela paz — Oração do Dia | Minuto da Oração",
-      "description": "Senhor da paz, em um mundo tão agitado e cheio de conflitos, concede-nos a Tua paz. Que ela comece em nossos corações e se espalhe para as nossas...",
-      "og_title": "Oração pela paz",
+      "title": "Oração pela família — Oração do Dia | Minuto da Oração",
+      "description": "Deus de amor, abençoa a minha família. Protege cada membro, fortalece nossos laços e cura nossas feridas. Que o nosso lar seja um lugar de amor, perdão e...",
+      "og_title": "Oração pela família",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-02"
+      "date": "2026-11-03"
     },
     "santo": {
-      "title": "Finados — Santo do Dia | Minuto da Oração",
-      "description": "Dia de oração pelas almas do Purgatório.",
-      "og_title": "Finados — Comemoração",
+      "title": "São Martinho de Porres — Santo do Dia | Minuto da Oração",
+      "description": "Frade mulato peruano que serviu os pobres.",
+      "og_title": "São Martinho de Porres — Dominicano",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-02"
+      "date": "2026-11-03"
     }
   }
 }
