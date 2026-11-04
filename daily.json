@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "oracao": {
-    "titulo": "Oração pela família",
-    "texto": "Deus de amor, abençoa a minha família. Protege cada membro, fortalece nossos laços e cura nossas feridas. Que o nosso lar seja um lugar de amor, perdão e fé.",
-    "reflexao": "A família é a primeira escola de fé. É no lar que aprendemos a amar, perdoar e crescer juntos.",
-    "versiculo": "Josué 24,15 — Eu e a minha casa serviremos ao Senhor."
+    "titulo": "Oração de confiança",
+    "texto": "Senhor, quando o medo e a dúvida tentam dominar meu coração, lembra-me de que Tu estás no controle. Ajuda-me a confiar nos Teus planos, mesmo quando não consigo entendê-los.",
+    "reflexao": "Confiar em Deus não significa entender tudo, mas crer que Ele sabe o que faz, mesmo quando o caminho parece incerto.",
+    "versiculo": "Provérbios 3,5-6 — Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."
   },
   "santo": {
-    "nome": "São Martinho de Porres",
-    "titulo": "Dominicano",
-    "resumo": "Frade mulato peruano que serviu os pobres.",
-    "historia": "Frade mulato peruano que serviu os pobres.\n\nSão Martinho de Porres é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Martinho de Porres nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Martinho de Porres, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Carlos Borromeu",
+    "titulo": "Arcebispo",
+    "resumo": "Grande reformador da Igreja.",
+    "historia": "Grande reformador da Igreja.\n\nSão Carlos Borromeu é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Carlos Borromeu nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Carlos Borromeu, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela família — Oração do Dia | Minuto da Oração",
-      "description": "Deus de amor, abençoa a minha família. Protege cada membro, fortalece nossos laços e cura nossas feridas. Que o nosso lar seja um lugar de amor, perdão e...",
-      "og_title": "Oração pela família",
+      "title": "Oração de confiança — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, quando o medo e a dúvida tentam dominar meu coração, lembra-me de que Tu estás no controle. Ajuda-me a confiar nos Teus planos, mesmo quando não...",
+      "og_title": "Oração de confiança",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     "santo": {
-      "title": "São Martinho de Porres — Santo do Dia | Minuto da Oração",
-      "description": "Frade mulato peruano que serviu os pobres.",
-      "og_title": "São Martinho de Porres — Dominicano",
+      "title": "São Carlos Borromeu — Santo do Dia | Minuto da Oração",
+      "description": "Grande reformador da Igreja.",
+      "og_title": "São Carlos Borromeu — Arcebispo",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     }
   }
 }
