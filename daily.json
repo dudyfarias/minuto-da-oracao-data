@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "oracao": {
-    "titulo": "Oração pela sabedoria",
-    "texto": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da justiça.",
-    "reflexao": "A sabedoria divina não se encontra nos livros, mas no coração humilde que busca a Deus em oração.",
-    "versiculo": "Tiago 1,5 — Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente."
+    "titulo": "Oração pelos jovens",
+    "texto": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e força para resistir ao mal.",
+    "reflexao": "Os jovens são o presente e o futuro da Igreja. Precisamos orar por eles e com eles.",
+    "versiculo": "1 Timóteo 4,12 — Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis."
   },
   "santo": {
-    "nome": "Dedicação de São João de Latrão",
-    "titulo": "Festa",
-    "resumo": "Catedral do Papa.",
-    "historia": "Catedral do Papa.\n\nDedicação de São João de Latrão é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Dedicação de São João de Latrão nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Dedicação de São João de Latrão, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Leão Magno",
+    "titulo": "Papa e Doutor",
+    "resumo": "Papa que enfrentou Átila.",
+    "historia": "Papa que enfrentou Átila.\n\nSão Leão Magno é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Leão Magno nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Leão Magno, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela sabedoria — Oração do Dia | Minuto da Oração",
-      "description": "Deus de toda sabedoria, concede-me discernimento para tomar as decisões certas. Ilumina a minha mente e guia os meus passos pelo caminho da verdade e da...",
-      "og_title": "Oração pela sabedoria",
+      "title": "Oração pelos jovens — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e...",
+      "og_title": "Oração pelos jovens",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-09"
+      "date": "2026-11-10"
     },
     "santo": {
-      "title": "Dedicação de São João de Latrão — Santo do Dia | Minuto da Oração",
-      "description": "Catedral do Papa.",
-      "og_title": "Dedicação de São João de Latrão — Festa",
+      "title": "São Leão Magno — Santo do Dia | Minuto da Oração",
+      "description": "Papa que enfrentou Átila.",
+      "og_title": "São Leão Magno — Papa e Doutor",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-09"
+      "date": "2026-11-10"
     }
   }
 }
