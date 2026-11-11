@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "oracao": {
-    "titulo": "Oração pelos jovens",
-    "texto": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e força para resistir ao mal.",
-    "reflexao": "Os jovens são o presente e o futuro da Igreja. Precisamos orar por eles e com eles.",
-    "versiculo": "1 Timóteo 4,12 — Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis."
+    "titulo": "Oração pela noite",
+    "texto": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas forças para o dia de amanhã.",
+    "reflexao": "O momento antes de dormir é ideal para fazer um exame de consciência e entregar o dia a Deus.",
+    "versiculo": "Salmo 4,8 — Em paz me deito e logo adormeço, porque só Tu, Senhor, me fazes repousar seguro."
   },
   "santo": {
-    "nome": "São Leão Magno",
-    "titulo": "Papa e Doutor",
-    "resumo": "Papa que enfrentou Átila.",
-    "historia": "Papa que enfrentou Átila.\n\nSão Leão Magno é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Leão Magno nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Leão Magno, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Martinho de Tours",
+    "titulo": "Bispo",
+    "resumo": "Soldado que dividiu o manto com um pobre.",
+    "historia": "Soldado que dividiu o manto com um pobre.\n\nSão Martinho de Tours é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Martinho de Tours nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Martinho de Tours, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelos jovens — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, protege a juventude. Em um mundo cheio de distrações e tentações, guia os jovens pelo caminho da fé. Dá-lhes coragem para fazer escolhas sábias e...",
-      "og_title": "Oração pelos jovens",
+      "title": "Oração pela noite — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ao final deste dia, entrego-Te tudo o que vivi. As alegrias e as tristezas, os acertos e os erros. Concede-me um sono tranquilo e renova as minhas...",
+      "og_title": "Oração pela noite",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     "santo": {
-      "title": "São Leão Magno — Santo do Dia | Minuto da Oração",
-      "description": "Papa que enfrentou Átila.",
-      "og_title": "São Leão Magno — Papa e Doutor",
+      "title": "São Martinho de Tours — Santo do Dia | Minuto da Oração",
+      "description": "Soldado que dividiu o manto com um pobre.",
+      "og_title": "São Martinho de Tours — Bispo",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     }
   }
 }
