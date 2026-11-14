@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "oracao": {
-    "titulo": "Oração pela esperança",
-    "texto": "Deus de esperança, quando o desânimo bater à minha porta, renova em mim a certeza de que Tu tens um plano. Ajuda-me a ver além das dificuldades e a caminhar com esperança.",
-    "reflexao": "A esperança cristã não é otimismo vazio, mas a confiança firme de que Deus está agindo mesmo no silêncio.",
-    "versiculo": "Romanos 15,13 — Que o Deus da esperança vos encha de toda a alegria e paz na fé."
+    "titulo": "Oração pelo próximo",
+    "texto": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor para todos ao meu redor.",
+    "reflexao": "Amar o próximo é a segunda maior lei. Não é apenas um sentimento, mas uma decisão diária.",
+    "versiculo": "Mateus 25,40 — O que fizestes a um destes meus pequeninos irmãos, a mim o fizestes."
   },
   "santo": {
-    "nome": "Santa Francisca Xavier Cabrini",
-    "titulo": "Missionária",
-    "resumo": "Primeira santa americana.",
-    "historia": "Primeira santa americana.\n\nSanta Francisca Xavier Cabrini é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Francisca Xavier Cabrini nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Francisca Xavier Cabrini, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Serapião",
+    "titulo": "Mártir",
+    "resumo": "Religioso mercedário martirizado.",
+    "historia": "Religioso mercedário martirizado.\n\nSão Serapião é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Serapião nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Serapião, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela esperança — Oração do Dia | Minuto da Oração",
-      "description": "Deus de esperança, quando o desânimo bater à minha porta, renova em mim a certeza de que Tu tens um plano. Ajuda-me a ver além das dificuldades e a...",
-      "og_title": "Oração pela esperança",
+      "title": "Oração pelo próximo — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, abre os meus olhos para ver as necessidades do próximo. Dá-me um coração generoso e mãos dispostas a servir. Que eu seja instrumento do Teu amor...",
+      "og_title": "Oração pelo próximo",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-13"
+      "date": "2026-11-14"
     },
     "santo": {
-      "title": "Santa Francisca Xavier Cabrini — Santo do Dia | Minuto da Oração",
-      "description": "Primeira santa americana.",
-      "og_title": "Santa Francisca Xavier Cabrini — Missionária",
+      "title": "São Serapião — Santo do Dia | Minuto da Oração",
+      "description": "Religioso mercedário martirizado.",
+      "og_title": "São Serapião — Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-13"
+      "date": "2026-11-14"
     }
   }
 }
