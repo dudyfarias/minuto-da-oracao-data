@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "oracao": {
-    "titulo": "Oração pelo Brasil",
-    "texto": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país mais justo e fraterno.",
-    "reflexao": "Orar pela nação é um dever de todo cristão. O Brasil precisa das nossas orações e do nosso empenho por um futuro melhor.",
-    "versiculo": "Jeremias 29,7 — Buscai a paz da cidade para onde vos deportei e orai por ela ao Senhor."
+    "titulo": "Oração pela vocação",
+    "texto": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a qual fui criado.",
+    "reflexao": "Cada pessoa tem uma vocação única. Descobri-la é encontrar o sentido mais profundo da vida.",
+    "versiculo": "Jeremias 1,5 — Antes que Eu te formasse no ventre materno, Eu te conheci."
   },
   "santo": {
-    "nome": "Santa Matilde de Hackeborn",
-    "titulo": "Mística",
-    "resumo": "Religiosa beneditina mística.",
-    "historia": "Religiosa beneditina mística.\n\nSanta Matilde de Hackeborn é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Matilde de Hackeborn nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Matilde de Hackeborn, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Edmundo",
+    "titulo": "Rei e Mártir",
+    "resumo": "Rei martirizado pelos vikings.",
+    "historia": "Rei martirizado pelos vikings.\n\nSão Edmundo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Edmundo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Edmundo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pelo Brasil — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, abençoa o Brasil e todos os brasileiros. Concede sabedoria aos governantes, justiça ao povo e paz a esta nação. Que possamos construir um país...",
-      "og_title": "Oração pelo Brasil",
+      "title": "Oração pela vocação — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a...",
+      "og_title": "Oração pela vocação",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     "santo": {
-      "title": "Santa Matilde de Hackeborn — Santo do Dia | Minuto da Oração",
-      "description": "Religiosa beneditina mística.",
-      "og_title": "Santa Matilde de Hackeborn — Mística",
+      "title": "São Edmundo — Santo do Dia | Minuto da Oração",
+      "description": "Rei martirizado pelos vikings.",
+      "og_title": "São Edmundo — Rei e Mártir",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     }
   }
 }

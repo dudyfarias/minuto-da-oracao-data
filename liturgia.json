@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-19",
-  "data_extenso": "19 de novembro de 2026",
-  "liturgia": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires, Memória",
-  "cor": "Vermelho",
+  "date": "2026-11-20",
+  "data_extenso": "20 de novembro de 2026",
+  "liturgia": "6ª feira da 33ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 19,41-44",
+    "referencia": "Lc 19,45-48",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 41quando Jesus se aproximou de Jerusalém e viu a cidade, começou a chorar. E disse: 42“Se tu também compreendesses hoje o que te pode trazer a paz! Agora, porém, isso está escondido aos teus olhos! 43Dias virão em que os inimigos farão trincheiras contra ti e te cercarão de todos os lados. 44Eles esmagarão a ti e a teus filhos. E não deixarão em ti pedra sobre pedra. Porque tu não reconheceste o tempo em que foste visitada”."
+    "texto": "Naquele tempo, 45Jesus entrou no templo e começou a expulsar os vendedores. 46E disse: “Está escrito: ‘Minha casa será casa de oração’. No entanto, vós fizestes dela um antro de ladrões”. 47Jesus ensinava todos os dias no templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo. 48Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
   },
   "salmo": {
-    "referencia": "Sl 149",
+    "referencia": "Sl 118(119)",
     "titulo": "",
-    "texto": "– Cantai ao Senhor Deus um canto novo e o seu louvor na assembleia dos fiéis! Alegre-se Israel em quem o fez, e Sião se rejubile no seu rei!\n– Com danças glorifiquem o seu nome, toquem harpa e tambor em sua honra! Porque, de fato, o Senhor ama seu povo e coroa com vitória os seus humildes.\n– Exultem os fiéis por sua glória e, cantando, se levantem de seus leitos, com louvores do Senhor em sua boca. Eis a glória para todos os seus santos.",
-    "refrao": "Fizestes de nós, para Deus, sacerdotes e povo de reis."
+    "texto": "– Seguindo vossa lei, me rejubilo muito mais do que em todas as riquezas.\n– Minha alegria é a vossa Aliança, meus conselheiros são os vossos mandamentos.\n– A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– Como é doce ao paladar vossa Palavra, muito mais doce do que o mel na minha boca!\n– Vossa Palavra é minha herança para sempre, porque ela é que me alegra o coração!\n– Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos.",
+    "refrao": "Como é doce ao paladar vossa Palavra, ó Senhor."
   },
   "primeira_leitura": {
-    "referencia": "Ap 5,1-10",
+    "referencia": "Ap 10,8-11",
     "titulo": "Leitura do livro do Apocalipse de São João",
-    "texto": "Eu, João, 1vi um livro na mão direita daquele que estava sentado no trono. Era um rolo escrito por dentro e por fora, e estava lacrado com sete selos. 2Vi então um anjo forte, que proclamava em voz alta: “Quem é digno de romper os selos e abrir o livro?” 3Ninguém no céu, nem na terra, nem debaixo da terra era digno de abrir o livro ou de ler o que nele estava escrito. 4Eu chorava muito, porque ninguém foi considerado digno de abrir ou de ler o livro. 5Um dos anciãos me consolou: “Não chores! Eis que o Leão da tribo de Judá, o Rebento de Davi, saiu vencedor. Ele pode romper os selos e abrir o livro”. 6De fato, vi um Cordeiro. Estava no centro do trono e dos quatro seres vivos, no meio dos anciãos. Estava de pé, como que imolado. O Cordeiro tinha sete chifres e sete olhos, que são os sete Espíritos de Deus, enviados por toda a terra. 7Então, o Cordeiro veio receber o livro da mão direita daquele que está sentado no trono. 8Quando ele recebeu o livro, os quatro seres vivos e os vinte e quatro anciãos prostraram-se diante do Cordeiro. Todos tinham harpas e taças de ouro cheias de incenso, que são as orações dos santos. 9E entoaram um cântico novo: “Tu és digno de receber o livro e abrir seus selos, porque foste imolado e, com teu sangue, adquiriste para Deus homens de toda tribo, língua, povo e nação. 10Deles fizeste para o nosso Deus um reino de sacerdotes. E eles reinarão sobre a terra”."
+    "texto": "8Aquela mesma voz do céu que eu, João, já tinha ouvido tornou a falar comigo: “Vai, pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra”. 9Eu fui até o anjo e pedi que me entregasse o livrinho. Ele me falou: “Pega e come. Será amargo no estômago, mas na tua boca será doce como mel”. 10Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas, quando o engoli, meu estômago tornou-se amargo. 11Então ele me disse: “Deves profetizar ainda contra outros povos e nações, línguas e reis”."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
