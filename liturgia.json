@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-20",
-  "data_extenso": "20 de novembro de 2026",
-  "liturgia": "6ª feira da 33ª Semana do Tempo Comum",
-  "cor": "Verde",
+  "date": "2026-11-21",
+  "data_extenso": "21 de novembro de 2026",
+  "liturgia": "Apresentação da Bem-aventurada Virgem Maria, Memória",
+  "cor": "Branco",
   "evangelho": {
-    "referencia": "Lc 19,45-48",
-    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 45Jesus entrou no templo e começou a expulsar os vendedores. 46E disse: “Está escrito: ‘Minha casa será casa de oração’. No entanto, vós fizestes dela um antro de ladrões”. 47Jesus ensinava todos os dias no templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo. 48Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
+    "referencia": "Mt 12, 46-50",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+    "texto": "Naquele tempo, 46enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele. 47Alguém disse a Jesus: “Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo”. 48Jesus perguntou àquele que tinha falado: “Quem é minha mãe, e quem são meus irmãos?” 49E, estendendo a mão para os discípulos, Jesus disse: “Eis minha mãe e meus irmãos. 50Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe”."
   },
   "salmo": {
-    "referencia": "Sl 118(119)",
+    "referencia": "Lc 1, 46-55",
     "titulo": "",
-    "texto": "– Seguindo vossa lei, me rejubilo muito mais do que em todas as riquezas.\n– Minha alegria é a vossa Aliança, meus conselheiros são os vossos mandamentos.\n– A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– Como é doce ao paladar vossa Palavra, muito mais doce do que o mel na minha boca!\n– Vossa Palavra é minha herança para sempre, porque ela é que me alegra o coração!\n– Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos.",
-    "refrao": "Como é doce ao paladar vossa Palavra, ó Senhor."
+    "texto": "— A minh’alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu Salvador, \n— pois ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas e Santo é o seu nome. \n— Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos. \n— Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos. \n— Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre",
+    "refrao": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
   },
   "primeira_leitura": {
-    "referencia": "Ap 10,8-11",
-    "titulo": "Leitura do livro do Apocalipse de São João",
-    "texto": "8Aquela mesma voz do céu que eu, João, já tinha ouvido tornou a falar comigo: “Vai, pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra”. 9Eu fui até o anjo e pedi que me entregasse o livrinho. Ele me falou: “Pega e come. Será amargo no estômago, mas na tua boca será doce como mel”. 10Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas, quando o engoli, meu estômago tornou-se amargo. 11Então ele me disse: “Deves profetizar ainda contra outros povos e nações, línguas e reis”."
+    "referencia": "Zc 2, 14-17",
+    "titulo": "Leitura da Profecia de Zacarias",
+    "texto": "14“Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. 15Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti. 16O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém. 17Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação.”"
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"

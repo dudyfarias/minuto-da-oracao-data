@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "oracao": {
-    "titulo": "Oração pela vocação",
-    "texto": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a qual fui criado.",
-    "reflexao": "Cada pessoa tem uma vocação única. Descobri-la é encontrar o sentido mais profundo da vida.",
-    "versiculo": "Jeremias 1,5 — Antes que Eu te formasse no ventre materno, Eu te conheci."
+    "titulo": "Oração de coragem",
+    "texto": "Senhor, dá-me coragem para enfrentar os desafios deste dia. Quando o medo quiser me paralisar, lembra-me de que Tu estás comigo. Com a Tua força, posso tudo.",
+    "reflexao": "A coragem cristã não é a ausência de medo, mas a decisão de agir apesar dele, confiando em Deus.",
+    "versiculo": "Isaías 41,10 — Não temas, porque Eu sou contigo; não te assombres, porque Eu sou o teu Deus."
   },
   "santo": {
-    "nome": "São Edmundo",
-    "titulo": "Rei e Mártir",
-    "resumo": "Rei martirizado pelos vikings.",
-    "historia": "Rei martirizado pelos vikings.\n\nSão Edmundo é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Edmundo nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó São Edmundo, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "Apresentação de Nossa Senhora",
+    "titulo": "Memória",
+    "resumo": "Apresentação de Maria ao Templo.",
+    "historia": "Apresentação de Maria ao Templo.\n\nApresentação de Nossa Senhora é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Apresentação de Nossa Senhora nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó Apresentação de Nossa Senhora, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela vocação — Oração do Dia | Minuto da Oração",
-      "description": "Senhor, ajuda-me a descobrir e viver a vocação que Tu tens para mim. Seja no matrimônio, na vida consagrada ou no serviço, que eu cumpra a missão para a...",
-      "og_title": "Oração pela vocação",
+      "title": "Oração de coragem — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, dá-me coragem para enfrentar os desafios deste dia. Quando o medo quiser me paralisar, lembra-me de que Tu estás comigo. Com a Tua força, posso...",
+      "og_title": "Oração de coragem",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-20"
+      "date": "2026-11-21"
     },
     "santo": {
-      "title": "São Edmundo — Santo do Dia | Minuto da Oração",
-      "description": "Rei martirizado pelos vikings.",
-      "og_title": "São Edmundo — Rei e Mártir",
+      "title": "Apresentação de Nossa Senhora — Santo do Dia | Minuto da Oração",
+      "description": "Apresentação de Maria ao Templo.",
+      "og_title": "Apresentação de Nossa Senhora — Memória",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-20"
+      "date": "2026-11-21"
     }
   }
 }
