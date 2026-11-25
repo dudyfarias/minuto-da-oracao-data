@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-24",
-  "data_extenso": "24 de novembro de 2026",
-  "liturgia": "Santo André Dung-Lac, presbítero, e companheiros mártires, Memória",
-  "cor": "Vermelho",
+  "date": "2026-11-25",
+  "data_extenso": "25 de novembro de 2026",
+  "liturgia": "4ª feira da 34ª Semana do Tempo Comum",
+  "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 21,5-11",
+    "referencia": "Lc 21,12-19",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 5algumas pessoas comentavam a respeito do templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse: 6“Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído”. 7Mas eles perguntaram: “Mestre, quando acontecerá isso? E qual vai ser o sinal de que essas coisas estão para acontecer?” 8Jesus respondeu: “Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: ‘Sou eu!’ E ainda: ‘O tempo está próximo’. Não sigais essa gente! 9Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que essas coisas aconteçam primeiro, mas não será logo o fim”. 10E Jesus continuou: “Um povo se levantará contra outro povo, um país atacará outro país. 11Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu”."
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 12“Antes que essas coisas aconteçam, sereis presos e perseguidos; sereis entregues às sinagogas e postos na prisão; sereis levados diante de reis e governadores por causa do meu nome. 13Essa será a ocasião em que testemunhareis a vossa fé. 14Fazei o firme propósito de não planejar com antecedência a própria defesa; 15porque eu vos darei palavras tão acertadas, que nenhum dos inimigos vos poderá resistir ou rebater. 16Sereis entregues até mesmo pelos próprios pais, irmãos, parentes e amigos. E eles matarão alguns de vós. 17Todos vos odiarão por causa do meu nome. 18Mas vós não perdereis um só fio de cabelo da vossa cabeça. 19É permanecendo firmes que ireis ganhar a vida!”"
   },
   "salmo": {
-    "referencia": "Sl 95(96)",
+    "referencia": "Sl 97(98)",
     "titulo": "",
-    "texto": "– Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável, e os povos ele julga com justiça.\n– O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem, e exultem as florestas e as matas.\n– Na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça e os povos julgará com lealdade.",
-    "refrao": "O Senhor vem julgar nossa terra."
+    "texto": "– Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n– O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel.\n– Aplauda o mar com todo ser que nele vive, o mundo inteiro e toda gente! As montanhas e os rios batam palmas e exultem de alegria.\n– Na presença do Senhor, pois ele vem, vem julgar a terra inteira. Julgará o universo com justiça e as nações com equidade.",
+    "refrao": "Como são grandes e admiráveis vossas obras, ó Senhor e nosso Deus onipotente!"
   },
   "primeira_leitura": {
-    "referencia": "Ap 14,14-19",
+    "referencia": "Ap 15,1-4",
     "titulo": "Leitura do livro do Apocalipse de São João",
-    "texto": "Eu, João, 14na minha visão, vi uma nuvem branca e, sentado na nuvem, alguém que parecia um “filho de homem”. Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada. 15Saiu do templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: “Lança tua foice e ceifa. Chegou a hora da colheita. A seara da terra está madura!” 16E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada. 17Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada. 18E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: “Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras”. 19E o anjo lançou a foice afiada na terra e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus."
+    "texto": "Eu, João, 1vi no céu outro sinal, grande e admirável: sete anjos, com as sete últimas pragas. Com elas o furor de Deus ia-se consumar. 2Vi também como que um mar de vidro misturado com fogo. Sobre esse mar estavam, de pé, todos aqueles que saíram vitoriosos do confronto com a besta, com a imagem dela e com o número do nome da besta. Seguravam as harpas de Deus. 3Entoavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, dizendo: “Grandes e admiráveis são as tuas obras, Senhor Deus, todo-poderoso! Justos e verdadeiros são os teus caminhos, ó rei das nações! 4Quem não temeria, Senhor, e não glorificaria o teu nome? Só tu és santo! Todas as nações virão prostrar-se diante de ti, porque tuas justas decisões se tornaram manifestas”."
   },
   "segunda_leitura": null,
   "fonte": "https://liturgia.up.railway.app/v2/"
