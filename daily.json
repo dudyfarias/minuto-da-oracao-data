@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "oracao": {
-    "titulo": "Oração pela criação",
-    "texto": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações futuras.",
-    "reflexao": "Somos guardiões da criação de Deus. Cuidar da natureza é uma forma de agradecer ao Criador.",
-    "versiculo": "Gênesis 2,15 — O Senhor Deus tomou o homem e o colocou no jardim do Éden para cultivá-lo e guardá-lo."
+    "titulo": "Oração de perseverança",
+    "texto": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos que Tu colocaste em meu coração.",
+    "reflexao": "A perseverança é uma virtude essencial na vida cristã. Os grandes santos foram aqueles que nunca desistiram.",
+    "versiculo": "Gálatas 6,9 — Não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos."
   },
   "santo": {
-    "nome": "Santa Catarina de Alexandria",
-    "titulo": "Virgem e Mártir",
-    "resumo": "Patrona dos filósofos.",
-    "historia": "Patrona dos filósofos.\n\nSanta Catarina de Alexandria é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a Santa Catarina de Alexandria nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
-    "oracao": "Ó Santa Catarina de Alexandria, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
+    "nome": "São Leonardo de Porto Maurício",
+    "titulo": "Franciscano",
+    "resumo": "Difundiu a Via Sacra.",
+    "historia": "Difundiu a Via Sacra.\n\nSão Leonardo de Porto Maurício é celebrado(a) neste dia pela Igreja Católica. Sua vida é um exemplo de fé, esperança e caridade que continua a inspirar fiéis em todo o mundo.\n\nA devoção a São Leonardo de Porto Maurício nos convida a refletir sobre o chamado à santidade presente na vida de cada cristão.",
+    "oracao": "Ó São Leonardo de Porto Maurício, rogai por nós e intercedei junto a Deus por todas as nossas intenções. Que o vosso exemplo de santidade nos inspire a viver com mais fé e amor. Amém."
   },
   "meta": {
     "oracao": {
-      "title": "Oração pela criação — Oração do Dia | Minuto da Oração",
-      "description": "Senhor Criador, obrigado pela beleza do mundo que nos deste. Ajuda-nos a cuidar da criação como bons administradores, preservando-a para as gerações...",
-      "og_title": "Oração pela criação",
+      "title": "Oração de perseverança — Oração do Dia | Minuto da Oração",
+      "description": "Senhor, dá-me força para perseverar. Quando a caminhada parecer longa demais e as forças faltarem, renova o meu ânimo. Ajuda-me a não desistir dos sonhos...",
+      "og_title": "Oração de perseverança",
       "url": "https://minutodaoracao.com.br/oracao-do-dia/",
-      "date": "2026-11-25"
+      "date": "2026-11-26"
     },
     "santo": {
-      "title": "Santa Catarina de Alexandria — Santo do Dia | Minuto da Oração",
-      "description": "Patrona dos filósofos.",
-      "og_title": "Santa Catarina de Alexandria — Virgem e Mártir",
+      "title": "São Leonardo de Porto Maurício — Santo do Dia | Minuto da Oração",
+      "description": "Difundiu a Via Sacra.",
+      "og_title": "São Leonardo de Porto Maurício — Franciscano",
       "url": "https://minutodaoracao.com.br/santo-do-dia/",
-      "date": "2026-11-25"
+      "date": "2026-11-26"
     }
   }
 }
